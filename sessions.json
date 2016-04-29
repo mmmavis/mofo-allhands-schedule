@@ -5,8 +5,11 @@
             "day": "Monday", 
             "description": "", 
             "etherpad slug": "mofolondon-welcomereception", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "facilitator_array": [
+                "facilitator 2", 
+                "facilitator #1"
+            ], 
+            "facilitators": "facilitator 2, facilitator #1", 
             "id": "1", 
             "location": "Main Ballroom", 
             "start": "06:00 PM", 
@@ -19,8 +22,11 @@
             "day": "Tuesday", 
             "description": "", 
             "etherpad slug": "mofolondon-breakfastncoffeeinhotels", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "facilitator_array": [
+                "facilitator 2", 
+                "facilitator #1"
+            ], 
+            "facilitators": "facilitator 2, facilitator #1", 
             "id": "2", 
             "location": "Hotel Restaurant", 
             "start": "07:00 AM", 
@@ -33,8 +39,11 @@
             "day": "Tuesday", 
             "description": "", 
             "etherpad slug": "mofolondon-lunch", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "facilitator_array": [
+                "facilitator 2", 
+                "facilitator #1"
+            ], 
+            "facilitators": "facilitator 2, facilitator #1", 
             "id": "3", 
             "location": "Main Ballroom", 
             "start": "11:30 AM", 
@@ -47,8 +56,11 @@
             "day": "Tuesday", 
             "description": "it's team time!!!", 
             "etherpad slug": "mofolondon-advocacyteammeetup", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "facilitator_array": [
+                "facilitator 2", 
+                "facilitator #1"
+            ], 
+            "facilitators": "facilitator 2, facilitator #1", 
             "id": "9", 
             "location": "Room 100", 
             "start": "01:00 PM", 
@@ -61,8 +73,11 @@
             "day": "Tuesday", 
             "description": "it's team time!!!", 
             "etherpad slug": "mofolondon-mlnteammeetup", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "facilitator_array": [
+                "facilitator 2", 
+                "facilitator #1"
+            ], 
+            "facilitators": "facilitator 2, facilitator #1", 
             "id": "10", 
             "location": "Room 100", 
             "start": "01:00 PM", 
@@ -75,8 +90,11 @@
             "day": "Wednesday", 
             "description": "", 
             "etherpad slug": "mofolondon-breakfastncoffeeinhotels", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "facilitator_array": [
+                "facilitator 2", 
+                "facilitator #1"
+            ], 
+            "facilitators": "facilitator 2, facilitator #1", 
             "id": "4", 
             "location": "Hotel Restaurant", 
             "start": "07:00 AM", 
@@ -89,8 +107,11 @@
             "day": "Wednesday", 
             "description": "\n", 
             "etherpad slug": "mofolondon-allmofotime", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "facilitator_array": [
+                "facilitator 2", 
+                "facilitator #1"
+            ], 
+            "facilitators": "facilitator 2, facilitator #1", 
             "id": "5", 
             "location": "Room 100", 
             "start": "09:30 AM", 
@@ -103,8 +124,11 @@
             "day": "Wednesday", 
             "description": "", 
             "etherpad slug": "mofolondon-lunch", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "facilitator_array": [
+                "facilitator 2", 
+                "facilitator #1"
+            ], 
+            "facilitators": "facilitator 2, facilitator #1", 
             "id": "6", 
             "location": "Main Ballroom", 
             "start": "11:00 AM", 
@@ -117,8 +141,11 @@
             "day": "Wednesday", 
             "description": "\n", 
             "etherpad slug": "mofolondon-allmofotime", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "facilitator_array": [
+                "facilitator 2", 
+                "facilitator #1"
+            ], 
+            "facilitators": "facilitator 2, facilitator #1", 
             "id": "7", 
             "location": "Room 100", 
             "start": "01:00 PM", 
@@ -131,8 +158,11 @@
             "day": "Wednesday", 
             "description": "", 
             "etherpad slug": "mofolondon-electivetime", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "facilitator_array": [
+                "facilitator 2", 
+                "facilitator #1"
+            ], 
+            "facilitators": "facilitator 2, facilitator #1", 
             "id": "8", 
             "location": "Room 202", 
             "start": "03:00 PM", 
@@ -145,8 +175,11 @@
             "day": "Thursday", 
             "description": "junk food partayyy", 
             "etherpad slug": "mofolondon-dinner", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "facilitator_array": [
+                "facilitator 2", 
+                "facilitator #1"
+            ], 
+            "facilitators": "facilitator 2, facilitator #1", 
             "id": "11", 
             "location": "McDonald's", 
             "start": "06:00 PM", 
@@ -159,8 +192,11 @@
             "day": "Friday", 
             "description": "", 
             "etherpad slug": "mofolondon-letsparty", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "facilitator_array": [
+                "facilitator 2", 
+                "facilitator #1"
+            ], 
+            "facilitators": "facilitator 2, facilitator #1", 
             "id": "12", 
             "location": "Main Ballroom", 
             "start": "07:00 PM", 
@@ -173,8 +209,11 @@
             "day": "Tuesday", 
             "description": "it's team time!!!", 
             "etherpad slug": "mofolondon-insightsteammeetup", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "facilitator_array": [
+                "facilitator 2", 
+                "facilitator #1"
+            ], 
+            "facilitators": "facilitator 2, facilitator #1", 
             "id": "13", 
             "location": "Room 100", 
             "start": "01:00 PM", 
