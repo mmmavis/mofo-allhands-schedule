@@ -35,12 +35,19 @@
       </nav>
     </header>
       
+    <!-- 
+  ************************************** 
+  ***** DO NOT MODIFY portion begins 
+  *****                            *****
+-->
+      
     <div class="container">
       <div class="main-heading"></div>
       <div id="schedule-controls"></div>
       <article id="schedule"></article>
     </div>
 
+    <!-- template used in the day tab view -->
     <script type="text/template" id="session-list-template">
     <div id="friday" class="schedule-tab">
     </div>
@@ -52,7 +59,7 @@
     </div>
     </script>
 
-    <!-- template used in tabs other than the search / all sessions tab view -->
+    <!-- template used in tabs other than the search(all sessions) tab view -->
     <script type="text/template" id="session-card-template">
     <div id="session-<%= sessionID %>" class="session-list-item<% if (session.category == 'Everyone') { %> session-everyone<% } %>" data-session="<%= sessionID.replace('-ghost','') %>">
       <h4><a href="#_session-<%= sessionID %>"><%= smartypants(session.title) %></a></h4>
@@ -81,7 +88,7 @@
     </div>
     </script>
 
-    <!-- template used in the search / all sessions tab view -->
+    <!-- template used in the search(all sessions) tab view -->
     <script type="text/template" id="session-list-item-template">
     <div id="session-<%= sessionID %>" class="session-list-item" data-session="<%= sessionID.replace('-ghost','') %>">
       <h4><a href="#_session-<%= sessionID %>"><%= smartypants(session.title) %></a></h4>
@@ -113,6 +120,7 @@
     </div>
     </script>
 
+    <!-- template used in the session detail view -->
     <script type="text/template" id="session-detail-template">
     <div id="session-detail-wrapper">
       <a id="show-full-schedule" href="/">Back to full schedule</a>
@@ -141,6 +149,11 @@
           <% if (session.facilitators) { %>
           <div class="session-facilitators">
             <% session.facilitator_array.forEach(function(facilitator, index) { %><% if (index > 0) { %>, <br><% } %><%= facilitator.name %><% if (facilitator.twitter) { %> <a href="https://twitter.com/<%= facilitator.twitter %>"><%= facilitator.twitter %></a><% } %><% if (facilitator.description.length>0) { %>, <%= facilitator.description %><% } %><% }) %>
+          </div>
+          <% } %>
+          <% if (session['etherpad slug']) { %>
+          <div class="session-etherpad">
+            <a href="https://public.etherpad-mozilla.org/p/<%= session['etherpad slug'] %>" class="btn">Photos & Notes</a>
           </div>
           <% } %>
         </div>
@@ -181,6 +194,12 @@
       </div>
       <% } %>
     </script>
+
+<!-- 
+  *****                            *****
+  ***** DO NOT MODIFY portion ends *****
+  ************************************** 
+-->
 
     <script src="https://mozilla.github.io/schedule-app-core/js/jquery-2.1.0.min.js"></script>
     <script src="https://mozilla.github.io/schedule-app-core/js/underscore-min.js"></script>
