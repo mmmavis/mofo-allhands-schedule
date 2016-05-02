@@ -1,15 +1,12 @@
 {
     "sessions": [
         {
-            "category": "2016 London", 
+            "category": "2016 Hawaii", 
             "day": "Monday", 
             "description": "", 
-            "etherpad slug": "mofolondon-welcomereception", 
-            "facilitator_array": [
-                "facilitator 2", 
-                "facilitator #1"
-            ], 
-            "facilitators": "facilitator 2, facilitator #1", 
+            "etherpad slug": "mofohawaii-welcomereception", 
+            "facilitator_array": [], 
+            "facilitators": "", 
             "id": "1", 
             "location": "Main Ballroom", 
             "start": "06:00 PM", 
@@ -18,15 +15,12 @@
             "title": "Welcome Reception"
         }, 
         {
-            "category": "2016 London", 
+            "category": "2016 Hawaii", 
             "day": "Tuesday", 
             "description": "", 
-            "etherpad slug": "mofolondon-breakfastncoffeeinhotels", 
-            "facilitator_array": [
-                "facilitator 2", 
-                "facilitator #1"
-            ], 
-            "facilitators": "facilitator 2, facilitator #1", 
+            "etherpad slug": "mofohawaii-breakfastncoffeeinhotels", 
+            "facilitator_array": [], 
+            "facilitators": "", 
             "id": "2", 
             "location": "Hotel Restaurant", 
             "start": "07:00 AM", 
@@ -35,15 +29,12 @@
             "title": "Breakfast n' coffee in hotels"
         }, 
         {
-            "category": "2016 London", 
+            "category": "2016 Hawaii", 
             "day": "Tuesday", 
             "description": "", 
-            "etherpad slug": "mofolondon-lunch", 
-            "facilitator_array": [
-                "facilitator 2", 
-                "facilitator #1"
-            ], 
-            "facilitators": "facilitator 2, facilitator #1", 
+            "etherpad slug": "mofohawaii-lunch", 
+            "facilitator_array": [], 
+            "facilitators": "", 
             "id": "3", 
             "location": "Main Ballroom", 
             "start": "11:30 AM", 
@@ -52,15 +43,12 @@
             "title": "Lunch"
         }, 
         {
-            "category": "2016 London", 
+            "category": "2016 Hawaii", 
             "day": "Tuesday", 
             "description": "it's team time!!!", 
-            "etherpad slug": "mofolondon-advocacyteammeetup", 
-            "facilitator_array": [
-                "facilitator 2", 
-                "facilitator #1"
-            ], 
-            "facilitators": "facilitator 2, facilitator #1", 
+            "etherpad slug": "mofohawaii-advocacyteammeetup", 
+            "facilitator_array": [], 
+            "facilitators": "", 
             "id": "9", 
             "location": "Room 100", 
             "start": "01:00 PM", 
@@ -69,15 +57,12 @@
             "title": "Advocacy team meetup"
         }, 
         {
-            "category": "2016 London", 
+            "category": "2016 Hawaii", 
             "day": "Tuesday", 
             "description": "it's team time!!!", 
-            "etherpad slug": "mofolondon-mlnteammeetup", 
-            "facilitator_array": [
-                "facilitator 2", 
-                "facilitator #1"
-            ], 
-            "facilitators": "facilitator 2, facilitator #1", 
+            "etherpad slug": "mofohawaii-mlnteammeetup", 
+            "facilitator_array": [], 
+            "facilitators": "", 
             "id": "10", 
             "location": "Room 100", 
             "start": "01:00 PM", 
@@ -86,15 +71,12 @@
             "title": "MLN team meetup"
         }, 
         {
-            "category": "2016 London", 
+            "category": "2016 Hawaii", 
             "day": "Wednesday", 
             "description": "", 
-            "etherpad slug": "mofolondon-breakfastncoffeeinhotels", 
-            "facilitator_array": [
-                "facilitator 2", 
-                "facilitator #1"
-            ], 
-            "facilitators": "facilitator 2, facilitator #1", 
+            "etherpad slug": "mofohawaii-breakfastncoffeeinhotels", 
+            "facilitator_array": [], 
+            "facilitators": "", 
             "id": "4", 
             "location": "Hotel Restaurant", 
             "start": "07:00 AM", 
@@ -103,15 +85,12 @@
             "title": "Breakfast n' coffee in hotels"
         }, 
         {
-            "category": "2016 London", 
+            "category": "2016 Hawaii", 
             "day": "Wednesday", 
             "description": "\n", 
-            "etherpad slug": "mofolondon-allmofotime", 
-            "facilitator_array": [
-                "facilitator 2", 
-                "facilitator #1"
-            ], 
-            "facilitators": "facilitator 2, facilitator #1", 
+            "etherpad slug": "mofohawaii-allmofotime", 
+            "facilitator_array": [], 
+            "facilitators": "", 
             "id": "5", 
             "location": "Room 100", 
             "start": "09:30 AM", 
@@ -120,15 +99,12 @@
             "title": "All Mofo time"
         }, 
         {
-            "category": "2016 London", 
+            "category": "2016 Hawaii", 
             "day": "Wednesday", 
             "description": "", 
-            "etherpad slug": "mofolondon-lunch", 
-            "facilitator_array": [
-                "facilitator 2", 
-                "facilitator #1"
-            ], 
-            "facilitators": "facilitator 2, facilitator #1", 
+            "etherpad slug": "mofohawaii-lunch", 
+            "facilitator_array": [], 
+            "facilitators": "", 
             "id": "6", 
             "location": "Main Ballroom", 
             "start": "11:00 AM", 
@@ -137,15 +113,12 @@
             "title": "Lunch"
         }, 
         {
-            "category": "2016 London", 
+            "category": "2016 Hawaii", 
             "day": "Wednesday", 
             "description": "\n", 
-            "etherpad slug": "mofolondon-allmofotime", 
-            "facilitator_array": [
-                "facilitator 2", 
-                "facilitator #1"
-            ], 
-            "facilitators": "facilitator 2, facilitator #1", 
+            "etherpad slug": "mofohawaii-allmofotime", 
+            "facilitator_array": [], 
+            "facilitators": "", 
             "id": "7", 
             "location": "Room 100", 
             "start": "01:00 PM", 
@@ -154,15 +127,12 @@
             "title": "All Mofo time"
         }, 
         {
-            "category": "2016 London", 
+            "category": "2016 Hawaii", 
             "day": "Wednesday", 
             "description": "", 
-            "etherpad slug": "mofolondon-electivetime", 
-            "facilitator_array": [
-                "facilitator 2", 
-                "facilitator #1"
-            ], 
-            "facilitators": "facilitator 2, facilitator #1", 
+            "etherpad slug": "mofohawaii-electivetime", 
+            "facilitator_array": [], 
+            "facilitators": "", 
             "id": "8", 
             "location": "Room 202", 
             "start": "03:00 PM", 
@@ -171,15 +141,12 @@
             "title": "Elective time"
         }, 
         {
-            "category": "2016 London", 
+            "category": "2016 Hawaii", 
             "day": "Thursday", 
             "description": "junk food partayyy", 
-            "etherpad slug": "mofolondon-dinner", 
-            "facilitator_array": [
-                "facilitator 2", 
-                "facilitator #1"
-            ], 
-            "facilitators": "facilitator 2, facilitator #1", 
+            "etherpad slug": "mofohawaii-dinner", 
+            "facilitator_array": [], 
+            "facilitators": "", 
             "id": "11", 
             "location": "McDonald's", 
             "start": "06:00 PM", 
@@ -188,15 +155,12 @@
             "title": "Dinner"
         }, 
         {
-            "category": "2016 London", 
+            "category": "2016 Hawaii", 
             "day": "Friday", 
             "description": "", 
-            "etherpad slug": "mofolondon-letsparty", 
-            "facilitator_array": [
-                "facilitator 2", 
-                "facilitator #1"
-            ], 
-            "facilitators": "facilitator 2, facilitator #1", 
+            "etherpad slug": "mofohawaii-letsparty", 
+            "facilitator_array": [], 
+            "facilitators": "", 
             "id": "12", 
             "location": "Main Ballroom", 
             "start": "07:00 PM", 
@@ -205,15 +169,12 @@
             "title": "Let's Party"
         }, 
         {
-            "category": "2016 London", 
+            "category": "2016 Hawaii", 
             "day": "Tuesday", 
             "description": "it's team time!!!", 
-            "etherpad slug": "mofolondon-insightsteammeetup", 
-            "facilitator_array": [
-                "facilitator 2", 
-                "facilitator #1"
-            ], 
-            "facilitators": "facilitator 2, facilitator #1", 
+            "etherpad slug": "mofohawaii-insightsteammeetup", 
+            "facilitator_array": [], 
+            "facilitators": "", 
             "id": "13", 
             "location": "Room 100", 
             "start": "01:00 PM", 
