@@ -1,0 +1,459 @@
+{
+    "sessions": [
+        {
+            "category": "", 
+            "day": "Monday", 
+            "description": "test test 123 test test 123 test test 123 test test 123 test test 123 test test 123 test test 123 test test 123 ", 
+            "etherpad slug": "mofolondon-welcomereception", 
+            "facilitator_array": [
+                "Mavis, Mozilla Foundation, @ohmmmavis", 
+                "Mavis, Mozilla Foundation", 
+                "Mavis, @ohmmmavis"
+            ], 
+            "facilitators": "Mavis, Mavis, Mavis", 
+            "id": "101", 
+            "location": "Room TBD #1", 
+            "start": "06:00 PM", 
+            "tags": "", 
+            "timeblock": "monday-welcome-reception--monday-18-00-", 
+            "title": "Welcome Reception"
+        }, 
+        {
+            "category": "", 
+            "day": "Tuesday", 
+            "description": "", 
+            "etherpad slug": "", 
+            "facilitator_array": [], 
+            "facilitators": "", 
+            "id": "201", 
+            "location": "Room TBD #2", 
+            "start": "07:00 AM", 
+            "tags": "", 
+            "timeblock": "tuesday-breakfast--tuesday-07-00-", 
+            "title": "Breakfast"
+        }, 
+        {
+            "category": "", 
+            "day": "Tuesday", 
+            "description": "9:30 -11:30 \n\n### hello world ###", 
+            "etherpad slug": "mofolondon-plenary", 
+            "facilitator_array": [], 
+            "facilitators": "", 
+            "id": "202", 
+            "location": "Room TBD #1", 
+            "start": "09:30 AM", 
+            "tags": "\n", 
+            "timeblock": "tuesday-plenary--tuesday-09-30-", 
+            "title": "Plenary"
+        }, 
+        {
+            "category": "", 
+            "day": "Tuesday", 
+            "description": "\n", 
+            "etherpad slug": "", 
+            "facilitator_array": [], 
+            "facilitators": "", 
+            "id": "203", 
+            "location": "Room TBD #1", 
+            "start": "11:30 AM", 
+            "tags": "\n", 
+            "timeblock": "tuesday-lunch--tuesday-11-30-", 
+            "title": "Lunch"
+        }, 
+        {
+            "category": "", 
+            "day": "Tuesday", 
+            "description": "13:30 - 14:40", 
+            "etherpad slug": "mofolondon-mofoallhands", 
+            "facilitator_array": [], 
+            "facilitators": "", 
+            "id": "204", 
+            "location": "Room TBD #1", 
+            "start": "01:30 PM", 
+            "tags": "\n", 
+            "timeblock": "tuesday-mofo-all-hands-opening--tuesday-13-30-", 
+            "title": "MoFo All-hands"
+        }, 
+        {
+            "category": "", 
+            "day": "Tuesday", 
+            "description": "15-min coffee break", 
+            "etherpad slug": "", 
+            "facilitator_array": [], 
+            "facilitators": "", 
+            "id": "205", 
+            "location": "Room TBD #1", 
+            "start": "02:30 PM", 
+            "tags": "", 
+            "timeblock": "tuesday-afternoon-coffee-break--tuesday-14-30-", 
+            "title": "Afternoon Coffee Break"
+        }, 
+        {
+            "category": "", 
+            "day": "Tuesday", 
+            "description": "14:45-15:00", 
+            "etherpad slug": "mofolondon-mofoallhands", 
+            "facilitator_array": [], 
+            "facilitators": "", 
+            "id": "206", 
+            "location": "Room TBD #1", 
+            "start": "02:45 PM", 
+            "tags": "", 
+            "timeblock": "tuesday-mofo-all-hands--tuesday-14-45-", 
+            "title": "MoFo All-hands"
+        }, 
+        {
+            "category": "", 
+            "day": "Tuesday", 
+            "description": "", 
+            "etherpad slug": "mofolondon-chrisbeardandmitchellbakerinmofoplanned", 
+            "facilitator_array": [], 
+            "facilitators": "", 
+            "id": "207", 
+            "location": "Room TBD #1", 
+            "start": "03:30 PM", 
+            "tags": "", 
+            "timeblock": "tuesday-chris-beard-and-mitchell-baker-in-mofo-homeroom--tuesday-15-30-", 
+            "title": "Chris Beard and Mitchell Baker in MoFo (planned)"
+        }, 
+        {
+            "category": "", 
+            "day": "Tuesday", 
+            "description": "", 
+            "etherpad slug": "mofolondon-mofoallhands", 
+            "facilitator_array": [], 
+            "facilitators": "", 
+            "id": "208", 
+            "location": "Room TBD #1", 
+            "start": "04:00 PM", 
+            "tags": "", 
+            "timeblock": "tuesday-mofo-all-hands-2--tuesday-16-00-", 
+            "title": "MoFo All-hands"
+        }, 
+        {
+            "category": "", 
+            "day": "Tuesday", 
+            "description": "supper in London", 
+            "etherpad slug": "mofolondon-dinner", 
+            "facilitator_array": [], 
+            "facilitators": "", 
+            "id": "209", 
+            "location": "", 
+            "start": "06:00 PM", 
+            "tags": "", 
+            "timeblock": "tuesday-dinner--tuesday-18-00-", 
+            "title": "Dinner"
+        }, 
+        {
+            "category": "", 
+            "day": "Wednesday", 
+            "description": "", 
+            "etherpad slug": "", 
+            "facilitator_array": [], 
+            "facilitators": "", 
+            "id": "301", 
+            "location": "", 
+            "start": "07:00 AM", 
+            "tags": "", 
+            "timeblock": "wednesday-breakfast--wednesday-07-00-", 
+            "title": "Breakfast"
+        }, 
+        {
+            "category": "", 
+            "day": "Thursday", 
+            "description": "", 
+            "etherpad slug": "", 
+            "facilitator_array": [], 
+            "facilitators": "", 
+            "id": "401", 
+            "location": "", 
+            "start": "07:00 AM", 
+            "tags": "", 
+            "timeblock": "thursday-breakfast--thursday-07-00-", 
+            "title": "Breakfast"
+        }, 
+        {
+            "category": "", 
+            "day": "Friday", 
+            "description": "", 
+            "etherpad slug": "", 
+            "facilitator_array": [], 
+            "facilitators": "", 
+            "id": "501", 
+            "location": "", 
+            "start": "07:00 AM", 
+            "tags": "", 
+            "timeblock": "friday-breakfast--friday-07-00-", 
+            "title": "Breakfast"
+        }
+    ], 
+    "timeblocks": [
+        {
+            "day": "Tuesday", 
+            "key": "tuesday-breakfast--tuesday-07-00-", 
+            "order": 9, 
+            "start time": "07:00 ", 
+            "timeblock name": "Breakfast"
+        }, 
+        {
+            "day": "Wednesday", 
+            "key": "wednesday-breakfast--wednesday-07-00-", 
+            "order": 10, 
+            "start time": "07:00 ", 
+            "timeblock name": "Breakfast"
+        }, 
+        {
+            "day": "Thursday", 
+            "key": "thursday-breakfast--thursday-07-00-", 
+            "order": 11, 
+            "start time": "07:00 ", 
+            "timeblock name": "Breakfast"
+        }, 
+        {
+            "day": "Friday", 
+            "key": "friday-breakfast--friday-07-00-", 
+            "order": 12, 
+            "start time": "07:00 ", 
+            "timeblock name": "Breakfast"
+        }, 
+        {
+            "day": "Wednesday", 
+            "key": "wednesday-team-time--wednesday-09-00-", 
+            "order": 13, 
+            "start time": "09:00 ", 
+            "timeblock name": "Team Time"
+        }, 
+        {
+            "day": "Thursday", 
+            "key": "thursday-team-time--thursday-09-00-", 
+            "order": 14, 
+            "start time": "09:00 ", 
+            "timeblock name": "Team Time"
+        }, 
+        {
+            "day": "Friday", 
+            "key": "friday-team-time--friday-09-00-", 
+            "order": 15, 
+            "start time": "09:00 ", 
+            "timeblock name": "Team Time"
+        }, 
+        {
+            "day": "Tuesday", 
+            "key": "tuesday-plenary--tuesday-09-30-", 
+            "order": 16, 
+            "start time": "09:30 ", 
+            "timeblock name": "Plenary"
+        }, 
+        {
+            "day": "Wednesday", 
+            "key": "wednesday-morning-coffee-break--wednesday-10-00-", 
+            "order": 17, 
+            "start time": "10:00 ", 
+            "timeblock name": "Morning Coffee Break"
+        }, 
+        {
+            "day": "Thursday", 
+            "key": "thursday-morning-coffee-break--thursday-10-00-", 
+            "order": 18, 
+            "start time": "10:00 ", 
+            "timeblock name": "Morning Coffee Break"
+        }, 
+        {
+            "day": "Friday", 
+            "key": "friday-morning-coffee-break--friday-10-00-", 
+            "order": 19, 
+            "start time": "10:00 ", 
+            "timeblock name": "Morning Coffee Break"
+        }, 
+        {
+            "day": "Wednesday", 
+            "key": "wednesday-team-time--wednesday-10-30-", 
+            "order": 20, 
+            "start time": "10:30 ", 
+            "timeblock name": "Team Time"
+        }, 
+        {
+            "day": "Thursday", 
+            "key": "thursday-team-time--thursday-10-30-", 
+            "order": 21, 
+            "start time": "10:30 ", 
+            "timeblock name": "Team Time"
+        }, 
+        {
+            "day": "Friday", 
+            "key": "friday-team-time--friday-10-30-", 
+            "order": 22, 
+            "start time": "10:30 ", 
+            "timeblock name": "Team Time"
+        }, 
+        {
+            "day": "Tuesday", 
+            "key": "tuesday-lunch--tuesday-11-30-", 
+            "order": 23, 
+            "start time": "11:30 ", 
+            "timeblock name": "Lunch"
+        }, 
+        {
+            "day": "Wednesday", 
+            "key": "wednesday-lunch--wednesday-11-30-", 
+            "order": 24, 
+            "start time": "11:30 ", 
+            "timeblock name": "Lunch"
+        }, 
+        {
+            "day": "Thursday", 
+            "key": "thursday-lunch--thursday-11-30-", 
+            "order": 25, 
+            "start time": "11:30 ", 
+            "timeblock name": "Lunch"
+        }, 
+        {
+            "day": "Friday", 
+            "key": "friday-lunch--friday-11-30-", 
+            "order": 26, 
+            "start time": "11:30 ", 
+            "timeblock name": "Lunch"
+        }, 
+        {
+            "day": "Tuesday", 
+            "key": "tuesday-mofo-all-hands-opening--tuesday-13-30-", 
+            "order": 27, 
+            "start time": "13:30", 
+            "timeblock name": "MoFo All-hands Opening"
+        }, 
+        {
+            "day": "Wednesday", 
+            "key": "wednesday-team-time--wednesday-13-30-", 
+            "order": 28, 
+            "start time": "13:30", 
+            "timeblock name": "Team Time"
+        }, 
+        {
+            "day": "Thursday", 
+            "key": "thursday-team-time--thursday-13-30-", 
+            "order": 29, 
+            "start time": "13:30", 
+            "timeblock name": "Team Time"
+        }, 
+        {
+            "day": "Friday", 
+            "key": "friday-team-time--friday-13-30-", 
+            "order": 30, 
+            "start time": "13:30", 
+            "timeblock name": "Team Time"
+        }, 
+        {
+            "day": "Tuesday", 
+            "key": "tuesday-afternoon-coffee-break--tuesday-14-30-", 
+            "order": 31, 
+            "start time": "14:30", 
+            "timeblock name": "Afternoon Coffee Break"
+        }, 
+        {
+            "day": "Wednesday", 
+            "key": "wednesday-afternoon-coffee-break--wednesday-14-30-", 
+            "order": 32, 
+            "start time": "14:30 ", 
+            "timeblock name": "Afternoon Coffee Break"
+        }, 
+        {
+            "day": "Thursday", 
+            "key": "thursday-afternoon-coffee-break--thursday-14-30-", 
+            "order": 33, 
+            "start time": "14:30 ", 
+            "timeblock name": "Afternoon Coffee Break"
+        }, 
+        {
+            "day": "Friday", 
+            "key": "friday-afternoon-coffee-break--friday-14-30-", 
+            "order": 34, 
+            "start time": "14:30 ", 
+            "timeblock name": "Afternoon Coffee Break"
+        }, 
+        {
+            "day": "Tuesday", 
+            "key": "tuesday-mofo-all-hands--tuesday-14-45-", 
+            "order": 35, 
+            "start time": "14:45 ", 
+            "timeblock name": "MoFo All-hands"
+        }, 
+        {
+            "day": "Wednesday", 
+            "key": "wednesday-elective-time--wednesday-14-45-", 
+            "order": 36, 
+            "start time": "14:45 ", 
+            "timeblock name": "Elective Time"
+        }, 
+        {
+            "day": "Thursday", 
+            "key": "thursday-elective-time--thursday-14-45-", 
+            "order": 37, 
+            "start time": "14:45 ", 
+            "timeblock name": "Elective Time"
+        }, 
+        {
+            "day": "Friday", 
+            "key": "friday-mofo-all-hands--friday-14-45-", 
+            "order": 38, 
+            "start time": "14:45 ", 
+            "timeblock name": "MoFo All-hands"
+        }, 
+        {
+            "day": "Tuesday", 
+            "key": "tuesday-chris-beard-and-mitchell-baker-in-mofo-homeroom--tuesday-15-30-", 
+            "order": 39, 
+            "start time": "15:30 ", 
+            "timeblock name": "Chris Beard and Mitchell Baker in MoFo homeroom"
+        }, 
+        {
+            "day": "Tuesday", 
+            "key": "tuesday-mofo-all-hands-2--tuesday-16-00-", 
+            "order": 40, 
+            "start time": "16:00 ", 
+            "timeblock name": "MoFo All-hands 2"
+        }, 
+        {
+            "day": "Wednesday", 
+            "key": "wednesday-dinner--wednesday-18-00-", 
+            "order": 41, 
+            "start time": "18:00", 
+            "timeblock name": "Dinner"
+        }, 
+        {
+            "day": "Thursday", 
+            "key": "thursday-dinner--thursday-18-00-", 
+            "order": 42, 
+            "start time": "18:00", 
+            "timeblock name": "Dinner"
+        }, 
+        {
+            "day": "Monday", 
+            "key": "monday-welcome-reception--monday-18-00-", 
+            "order": 43, 
+            "start time": "18:00 ", 
+            "timeblock name": "Welcome Reception"
+        }, 
+        {
+            "day": "Tuesday", 
+            "key": "tuesday-dinner--tuesday-18-00-", 
+            "order": 44, 
+            "start time": "18:00 ", 
+            "timeblock name": "Dinner"
+        }, 
+        {
+            "day": "Friday", 
+            "key": "friday-closing-party-and-dinner--friday-19-00-", 
+            "order": 45, 
+            "start time": "19:00 ", 
+            "timeblock name": "Closing Party and Dinner"
+        }, 
+        {
+            "day": "select from dropdown", 
+            "key": "auto-generated.-do-not-modify.", 
+            "order": 46, 
+            "reserved for everyone": "reserved for all participants. \"yes\" if true, otherwise leave it blank", 
+            "start time": "24-hr format", 
+            "timeblock name": "name to show on app"
+        }
+    ]
+}
