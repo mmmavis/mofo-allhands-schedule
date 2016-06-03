@@ -6,10 +6,10 @@
             "description": "Welcome to London!", 
             "facilitator_array": [
                 "Mavis, Mozilla Foundation, @ohmmmavis", 
-                "Mavis, Mozilla Foundation", 
+                "Hi Mavis, Mozilla Foundation", 
                 "Mavis Yay, @ohmmmavis"
             ], 
-            "facilitators": "Mavis, Mavis, Mavis Yay", 
+            "facilitators": "Mavis, Hi Mavis, Mavis Yay", 
             "id": "101", 
             "location": "Room TBD #1", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-welcomereception", 
@@ -271,7 +271,7 @@
         {
             "category": "Leadership Network", 
             "day": "Wednesday", 
-            "description": "Discuss priorities for Mozilla Clubs for next six months. Map needs of club captains and what we can develop.", 
+            "description": "Discuss priorities for Mozilla Clubs for next six months. Map needs of club captains and what we can develop.\n\nRequired attendees: Julia, Mmkai, Baratang, Andre, Caro, Vishal, Hannah\n\nOptional attendees: Sarah, Chad, Lainie, Matthew, Luke", 
             "facilitator_array": [
                 "Amira"
             ], 
@@ -287,7 +287,7 @@
         {
             "category": "Leadership Network", 
             "day": "Wednesday", 
-            "description": "", 
+            "description": "Focused time for Hives to share cross city opportunities for H2, with emphasis on curriculum and convening activities.\n\nRequired attendees: Simona, Sam D, Hana, Robert, Kenyatta, Lindsey, Janice, Jenn, Katie\n\nOptional attendees: Chad", 
             "facilitator_array": [], 
             "facilitators": "", 
             "id": "310", 
@@ -301,9 +301,11 @@
         {
             "category": "Leadership Network", 
             "day": "Wednesday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "Time for the Science and Open Web Fellow / Advocacy hub team to dig into a shared fellowship strategy for MLN, including planning for shared, joint onboarding for Year 2 Fellows, resourcing, partnership strategy and cross-program collaboration.\n\nRequired attendees: Aurelia, Zannah, Arliss, Stephanie W, Abby, Christie, Melissa, Vanessa", 
+            "facilitator_array": [
+                "Kaitlin"
+            ], 
+            "facilitators": "Kaitlin", 
             "id": "311", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mofofellowships", 
