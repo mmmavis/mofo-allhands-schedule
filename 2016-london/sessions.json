@@ -7,9 +7,9 @@
             "facilitator_array": [
                 "Mavis, Mozilla Foundation, @ohmmmavis", 
                 "Mavis, Mozilla Foundation", 
-                "Mavis, @ohmmmavis"
+                "Mavis Yay, @ohmmmavis"
             ], 
-            "facilitators": "Mavis, Mavis, Mavis", 
+            "facilitators": "Mavis, Mavis, Mavis Yay", 
             "id": "101", 
             "location": "Room TBD #1", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-welcomereception", 
@@ -179,9 +179,11 @@
         {
             "category": "Leadership Network", 
             "day": "Wednesday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "This session brings together staff and affiliated roles of the Learning Hub to build our team, from setting expectations and lines of communication, to H2 questions and deliverables. Essential to building positive team dynamics, taking advantage of in-person time.\n\n*Required attendees*: Simona, Amira, Sam D, Jenn, Hana, Julia, Robert, Kenyatta, Chad, Andre, Janice, Katie, Lindsey, Carolina", 
+            "facilitator_array": [
+                "Meghan"
+            ], 
+            "facilitators": "Meghan", 
             "id": "303", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-learninghubteambuilding", 
@@ -193,9 +195,11 @@
         {
             "category": "Leadership Network", 
             "day": "Wednesday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "Science Lab team time, to reflect on H1 work, and plan for H2.\n\n*Required attendees*: Aurelia, Zannah, Arliss, Stephanie W, Rob, Anna, Christie", 
+            "facilitator_array": [
+                "Kaitlin"
+            ], 
+            "facilitators": "Kaitlin", 
             "id": "304", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-sciencelabhplanning", 
@@ -267,9 +271,11 @@
         {
             "category": "Leadership Network", 
             "day": "Wednesday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "Discuss priorities for Mozilla Clubs for next six months. Map needs of club captains and what we can develop.", 
+            "facilitator_array": [
+                "Amira"
+            ], 
+            "facilitators": "Amira", 
             "id": "309", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-clubsdeepdive", 
