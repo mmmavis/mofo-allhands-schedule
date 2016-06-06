@@ -5,11 +5,9 @@
             "day": "Monday", 
             "description": "Welcome to London!", 
             "facilitator_array": [
-                "Mavis, Mozilla Foundation, @ohmmmavis", 
-                "Hi Mavis, Mozilla Foundation", 
-                "Mavis Yay, @ohmmmavis"
+                "Chris Beard"
             ], 
-            "facilitators": "Mavis, Hi Mavis, Mavis Yay", 
+            "facilitators": "Chris Beard", 
             "id": "101", 
             "location": "Room TBD #1", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-welcomereception", 
@@ -287,7 +285,7 @@
         {
             "category": "Leadership Network", 
             "day": "Wednesday", 
-            "description": "Focused time for Hives to share cross city opportunities for H2, with emphasis on curriculum and convening activities.\n\nRequired attendees: Simona, Sam D, Hana, Robert, Kenyatta, Lindsey, Janice, Jenn, Katie\n\nOptional attendees: Chad", 
+            "description": "Focused time for Hives to share cross city opportunities for H2, with emphasis on curriculum and convening activities.\n\nRequired attendees: Simona, Sam D, Hana, Robert, Kenyatta, Lindsey, Janice, Jenn, Katie\n\nOptional attendees: Chad, Erika, Sarah", 
             "facilitator_array": [], 
             "facilitators": "", 
             "id": "310", 
@@ -359,9 +357,12 @@
         {
             "category": "Leadership Network", 
             "day": "Wednesday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "Are you interested in learning & making away from keyboard? This zone will be kitted out with hardware, craft materials and other rapid prototyping tools to help you take your idea from post-it to reality.\n\nBring a fresh idea hatched at the all-hands, or something you've been mulling over for a while, and we'll help you turn it into something physical that helps others understand, interact with and improve it. \n\nWe'll also share reflections on prototyping practices we've been experimenting with and invite others to share their triumphs and challenges in these efforts as well. ", 
+            "facilitator_array": [
+                "Jon", 
+                "Michelle"
+            ], 
+            "facilitators": "Jon, Michelle", 
             "id": "315", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-iotdropinclinic", 
@@ -373,7 +374,7 @@
         {
             "category": "Leadership Network", 
             "day": "Wednesday", 
-            "description": "", 
+            "description": "Required attendees: Ali, Alan, Gideon, Mavis, Sabrina, Pomax, Gavin, Kristina, Luke, Abby, Chris", 
             "facilitator_array": [
                 "Matthew W", 
                 "Hannah", 
@@ -391,9 +392,12 @@
         {
             "category": "Leadership Network", 
             "day": "Wednesday", 
-            "description": "Clubs, Study Groups, Cohorts", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "We'll be digging into onboarding plans for both programs, infrastructure needs for community-driven events + resource creation, and looking at opportunities to connect across program / region. \n\nRequired attendees: Zanna, Arliss, Anna, Rob, Caro, Julia, Andre, Hannah, Sabrina, Luke, Pomax\n\nOptional attendees: Laura, Bobby, Hana, Kenyatta", 
+            "facilitator_array": [
+                "Amira", 
+                "Aurelia"
+            ], 
+            "facilitators": "Amira, Aurelia", 
             "id": "317", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-communityengagementonboarding", 
@@ -419,9 +423,12 @@
         {
             "category": "Leadership Network", 
             "day": "Wednesday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "Workshop on how strategic partnership team will support MLN directors/hub leads with fundraising and grant management. This session will focus on overview of tools, processes including how to making a compelling case for $$, and grant management.\n\nRequired attendees: Amira, Simona, Kenyatta, Janice, Katie, Melissa, Sara, Michelle, Stephanie W, Jenn, Robert, Jessie, Lynn\n\nOptional attendees: Meghan, Kaitlin", 
+            "facilitator_array": [
+                "Kalpana", 
+                "An-Me"
+            ], 
+            "facilitators": "Kalpana, An-Me", 
             "id": "319", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnfundraisinggrantmanagement", 
@@ -433,9 +440,12 @@
         {
             "category": "Leadership Network", 
             "day": "Wednesday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "Are you interested in learning & making away from keyboard? This zone will be kitted out with hardware, craft materials and other rapid prototyping tools to help you take your idea from post-it to reality.\n\nBring a fresh idea hatched at the all-hands, or something you've been mulling over for a while, and we'll help you turn it into something physical that helps others understand, interact with and improve it. \n\nWe'll also share reflections on prototyping practices we've been experimenting with and invite others to share their triumphs and challenges in these efforts as well. ", 
+            "facilitator_array": [
+                "Jon", 
+                "Michelle"
+            ], 
+            "facilitators": "Jon, Michelle", 
             "id": "320", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-iotdropinclinic", 
@@ -489,7 +499,7 @@
         {
             "category": "Mozilla", 
             "day": "Wednesday", 
-            "description": "Choose your own [LINK]", 
+            "description": "Choose your own: [Sched](http://mozillalondonallhands2016.sched.org/)", 
             "facilitator_array": [], 
             "facilitators": "", 
             "id": "324", 
@@ -503,9 +513,11 @@
         {
             "category": "Leadership Network", 
             "day": "Wednesday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "We'll take a design-centered field trip to Ravensbourne to envision how we'll use the space for MozFest 2016 (for design, wayfinding, alternatives-to-mainstage (currently known as 'salons'. final name tbd), info cafes etc)\n\nRequired attendees: Matthew, Jordan, Erika\n\nOptional attendeees: Kevin", 
+            "facilitator_array": [
+                "Sarah"
+            ], 
+            "facilitators": "Sarah", 
             "id": "325", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-ravensbournefieldtrip", 
@@ -545,7 +557,7 @@
         {
             "category": "Leadership Network", 
             "day": "Thursday", 
-            "description": "", 
+            "description": "Required attendees: Ali, Alan, Gideon, Mavis, Sabrina, Pomax, Gavin, Kristina, Luke, Abby, Chris", 
             "facilitator_array": [
                 "Matthew W", 
                 "Hannah", 
@@ -563,9 +575,11 @@
         {
             "category": "Leadership Network", 
             "day": "Thursday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "\"Building Bridges by Design\" will take forethought and calendaring! We need in-person space to talk through and plan for H2 activities and achievements.\n\nRequired attendees: Simona, Sam, Hana, Julia, Amira, Andre, Caro, Lindsey, Jenn, Katie, Janice, Chad, Robert, Kenyatta\n\nOptional attendees: Lainie", 
+            "facilitator_array": [
+                "Meghan"
+            ], 
+            "facilitators": "Meghan", 
             "id": "403", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-learninghubhplanning", 
@@ -577,9 +591,12 @@
         {
             "category": "Leadership Network", 
             "day": "Thursday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "This is a planning session to create an MSL study group onboarding curriculum/training experience, to help new study group leads successfully start up, sustain and grow groups.\n\nRequired attendees: Arliss, Rob\n\nOptional attendees: Abby, Stephanie W", 
+            "facilitator_array": [
+                "Aurelia", 
+                "Zannah"
+            ], 
+            "facilitators": "Aurelia, Zannah", 
             "id": "404", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-sciencestudygrouponboarding", 
@@ -591,9 +608,12 @@
         {
             "category": "Leadership Network", 
             "day": "Thursday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "Planning out H2 goals/deliverables for the Advocacy Network, including OWF program (but excluding Field at the moment)", 
+            "facilitator_array": [
+                "Vanessa", 
+                "Melissa"
+            ], 
+            "facilitators": "Vanessa, Melissa", 
             "id": "405", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-openwebfellowsadvocacynetworkhplanning", 
@@ -675,7 +695,7 @@
         {
             "category": "Leadership Network", 
             "day": "Thursday", 
-            "description": "", 
+            "description": "Required attendees: Ali, Alan, Gideon, Mavis, Sabrina, Pomax, Gavin, Kristina, Luke, Abby, Chris", 
             "facilitator_array": [
                 "Matthew W", 
                 "Hannah", 
@@ -693,9 +713,12 @@
         {
             "category": "Leadership Network", 
             "day": "Thursday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "This will be a walk through of the first cut of the Open Leaderhship \ncurriculum, including a quick overview followed by a deep dive into a number of the modules. Looking for others to join to provide feedback, talk about implementation and testing with their communities to create a shared experience across Mozilla, and discuss next steps. \n\nRequired attendees: Stephanie W, Amira, Caro, Emma, Chris Mills, \n\nOptional: Chris", 
+            "facilitator_array": [
+                "Zannah", 
+                "Chad"
+            ], 
+            "facilitators": "Zannah, Chad", 
             "id": "412", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-openleadershipcurriculum", 
@@ -707,9 +730,12 @@
         {
             "category": "MoFo", 
             "day": "Thursday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "Designing MozFest for 2017 and beyond. Big picture scope with the question should we move locations for 2017, who are we designing for, and if we will hold one MozFest or coordinate many smaller MozFest around the world.\n\nRequired attendees: Mark, Chris, David, Angela\n\nOptional attendees: Michelle", 
+            "facilitator_array": [
+                "Sarah", 
+                "Erika"
+            ], 
+            "facilitators": "Sarah, Erika", 
             "id": "413", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mozfestfuturegoals", 
@@ -777,7 +803,7 @@
         {
             "category": "Leadership Network", 
             "day": "Thursday", 
-            "description": "", 
+            "description": "Required attendees: Ali, Alan, Gideon, Mavis, Sabrina, Pomax, Gavin, Kristina, Luke, Abby, Chris", 
             "facilitator_array": [
                 "Matthew W", 
                 "Hannah", 
@@ -795,9 +821,11 @@
         {
             "category": "Leadership Network", 
             "day": "Thursday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "Focused time to plan and build out the Learning Space at MozFest\n\nRequired attendees: \n\nOptional attendees: Chad, Amira, Julia, Simona, Lainie, Andre", 
+            "facilitator_array": [
+                "Robert"
+            ], 
+            "facilitators": "Robert", 
             "id": "419", 
             "location": "", 
             "notes url": "", 
@@ -823,9 +851,11 @@
         {
             "category": "MoFo", 
             "day": "Thursday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "What is MozFest? How best to share our story, the festival value and attract new attendees.\n\nA session to discuss our comms plan for MozFest 2016 and the value of introducing a Marketing team to the festival. \n\nRequired attendees: Erika, Paul, Kevin", 
+            "facilitator_array": [
+                "Sarah"
+            ], 
+            "facilitators": "Sarah", 
             "id": "421", 
             "location": "", 
             "notes url": "", 
@@ -879,9 +909,12 @@
         {
             "category": "Leadership Network", 
             "day": "Thursday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "Join this workshop to discuss what we are learning with DSO, and brainstorm with the group about how we make sure this is a useful project, how it can apply to people's work and the best way to help you incorporate lessons learned into your work. \n\nWill also discuss web literacy learnings and user centered production. \n\nRequired attendees: Sam B\n\nOptional attendees: Brett, Brian, Kevin, Lynn, Michelle, Nisha, Paul, Rina, Robert, Chad, David, Dees, Meghan, Sara, Amira, An-Me, Andrea, Jochai, Julia, Kalpana, Lainie, Lotta, Lucy, Luke, Matthew, Rosana, Sana, Simon", 
+            "facilitator_array": [
+                "Laura", 
+                "Bobby"
+            ], 
+            "facilitators": "Laura, Bobby", 
             "id": "425", 
             "location": "", 
             "notes url": "", 
@@ -893,9 +926,12 @@
         {
             "category": "Leadership Network", 
             "day": "Thursday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "Designated space and time for staff and community members to create short videos or take photos for use in the Leadership Curriculum.\n\nOptional attendees: Kaitlin", 
+            "facilitator_array": [
+                "Zannah", 
+                "Chad"
+            ], 
+            "facilitators": "Zannah, Chad", 
             "id": "426", 
             "location": "", 
             "notes url": "", 
@@ -935,7 +971,7 @@
         {
             "category": "Mozilla", 
             "day": "Thursday", 
-            "description": "[electives link]", 
+            "description": "Choose your own: [Sched](http://mozillalondonallhands2016.sched.org/)", 
             "facilitator_array": [], 
             "facilitators": "", 
             "id": "429", 
@@ -963,9 +999,12 @@
         {
             "category": "Leadership Network", 
             "day": "Thursday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "Are you interested in learning & making away from keyboard? This zone will be kitted out with hardware, craft materials and other rapid prototyping tools to help you take your idea from post-it to reality.\n\nBring a fresh idea hatched at the all-hands, or something you've been mulling over for a while, and we'll help you turn it into something physical that helps others understand, interact with and improve it. \n\nWe'll also share reflections on prototyping practices we've been experimenting with and invite others to share their triumphs and challenges in these efforts as well. ", 
+            "facilitator_array": [
+                "Jon", 
+                "Michelle"
+            ], 
+            "facilitators": "Jon, Michelle", 
             "id": "431", 
             "location": "", 
             "notes url": "", 
@@ -977,9 +1016,12 @@
         {
             "category": "Leadership Network", 
             "day": "Thursday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "Walk through of the Open Data curriculum. This will be an overview of the plan for the whole curriculum plus a look at the first three primers and related teaching modules with exercises that have been developed so far. Looking for others to join into provide feedback, talk about delivery methods and discuss next steps. \n\nRequired attendees: Aurelia, Kaitlin, Arliss, Abby, Christie, Chad, Amira, Caro, Emma, Chris Mills", 
+            "facilitator_array": [
+                "Zannah", 
+                "Stephanie W"
+            ], 
+            "facilitators": "Zannah, Stephanie W", 
             "id": "432", 
             "location": "", 
             "notes url": "", 
@@ -991,9 +1033,13 @@
         {
             "category": "Leadership Network", 
             "day": "Thursday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "June 14th broadcast of the Mozilla Curriculum Workshop focusing on summer learning about maker education, participatory learning, and web literacy. Will feature MozFest, its call for proposals, and past sessions/workshops as examples of events, practices and spaces we can study this summer to level up our teaching practices.\n\nRequired attendees: ", 
+            "facilitator_array": [
+                "Robert", 
+                "Amira", 
+                "Chad"
+            ], 
+            "facilitators": "Robert, Amira, Chad", 
             "id": "433", 
             "location": "", 
             "notes url": "", 
@@ -1033,9 +1079,13 @@
         {
             "category": "Leadership Network", 
             "day": "Friday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "Required attendees: Ali, Alan, Gideon, Mavis, Sabrina, Pomax, Gavin, Kristina, Luke, Abby, Chris", 
+            "facilitator_array": [
+                "Matthew W", 
+                "Hannah", 
+                "Simon"
+            ], 
+            "facilitators": "Matthew W, Hannah, Simon", 
             "id": "502", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnproductionprocessconversation", 
@@ -1047,9 +1097,11 @@
         {
             "category": "Leadership Network", 
             "day": "Friday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "\"Building Bridges by Design\" will take forethought and calendaring! We need in-person space to talk through and plan for H2 activities and achievements.\n\nRequired attendees: Simona, Sam, Hana, Julia, Amira, Andre, Caro, Lindsey, Jenn, Katie, Janice, Chad, Robert, Kenyatta\n\nOptional attendees: Lainie", 
+            "facilitator_array": [
+                "Meghan"
+            ], 
+            "facilitators": "Meghan", 
             "id": "503", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-learninghubhplanning", 
@@ -1061,9 +1113,11 @@
         {
             "category": "Leadership Network", 
             "day": "Friday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "Science Lab team time, to reflect on H1 work, and plan for H2.\n\n*Required attendees*: Aurelia, Zannah, Arliss, Stephanie W, Rob, Anna, Christie", 
+            "facilitator_array": [
+                "Kaitlin"
+            ], 
+            "facilitators": "Kaitlin", 
             "id": "504", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-sciencehplanning", 
@@ -1103,9 +1157,12 @@
         {
             "category": "MoFo", 
             "day": "Friday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "Required attendees: Matthew, Jordan, Sabrina, Kristina, Natalie, Luke", 
+            "facilitator_array": [
+                "Jordan", 
+                "Matthew"
+            ], 
+            "facilitators": "Jordan, Matthew", 
             "id": "507", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-designvisionidentityprocess", 
@@ -1117,9 +1174,11 @@
         {
             "category": "Leadership Network", 
             "day": "Friday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "Discuss Mozilla Club for Women and Girls program in Nairobi and Cape Town and how we can continue to build the program for success. What have we learned, how can we continue. \n\nRequired attendees: Julia, Baratang, Mmkai, Hildah, Lynn", 
+            "facilitator_array": [
+                "Amira"
+            ], 
+            "facilitators": "Amira", 
             "id": "508", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mozclubswomengirls", 
@@ -1131,9 +1190,12 @@
         {
             "category": "Leadership Network", 
             "day": "Friday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "I'd like to use this face time to sort through communications and staff details for the September IoT event in Chattanooga. The gives us all a chance to walk through the event (as best we can) before the call goes out to applicants in early July. \n\nRequired attendees: Janice, Jenn, Robert, Jon\n\nOptional attendees: Julia", 
+            "facilitator_array": [
+                "Erika", 
+                "Michelle"
+            ], 
+            "facilitators": "Erika, Michelle", 
             "id": "509", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-iotchattanooga", 
@@ -1145,9 +1207,12 @@
         {
             "category": "Leadership Network", 
             "day": "Friday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "Workshop on how strategic partnership team will support MLN directors/hub leads with fundraising and grant management. This session will focus on overview of tools, processes including how to making a compelling case for $$, and grant management.\n\nRequired attendees: Amira, Simona, Kenyatta, Janice, Katie, Melissa, Sara, Michelle, Stephanie W, Jenn, Robert, Jessie, Lynn\n\nOptional attendees: Meghan, Kaitlin", 
+            "facilitator_array": [
+                "Kalpana", 
+                "An-Me"
+            ], 
+            "facilitators": "Kalpana, An-Me", 
             "id": "510", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnfundraisinggrantmanagement", 
@@ -1159,9 +1224,11 @@
         {
             "category": "Leadership Network", 
             "day": "Friday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "This session will dig into the relationship between metrics and convenings for the remainder of 2016, digging into how convenings map to increased activity + engagement from communities, strategy for data collection and participant analysis, and ultimately retention. \n\nRequired attendees: Erika, Sarah, Arliss, Aurelia\n\nOptional attendees: Jenn, Hana, Kenyatta", 
+            "facilitator_array": [
+                "Kaitlin"
+            ], 
+            "facilitators": "Kaitlin", 
             "id": "511", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnmetricsconvenings", 
@@ -1201,9 +1268,12 @@
         {
             "category": "Leadership Network", 
             "day": "Friday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "A brainstorming and roadmapping session with hub leads, hub team members and others interested in identifying collaboration opportunities among, across, in between and sideways with the Mozilla Leadership Network hubs.\n\nRequired attendees: Meghan, Amira, Melissa\n\nOptional attendees: ", 
+            "facilitator_array": [
+                "Kaitlin", 
+                "Michelle"
+            ], 
+            "facilitators": "Kaitlin, Michelle", 
             "id": "514", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlncrosshubcollab", 
@@ -1215,9 +1285,12 @@
         {
             "category": "MoFo", 
             "day": "Friday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "Info session including updates from the retreat, production timeline, what to expect this year, how staff can participate and more. \n\nWe'll also offer opportunities for staff to weigh in on some pieces still taking form, like the Saturday night activity, ideas for speakers etc.\n\nRequired attendees: Great for all new hires", 
+            "facilitator_array": [
+                "Sarah", 
+                "Erika"
+            ], 
+            "facilitators": "Sarah, Erika", 
             "id": "515", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mozfestplan", 
@@ -1229,9 +1302,12 @@
         {
             "category": "Leadership Network", 
             "day": "Friday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "Designated space and time for staff and community members to create short videos or take photos for use in the Leadership Curriculum.\n\nOptional attendees: Kaitlin", 
+            "facilitator_array": [
+                "Zannah", 
+                "Chad"
+            ], 
+            "facilitators": "Zannah, Chad", 
             "id": "516", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-leadershipcurricvidbooth", 
@@ -1243,9 +1319,11 @@
         {
             "category": "MoFo", 
             "day": "Friday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "Our leadership network is full of stories. We're prototyping and testing a \"story engine\" to surface and collect them in more systematic ways, to provide the mix of qualitative + quantitative data, evidence narratives and human impact we need to increase our empathy and understanding for the people we serve. http://mzl.la/story\n\nRequired attendees: Chris\n\nOptional attendees: Lainie, Amira, Chad, Sam B, Melissa, Aurelia, Stephanie M", 
+            "facilitator_array": [
+                "Matt"
+            ], 
+            "facilitators": "Matt", 
             "id": "517", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-storyenginedeepdive", 
