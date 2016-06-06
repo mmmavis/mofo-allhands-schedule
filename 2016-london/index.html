@@ -211,8 +211,8 @@
         mainHeaderText: "London 2016",
         subHeaderText: "Mozilla Foundation All Hands",
         displayNameForCategory: {
-          singular:'all-hand', // this can only be one word
-          plural: 'all-hands' // this can only be one word
+          singular:'Track', // this can only be one word
+          plural: 'Tracks' // this can only be one word
         },
         displayNameForTag: {
           singular:'tag', // this can only be one word
@@ -231,17 +231,18 @@
           { name: 'All', displayName: '<i class="fa fa-search"></i>' }
         ],
         // optional 
-        additionalNavItems: [
-          { 
-            label: "Other All-hands",
-            link: "../2016-hawaii",
-          }
-        ]
+        // additionalNavItems: [
+        //   { 
+        //     label: "Other All-hands",
+        //     link: "../2016-hawaii",
+        //   }
+        // ]
       }
       // instantiate the app
       new Schedule(customConfig);
 
       $("#categories-page-link").hide();
+      $("#tags-page-link").hide();
     </script>
   </body>
 </html>
