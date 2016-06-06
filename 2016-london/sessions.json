@@ -1,7 +1,7 @@
 {
     "sessions": [
         {
-            "category": "Food & Social", 
+            "category": "", 
             "day": "Monday", 
             "description": "Welcome to London!", 
             "facilitator_array": [
@@ -17,7 +17,7 @@
             "title": "Welcome Reception"
         }, 
         {
-            "category": "Food & Social", 
+            "category": "", 
             "day": "Tuesday", 
             "description": "Served in the hotel you sleep in.", 
             "facilitator_array": [], 
@@ -31,7 +31,7 @@
             "title": "Breakfast"
         }, 
         {
-            "category": "Mozilla", 
+            "category": "", 
             "day": "Tuesday", 
             "description": "", 
             "facilitator_array": [], 
@@ -45,7 +45,7 @@
             "title": "Plenary"
         }, 
         {
-            "category": "Food & Social", 
+            "category": "", 
             "day": "Tuesday", 
             "description": "Served in the hotel you meet in.", 
             "facilitator_array": [], 
@@ -59,7 +59,7 @@
             "title": "Lunch"
         }, 
         {
-            "category": "MoFo", 
+            "category": "", 
             "day": "Tuesday", 
             "description": "", 
             "facilitator_array": [], 
@@ -73,7 +73,7 @@
             "title": "MoFo All-hands"
         }, 
         {
-            "category": "Food & Social", 
+            "category": "", 
             "day": "Tuesday", 
             "description": "15-min coffee break", 
             "facilitator_array": [], 
@@ -87,7 +87,7 @@
             "title": "Afternoon Coffee Break"
         }, 
         {
-            "category": "MoFo", 
+            "category": "", 
             "day": "Tuesday", 
             "description": "", 
             "facilitator_array": [], 
@@ -101,7 +101,7 @@
             "title": "MoFo All-hands"
         }, 
         {
-            "category": "MoFo", 
+            "category": "", 
             "day": "Tuesday", 
             "description": "", 
             "facilitator_array": [], 
@@ -115,7 +115,7 @@
             "title": "Chris Beard and Mitchell Baker in MoFo (planned)"
         }, 
         {
-            "category": "MoFo", 
+            "category": "", 
             "day": "Tuesday", 
             "description": "", 
             "facilitator_array": [], 
@@ -129,7 +129,7 @@
             "title": "MoFo All-hands"
         }, 
         {
-            "category": "Food & Social", 
+            "category": "", 
             "day": "Tuesday", 
             "description": "Supper in London!!!", 
             "facilitator_array": [], 
@@ -143,7 +143,7 @@
             "title": "Dinner"
         }, 
         {
-            "category": "Food & Social", 
+            "category": "", 
             "day": "Wednesday", 
             "description": "Served in the hotel you sleep in.", 
             "facilitator_array": [], 
@@ -157,7 +157,7 @@
             "title": "Breakfast"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Wednesday", 
             "description": "In this session, we will discuss our upcoming body of work as they relate to organizational goals. We will frame the next session (production roadmap breakout groups) and our approach to production for the second half the year. \n\n*Required attendees*: Required attendees: Ali, Alan, Gideon, Mavis, Sabrina, Pomax, Gavin, Kristina, Luke, Abby, Chris", 
             "facilitator_array": [
@@ -175,7 +175,7 @@
             "title": "MLN Production Intro"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Wednesday", 
             "description": "This session brings together staff and affiliated roles of the Learning Hub to build our team, from setting expectations and lines of communication, to H2 questions and deliverables. Essential to building positive team dynamics, taking advantage of in-person time.\n\n*Required attendees*: Simona, Amira, Sam D, Jenn, Hana, Julia, Robert, Kenyatta, Chad, Andre, Janice, Katie, Lindsey, Carolina", 
             "facilitator_array": [
@@ -191,7 +191,7 @@
             "title": "Learning Hub: Team Building"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Wednesday", 
             "description": "Science Lab team time, to reflect on H1 work, and plan for H2.\n\n*Required attendees*: Aurelia, Zannah, Arliss, Stephanie W, Rob, Anna, Christie", 
             "facilitator_array": [
@@ -207,7 +207,7 @@
             "title": "Science Lab H2 Planning #1"
         }, 
         {
-            "category": "Advocacy", 
+            "category": "", 
             "day": "Wednesday", 
             "description": "", 
             "facilitator_array": [], 
@@ -221,7 +221,7 @@
             "title": "Advocacy Hack & Build"
         }, 
         {
-            "category": "Advocacy", 
+            "category": "", 
             "day": "Wednesday", 
             "description": "", 
             "facilitator_array": [], 
@@ -235,7 +235,7 @@
             "title": "Advocacy Jam with Marketing"
         }, 
         {
-            "category": "Food & Social", 
+            "category": "", 
             "day": "Wednesday", 
             "description": "", 
             "facilitator_array": [], 
@@ -249,7 +249,7 @@
             "title": "Coffee break"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Wednesday", 
             "description": "We'll break out into our three production teams (currently known as Organizing, Content, Convenings). \n\nIn this first breakout session, we'll develop a shared understanding of our team's production focus as it related to MLN goals. \n\nIn this or later sessions, we connect with program stakeholders to better understand their challenges and opportunities. We will then dig into the H2 projects, understand the objectives, and identify blockers, dependencies, major milestones, and opportunities to test before we invest.\n\nRequired attendees: Ali, Alan, Gideon, Mavis, Sabrina, Pomax, Gavin, Kristina, Luke, Abby, Chris\n\nStakeholder attendees: Erika D, ...", 
             "facilitator_array": [
@@ -267,7 +267,7 @@
             "title": "MLN Production Breakout Groups"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Wednesday", 
             "description": "Discuss priorities for Mozilla Clubs for next six months. Map needs of club captains and what we can develop.\n\nRequired attendees: Julia, Mmkai, Baratang, Andre, Caro, Vishal, Hannah\n\nOptional attendees: Sarah, Chad, Lainie, Matthew, Luke", 
             "facilitator_array": [
@@ -283,7 +283,7 @@
             "title": "Clubs Deep-Dive"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Wednesday", 
             "description": "Focused time for Hives to share cross city opportunities for H2, with emphasis on curriculum and convening activities.\n\nRequired attendees: Simona, Sam D, Hana, Robert, Kenyatta, Lindsey, Janice, Jenn, Katie\n\nOptional attendees: Chad, Erika, Sarah", 
             "facilitator_array": [], 
@@ -297,7 +297,7 @@
             "title": "Hive Deep-Dive"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Wednesday", 
             "description": "Time for the Science and Open Web Fellow / Advocacy hub team to dig into a shared fellowship strategy for MLN, including planning for shared, joint onboarding for Year 2 Fellows, resourcing, partnership strategy and cross-program collaboration.\n\nRequired attendees: Aurelia, Zannah, Arliss, Stephanie W, Abby, Christie, Melissa, Vanessa", 
             "facilitator_array": [
@@ -313,7 +313,7 @@
             "title": "MoFo Fellowships"
         }, 
         {
-            "category": "Ops", 
+            "category": "", 
             "day": "Wednesday", 
             "description": "", 
             "facilitator_array": [], 
@@ -327,7 +327,7 @@
             "title": "Increasing Financial Literacy"
         }, 
         {
-            "category": "Advocacy", 
+            "category": "", 
             "day": "Wednesday", 
             "description": "", 
             "facilitator_array": [], 
@@ -341,7 +341,7 @@
             "title": "Advocacy Jam with Marketing"
         }, 
         {
-            "category": "Food & Social", 
+            "category": "", 
             "day": "Wednesday", 
             "description": "Served in the hotel you meet in.", 
             "facilitator_array": [], 
@@ -355,7 +355,7 @@
             "title": "Lunch"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Wednesday", 
             "description": "NOTE THIS WILL BE IN THE CONNECTED DEVICES HOMEROOM\n\nAre you interested in learning & making away from keyboard? This zone will be kitted out with hardware, craft materials and other rapid prototyping tools to help you take your idea from post-it to reality.\n\nBring a fresh idea hatched at the all-hands, or something you've been mulling over for a while, and we'll help you turn it into something physical that helps others understand, interact with and improve it. \n\nWe'll also share reflections on prototyping practices we've been experimenting with and invite others to share their triumphs and challenges in these efforts as well. ", 
             "facilitator_array": [
@@ -372,7 +372,7 @@
             "title": "IoT Drop-in Clinic"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Wednesday", 
             "description": "Required attendees: Ali, Alan, Gideon, Mavis, Sabrina, Pomax, Gavin, Kristina, Luke, Abby, Chris", 
             "facilitator_array": [
@@ -390,7 +390,7 @@
             "title": "MLN Production Breakout Groups"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Wednesday", 
             "description": "We'll be digging into onboarding plans for both programs, infrastructure needs for community-driven events + resource creation, and looking at opportunities to connect across program / region. \n\nRequired attendees: Zanna, Arliss, Anna, Rob, Caro, Julia, Andre, Hannah, Sabrina, Luke, Pomax\n\nOptional attendees: Laura, Bobby, Hana, Kenyatta", 
             "facilitator_array": [
@@ -407,7 +407,7 @@
             "title": "Community Engagement Onboarding"
         }, 
         {
-            "category": "Insights", 
+            "category": "", 
             "day": "Wednesday", 
             "description": "", 
             "facilitator_array": [], 
@@ -421,7 +421,7 @@
             "title": "State of the Web"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Wednesday", 
             "description": "NOTE THIS WILL BE IN THE CONNECTED DEVICES HOMEROOM\n\nAre you interested in learning & making away from keyboard? This zone will be kitted out with hardware, craft materials and other rapid prototyping tools to help you take your idea from post-it to reality.\n\nBring a fresh idea hatched at the all-hands, or something you've been mulling over for a while, and we'll help you turn it into something physical that helps others understand, interact with and improve it. \n\nWe'll also share reflections on prototyping practices we've been experimenting with and invite others to share their triumphs and challenges in these efforts as well. ", 
             "facilitator_array": [
@@ -438,7 +438,7 @@
             "title": "IoT Drop-in Clinic"
         }, 
         {
-            "category": "Participation", 
+            "category": "", 
             "day": "Wednesday", 
             "description": "Participation", 
             "facilitator_array": [], 
@@ -452,7 +452,7 @@
             "title": "Core Leadership Sprint"
         }, 
         {
-            "category": "Advocacy", 
+            "category": "", 
             "day": "Wednesday", 
             "description": "", 
             "facilitator_array": [], 
@@ -466,7 +466,7 @@
             "title": "Advocacy Tech Planning"
         }, 
         {
-            "category": "Food & Social", 
+            "category": "", 
             "day": "Wednesday", 
             "description": "", 
             "facilitator_array": [], 
@@ -480,7 +480,7 @@
             "title": "Coffee break"
         }, 
         {
-            "category": "Mozilla", 
+            "category": "", 
             "day": "Wednesday", 
             "description": "Choose your own: [Sched](http://mozillalondonallhands2016.sched.org/)", 
             "facilitator_array": [], 
@@ -494,7 +494,7 @@
             "title": "Electives"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Wednesday", 
             "description": "We'll take a design-centered field trip to Ravensbourne to envision how we'll use the space for MozFest 2016 (for design, wayfinding, alternatives-to-mainstage (currently known as 'salons'. final name tbd), info cafes etc)\n\nRequired attendees: Matthew, Jordan, Erika, Kristina, Kevin, Luca\n\nOptional attendeees:", 
             "facilitator_array": [
@@ -510,7 +510,7 @@
             "title": "Ravensbourne Field Trip"
         }, 
         {
-            "category": "Food & Social", 
+            "category": "", 
             "day": "Wednesday", 
             "description": "", 
             "facilitator_array": [], 
@@ -524,7 +524,7 @@
             "title": "Supper"
         }, 
         {
-            "category": "Insights", 
+            "category": "", 
             "day": "Wednesday", 
             "description": "Get the key folks across MoFo working on harvesting & sharing stories together to:\n 1. get everyone on the same page what the projects are on-going, and\n 2. identify opportunities/practices that will enable us to collaborate & ensure we're working together effectively\n\nProjects involved include:\n - MLN Story Engine\n - Issues Radar\n - State of the Web\n - Network Pulse\n - Advocacy media\n\nRequired attendees: Matt, Chris, Matthew, Bobby, Paul, Sam, Brett\n\nOptional attendees: Jordan, Simon, Laura, Lotta", 
             "facilitator_array": [
@@ -540,7 +540,7 @@
             "title": "Harvesting stories across Mozilla"
         }, 
         {
-            "category": "Food & Social", 
+            "category": "", 
             "day": "Thursday", 
             "description": "Served in the hotel you sleep in.", 
             "facilitator_array": [], 
@@ -554,7 +554,7 @@
             "title": "Breakfast"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Thursday", 
             "description": "Required attendees: Ali, Alan, Gideon, Mavis, Sabrina, Pomax, Gavin, Kristina, Luke, Abby, Chris", 
             "facilitator_array": [
@@ -572,7 +572,7 @@
             "title": "MLN Production Breakout Group"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Thursday", 
             "description": "\"Building Bridges by Design\" will take forethought and calendaring! We need in-person space to talk through and plan for H2 activities and achievements.\n\nRequired attendees: Simona, Sam, Hana, Julia, Amira, Andre, Caro, Lindsey, Jenn, Katie, Janice, Chad, Robert, Kenyatta\n\nOptional attendees: Lainie", 
             "facilitator_array": [
@@ -588,7 +588,7 @@
             "title": "Learning Hub H2 Planning"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Thursday", 
             "description": "This is a planning session to create an MSL study group onboarding curriculum/training experience, to help new study group leads successfully start up, sustain and grow groups.\n\nRequired attendees: Arliss, Rob\n\nOptional attendees: Abby, Stephanie W", 
             "facilitator_array": [
@@ -605,7 +605,7 @@
             "title": "Science Study Group Onboarding"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Thursday", 
             "description": "Planning out H2 goals/deliverables for the Advocacy Network, including OWF program (but excluding Field at the moment)\n\n", 
             "facilitator_array": [
@@ -622,7 +622,7 @@
             "title": "Open Web Fellows & Advocacy Network H2 Planning"
         }, 
         {
-            "category": "Ops", 
+            "category": "", 
             "day": "Thursday", 
             "description": "", 
             "facilitator_array": [], 
@@ -636,7 +636,7 @@
             "title": "Operations: Program Review Deep Dive"
         }, 
         {
-            "category": "Ops", 
+            "category": "", 
             "day": "Thursday", 
             "description": "", 
             "facilitator_array": [], 
@@ -664,7 +664,7 @@
             "title": "Fundraising"
         }, 
         {
-            "category": "Food & Social", 
+            "category": "", 
             "day": "Thursday", 
             "description": "", 
             "facilitator_array": [], 
@@ -678,7 +678,7 @@
             "title": "Coffee"
         }, 
         {
-            "category": "Advocacy", 
+            "category": "", 
             "day": "Thursday", 
             "description": "", 
             "facilitator_array": [], 
@@ -692,7 +692,7 @@
             "title": "Copyright Campaign Planning"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Thursday", 
             "description": "Required attendees: Ali, Alan, Gideon, Mavis, Sabrina, Pomax, Gavin, Kristina, Luke, Abby, Chris", 
             "facilitator_array": [
@@ -710,7 +710,7 @@
             "title": "MLN Production Breakout Group"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Thursday", 
             "description": "This will be a walk through of the first cut of the Open Leaderhship \ncurriculum, including a quick overview followed by a deep dive into a number of the modules. Looking for others to join to provide feedback, talk about implementation and testing with their communities to create a shared experience across Mozilla, and discuss next steps. \n\nRequired attendees: Stephanie W, Amira, Caro, Emma, Chris Mills, \n\nOptional: Chris", 
             "facilitator_array": [
@@ -727,7 +727,7 @@
             "title": "Open Leadership Curriculum"
         }, 
         {
-            "category": "MoFo", 
+            "category": "", 
             "day": "Thursday", 
             "description": "Designing MozFest for 2017 and beyond. Big picture scope with the question should we move locations for 2017, who are we designing for, and if we will hold one MozFest or coordinate many smaller MozFest around the world.\n\nRequired attendees: Mark, Chris, David, Angela\n\nOptional attendees: Michelle", 
             "facilitator_array": [
@@ -744,7 +744,7 @@
             "title": "MozFest Future & Goals"
         }, 
         {
-            "category": "MoFo", 
+            "category": "", 
             "day": "Thursday", 
             "description": "", 
             "facilitator_array": [], 
@@ -758,7 +758,7 @@
             "title": "Designing 2020 Strategy"
         }, 
         {
-            "category": "MoFo", 
+            "category": "", 
             "day": "Thursday", 
             "description": "", 
             "facilitator_array": [], 
@@ -772,7 +772,7 @@
             "title": "HR sessions"
         }, 
         {
-            "category": "MoFo", 
+            "category": "", 
             "day": "Thursday", 
             "description": "", 
             "facilitator_array": [], 
@@ -786,7 +786,7 @@
             "title": "Internal Comms Chat"
         }, 
         {
-            "category": "Food & Social", 
+            "category": "", 
             "day": "Thursday", 
             "description": "", 
             "facilitator_array": [], 
@@ -800,7 +800,7 @@
             "title": "Lunch"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Thursday", 
             "description": "Required attendees: Ali, Alan, Gideon, Mavis, Sabrina, Pomax, Gavin, Kristina, Luke, Abby, Chris", 
             "facilitator_array": [
@@ -818,7 +818,7 @@
             "title": "MLN Production Shareouts"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Thursday", 
             "description": "Focused time to plan and build out the Learning Space at MozFest\n\nRequired attendees: Chad, Amira, Julia, Simona, Lainie, Andre\n\nOptional attendees: Kevin, Sarah, Erika", 
             "facilitator_array": [
@@ -834,7 +834,7 @@
             "title": "MozFest Learning Hub"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Thursday", 
             "description": "Planning for Chicago WOW and Science space at MozFest\n\nRequired attendeees: Zannah, Aurelia, Stephanie W, Arliss", 
             "facilitator_array": [
@@ -850,7 +850,7 @@
             "title": "Science WOW Chicago/MozFest"
         }, 
         {
-            "category": "MoFo", 
+            "category": "", 
             "day": "Thursday", 
             "description": "What is MozFest? How best to share our story, the festival value and attract new attendees.\n\nA session to discuss our comms plan for MozFest 2016 and the value of introducing a Marketing team to the festival. \n\nRequired attendees: Erika, Paul, Kevin", 
             "facilitator_array": [
@@ -866,7 +866,7 @@
             "title": "MozFest Comms"
         }, 
         {
-            "category": "MoFo", 
+            "category": "", 
             "day": "Thursday", 
             "description": "", 
             "facilitator_array": [], 
@@ -880,7 +880,7 @@
             "title": "Practical Guide to Ops at MoFo"
         }, 
         {
-            "category": "Ops", 
+            "category": "", 
             "day": "Thursday", 
             "description": "", 
             "facilitator_array": [], 
@@ -894,7 +894,7 @@
             "title": "HR internal comms chat (Michael + Lotta)"
         }, 
         {
-            "category": "Advocacy", 
+            "category": "", 
             "day": "Thursday", 
             "description": "", 
             "facilitator_array": [], 
@@ -908,7 +908,7 @@
             "title": "Maker Party Plan & Build"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Thursday", 
             "description": "Join this workshop to discuss what we are learning with DSO, and brainstorm with the group about how we make sure this is a useful project, how it can apply to people's work and the best way to help you incorporate lessons learned into your work. \n\nWill also discuss web literacy learnings and user centered production. \n\nRequired attendees: Sam B\n\nOptional attendees: Brett, Brian, Kevin, Lynn, Michelle, Nisha, Paul, Rina, Robert, Chad, David, Dees, Meghan, Sara, Amira, An-Me, Andrea, Jochai, Julia, Kalpana, Lainie, Lotta, Lucy, Luke, Matthew, Rosana, Sana, Simon", 
             "facilitator_array": [
@@ -925,7 +925,7 @@
             "title": "Research Workshop: Early Learnings from DSO"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Thursday", 
             "description": "Designated space and time for staff and community members to create short videos or take photos for use in the Leadership Curriculum.\n\nOptional attendees: Kaitlin, Robert, Hannah, Caro, Erika, Sarah", 
             "facilitator_array": [
@@ -942,7 +942,7 @@
             "title": "Leadership Curriculum Video Booth"
         }, 
         {
-            "category": "Ops", 
+            "category": "", 
             "day": "Thursday", 
             "description": "", 
             "facilitator_array": [], 
@@ -956,7 +956,7 @@
             "title": "Review H2 Goals (Pamela, Alex, Ruzanna)"
         }, 
         {
-            "category": "Food & Social", 
+            "category": "", 
             "day": "Thursday", 
             "description": "", 
             "facilitator_array": [], 
@@ -970,7 +970,7 @@
             "title": "Coffee"
         }, 
         {
-            "category": "Mozilla", 
+            "category": "", 
             "day": "Thursday", 
             "description": "Choose your own: [Sched](http://mozillalondonallhands2016.sched.org/)", 
             "facilitator_array": [], 
@@ -984,7 +984,7 @@
             "title": "Electives"
         }, 
         {
-            "category": "MoFo", 
+            "category": "", 
             "day": "Thursday", 
             "description": "", 
             "facilitator_array": [], 
@@ -998,7 +998,7 @@
             "title": "PM practise group"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Thursday", 
             "description": "Are you interested in learning & making away from keyboard? This zone will be kitted out with hardware, craft materials and other rapid prototyping tools to help you take your idea from post-it to reality.\n\nBring a fresh idea hatched at the all-hands, or something you've been mulling over for a while, and we'll help you turn it into something physical that helps others understand, interact with and improve it. \n\nWe'll also share reflections on prototyping practices we've been experimenting with and invite others to share their triumphs and challenges in these efforts as well. ", 
             "facilitator_array": [
@@ -1015,7 +1015,7 @@
             "title": "IoT Drop-in Clinic"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Thursday", 
             "description": "Walk through of the Open Data curriculum. This will be an overview of the plan for the whole curriculum plus a look at the first three primers and related teaching modules with exercises that have been developed so far. Looking for others to join into provide feedback, talk about delivery methods and discuss next steps. \n\nRequired attendees: Aurelia, Kaitlin, Arliss, Abby, Christie, Chad, Amira, Caro, Emma, Chris Mills", 
             "facilitator_array": [
@@ -1032,7 +1032,7 @@
             "title": "Open Data Curriculum"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Thursday", 
             "description": "June 14th broadcast of the Mozilla Curriculum Workshop focusing on summer learning about maker education, participatory learning, and web literacy. Will feature MozFest, its call for proposals, and past sessions/workshops as examples of events, practices and spaces we can study this summer to level up our teaching practices.\n\nRequired attendees: ", 
             "facilitator_array": [
@@ -1050,7 +1050,7 @@
             "title": "Mozilla Curriculum Workshop"
         }, 
         {
-            "category": "Food & Social", 
+            "category": "", 
             "day": "Thursday", 
             "description": "", 
             "facilitator_array": [], 
@@ -1064,7 +1064,7 @@
             "title": "Supper"
         }, 
         {
-            "category": "Food & Social", 
+            "category": "", 
             "day": "Friday", 
             "description": "Served in the hotel you sleep in.", 
             "facilitator_array": [], 
@@ -1078,7 +1078,7 @@
             "title": "Breakfast"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Friday", 
             "description": "Required attendees: Ali, Alan, Gideon, Mavis, Sabrina, Pomax, Gavin, Kristina, Luke, Abby, Chris", 
             "facilitator_array": [
@@ -1096,7 +1096,7 @@
             "title": "MLN Production Process conversation"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Friday", 
             "description": "\"Building Bridges by Design\" will take forethought and calendaring! We need in-person space to talk through and plan for H2 activities and achievements.\n\nRequired attendees: Simona, Sam, Hana, Julia, Amira, Andre, Caro, Lindsey, Jenn, Katie, Janice, Chad, Robert, Kenyatta\n\nOptional attendees: Lainie", 
             "facilitator_array": [
@@ -1112,7 +1112,7 @@
             "title": "Learning Hub H2 Planning #2"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Friday", 
             "description": "Science Lab team time, to reflect on H1 work, and plan for H2.\n\n*Required attendees*: Aurelia, Zannah, Arliss, Stephanie W, Rob, Anna, Christie", 
             "facilitator_array": [
@@ -1128,7 +1128,7 @@
             "title": "Science H2 Planning #2"
         }, 
         {
-            "category": "Advocacy", 
+            "category": "", 
             "day": "Friday", 
             "description": "", 
             "facilitator_array": [], 
@@ -1142,7 +1142,7 @@
             "title": "Advocacy team time (KPIs?)"
         }, 
         {
-            "category": "Food & Social", 
+            "category": "", 
             "day": "Friday", 
             "description": "", 
             "facilitator_array": [], 
@@ -1156,7 +1156,7 @@
             "title": "Coffee"
         }, 
         {
-            "category": "MoFo", 
+            "category": "", 
             "day": "Friday", 
             "description": "Required attendees: Matthew, Jordan, Sabrina, Kristina, Natalie, Luke", 
             "facilitator_array": [
@@ -1173,7 +1173,7 @@
             "title": "Design vision, identity, process"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Friday", 
             "description": "Discuss Mozilla Club for Women and Girls program in Nairobi and Cape Town and how we can continue to build the program for success. What have we learned, how can we continue. \n\nRequired attendees: Julia, Baratang, Mmkai, Hildah, Lynn", 
             "facilitator_array": [
@@ -1189,7 +1189,7 @@
             "title": "MozClubs Women & Girls"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Friday", 
             "description": "I'd like to use this face time to sort through communications and staff details for the September IoT event in Chattanooga. The gives us all a chance to walk through the event (as best we can) before the call goes out to applicants in early July. \n\nRequired attendees: Janice, Jenn, Robert, Jon\n\nOptional attendees: Julia", 
             "facilitator_array": [
@@ -1207,7 +1207,7 @@
             "title": "IoT Chattanooga"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Friday", 
             "description": "Workshop on how strategic partnership team will support MLN directors/hub leads with fundraising and grant management. This session will focus on overview of tools, processes including how to making a compelling case for $$, and grant management.\n\nRequired attendees: Amira, Simona, Kenyatta, Janice, Katie, Melissa, Sara, Michelle, Stephanie W, Jenn, Robert, Jessie, Lynn\n\nOptional attendees: Meghan, Kaitlin", 
             "facilitator_array": [
@@ -1224,7 +1224,7 @@
             "title": "MLN Fundraising & Grant Management"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Friday", 
             "description": "This session will dig into the relationship between metrics and convenings for the remainder of 2016, digging into how convenings map to increased activity + engagement from communities, strategy for data collection and participant analysis, and ultimately retention. \n\nRequired attendees: Erika, Sarah, Arliss, Aurelia\n\nOptional attendees: Jenn, Hana, Kenyatta", 
             "facilitator_array": [
@@ -1240,7 +1240,7 @@
             "title": "MLN Metrics + Convenings"
         }, 
         {
-            "category": "Food & Social", 
+            "category": "", 
             "day": "Friday", 
             "description": "", 
             "facilitator_array": [], 
@@ -1254,7 +1254,7 @@
             "title": "Lunch"
         }, 
         {
-            "category": "MoFo", 
+            "category": "", 
             "day": "Friday", 
             "description": "", 
             "facilitator_array": [], 
@@ -1268,7 +1268,7 @@
             "title": "Comms Council"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Friday", 
             "description": "A brainstorming and roadmapping session with hub leads, hub team members and others interested in identifying collaboration opportunities among, across, in between and sideways with the Mozilla Leadership Network hubs.\n\nRequired attendees: Meghan, Amira, Melissa\n\nOptional attendees: ", 
             "facilitator_array": [
@@ -1285,7 +1285,7 @@
             "title": "MLN Cross-Hub Collab"
         }, 
         {
-            "category": "MoFo", 
+            "category": "", 
             "day": "Friday", 
             "description": "Info session including updates from the retreat, production timeline, what to expect this year, how staff can participate and more. \n\nWe'll also offer opportunities for staff to weigh in on some pieces still taking form, like the Saturday night activity, ideas for speakers etc.\n\nRequired attendees: Great for all new hires", 
             "facilitator_array": [
@@ -1302,7 +1302,7 @@
             "title": "MozFest 2016 Plan"
         }, 
         {
-            "category": "Leadership Network", 
+            "category": "", 
             "day": "Friday", 
             "description": "Designated space and time for staff and community members to create short videos or take photos for use in the Leadership Curriculum.\n\nOptional attendees: Kaitlin", 
             "facilitator_array": [
@@ -1319,7 +1319,7 @@
             "title": "Leadership Curric Vid Booth"
         }, 
         {
-            "category": "MoFo", 
+            "category": "", 
             "day": "Friday", 
             "description": "Our leadership network is full of stories. We're prototyping and testing a \"story engine\" to surface and collect them in more systematic ways, to provide the mix of qualitative + quantitative data, evidence narratives and human impact we need to increase our empathy and understanding for the people we serve. http://mzl.la/story\n\nRequired attendees: Chris\n\nOptional attendees: Lainie, Amira, Chad, Sam B, Melissa, Aurelia, Stephanie M", 
             "facilitator_array": [
@@ -1335,7 +1335,7 @@
             "title": "Story Engine Deep-Dive"
         }, 
         {
-            "category": "Ops", 
+            "category": "", 
             "day": "Friday", 
             "description": "", 
             "facilitator_array": [], 
@@ -1349,7 +1349,7 @@
             "title": "Operations Team de-brief + next steps"
         }, 
         {
-            "category": "Advocacy", 
+            "category": "", 
             "day": "Friday", 
             "description": "", 
             "facilitator_array": [], 
@@ -1363,7 +1363,7 @@
             "title": "Advocacy team time"
         }, 
         {
-            "category": "Food & Social", 
+            "category": "", 
             "day": "Friday", 
             "description": "", 
             "facilitator_array": [], 
@@ -1377,7 +1377,7 @@
             "title": "Coffee"
         }, 
         {
-            "category": "MoFo", 
+            "category": "", 
             "day": "Friday", 
             "description": "", 
             "facilitator_array": [], 
@@ -1391,7 +1391,7 @@
             "title": "MoFo Closing All Hands"
         }, 
         {
-            "category": "Food & Social", 
+            "category": "", 
             "day": "Friday", 
             "description": "", 
             "facilitator_array": [], 
