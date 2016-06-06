@@ -171,7 +171,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnproductionintro", 
             "start": "09:00 AM", 
             "tags": "Leadership Network", 
-            "timeblock": "wednesday-team-time--wednesday-09-00-", 
+            "timeblock": "wednesday-team-time-wed-1--wednesday-09-00-", 
             "title": "MLN Production Intro"
         }, 
         {
@@ -187,7 +187,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-learninghubteambuilding", 
             "start": "09:00 AM", 
             "tags": "Leadership Network", 
-            "timeblock": "wednesday-team-time--wednesday-09-00-", 
+            "timeblock": "wednesday-team-time-wed-1--wednesday-09-00-", 
             "title": "Learning Hub: Team Building"
         }, 
         {
@@ -203,7 +203,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-sciencelabhplanning", 
             "start": "09:00 AM", 
             "tags": "Leadership Network", 
-            "timeblock": "wednesday-team-time--wednesday-09-00-", 
+            "timeblock": "wednesday-team-time-wed-1--wednesday-09-00-", 
             "title": "Science Lab H2 Planning #1"
         }, 
         {
@@ -217,7 +217,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-advocacyhackbuild", 
             "start": "09:00 AM", 
             "tags": "Advocacy", 
-            "timeblock": "wednesday-team-time--wednesday-09-00-", 
+            "timeblock": "wednesday-team-time-wed-1--wednesday-09-00-", 
             "title": "Advocacy Hack & Build"
         }, 
         {
@@ -231,7 +231,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-advocacyjamwithmarketing", 
             "start": "09:00 AM", 
             "tags": "Advocacy", 
-            "timeblock": "wednesday-team-time--wednesday-09-00-", 
+            "timeblock": "wednesday-team-time-wed-1--wednesday-09-00-", 
             "title": "Advocacy Jam with Marketing"
         }, 
         {
@@ -263,7 +263,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnproductionbreakoutgroups", 
             "start": "10:30 AM", 
             "tags": "Leadership Network", 
-            "timeblock": "wednesday-team-time--wednesday-10-30-", 
+            "timeblock": "wednesday-team-time-wed-2--wednesday-10-30-", 
             "title": "MLN Production Breakout Groups"
         }, 
         {
@@ -279,7 +279,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-clubsdeepdive", 
             "start": "10:30 AM", 
             "tags": "Leadership Network", 
-            "timeblock": "wednesday-team-time--wednesday-10-30-", 
+            "timeblock": "wednesday-team-time-wed-2--wednesday-10-30-", 
             "title": "Clubs Deep-Dive"
         }, 
         {
@@ -293,7 +293,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-hivedeepdive", 
             "start": "10:30 AM", 
             "tags": "Leadership Network", 
-            "timeblock": "wednesday-team-time--wednesday-10-30-", 
+            "timeblock": "wednesday-team-time-wed-2--wednesday-10-30-", 
             "title": "Hive Deep-Dive"
         }, 
         {
@@ -309,7 +309,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mofofellowships", 
             "start": "10:30 AM", 
             "tags": "Leadership Network", 
-            "timeblock": "wednesday-team-time--wednesday-10-30-", 
+            "timeblock": "wednesday-team-time-wed-2--wednesday-10-30-", 
             "title": "MoFo Fellowships"
         }, 
         {
@@ -323,7 +323,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-increasingfinancialliteracy", 
             "start": "10:30 AM", 
             "tags": "Ops", 
-            "timeblock": "wednesday-team-time--wednesday-10-30-", 
+            "timeblock": "wednesday-team-time-wed-2--wednesday-10-30-", 
             "title": "Increasing Financial Literacy"
         }, 
         {
@@ -337,7 +337,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-advocacyjamwithmarketing", 
             "start": "10:30 AM", 
             "tags": "Advocacy", 
-            "timeblock": "wednesday-team-time--wednesday-10-30-", 
+            "timeblock": "wednesday-team-time-wed-2--wednesday-10-30-", 
             "title": "Advocacy Jam with Marketing"
         }, 
         {
@@ -386,7 +386,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnproductionbreakoutgroups", 
             "start": "01:30 PM", 
             "tags": "Leadership Network", 
-            "timeblock": "wednesday-team-time--wednesday-13-30-", 
+            "timeblock": "wednesday-team-time-wed-3--wednesday-13-30-", 
             "title": "MLN Production Breakout Groups"
         }, 
         {
@@ -403,7 +403,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-communityengagementonboarding", 
             "start": "01:30 PM", 
             "tags": "Leadership Network", 
-            "timeblock": "wednesday-team-time--wednesday-13-30-", 
+            "timeblock": "wednesday-team-time-wed-3--wednesday-13-30-", 
             "title": "Community Engagement Onboarding"
         }, 
         {
@@ -417,7 +417,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-stateoftheweb", 
             "start": "01:30 PM", 
             "tags": "Insights", 
-            "timeblock": "wednesday-team-time--wednesday-13-30-", 
+            "timeblock": "wednesday-team-time-wed-3--wednesday-13-30-", 
             "title": "State of the Web"
         }, 
         {
@@ -434,7 +434,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-iotdropinclinic", 
             "start": "01:30 PM", 
             "tags": "Leadership Network", 
-            "timeblock": "wednesday-team-time--wednesday-13-30-", 
+            "timeblock": "wednesday-team-time-wed-3--wednesday-13-30-", 
             "title": "IoT Drop-in Clinic"
         }, 
         {
@@ -448,7 +448,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-coreleadershipsprint", 
             "start": "01:30 PM", 
             "tags": "Participation", 
-            "timeblock": "wednesday-team-time--wednesday-13-30-", 
+            "timeblock": "wednesday-team-time-wed-3--wednesday-13-30-", 
             "title": "Core Leadership Sprint"
         }, 
         {
@@ -462,7 +462,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-advocacytechplanning", 
             "start": "01:30 PM", 
             "tags": "Advocacy", 
-            "timeblock": "wednesday-team-time--wednesday-13-30-", 
+            "timeblock": "wednesday-team-time-wed-3--wednesday-13-30-", 
             "title": "Advocacy Tech Planning"
         }, 
         {
@@ -538,7 +538,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-harvestingstoriesacrossmozilla", 
             "start": "01:30 PM", 
             "tags": "Insights", 
-            "timeblock": "wednesday-team-time--wednesday-13-30-", 
+            "timeblock": "wednesday-team-time-wed-3--wednesday-13-30-", 
             "title": "Harvesting stories across Mozilla"
         }, 
         {
@@ -586,7 +586,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-learninghubhplanning", 
             "start": "09:00 AM", 
             "tags": "Leadership Network", 
-            "timeblock": "thursday-team-time--thursday-09-00-", 
+            "timeblock": "thursday-team-time-thu-1--thursday-09-00-", 
             "title": "Learning Hub H2 Planning"
         }, 
         {
@@ -603,7 +603,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-sciencestudygrouponboarding", 
             "start": "09:00 AM", 
             "tags": "Leadership Network", 
-            "timeblock": "thursday-team-time--thursday-09-00-", 
+            "timeblock": "thursday-team-time-thu-1--thursday-09-00-", 
             "title": "Science Study Group Onboarding"
         }, 
         {
@@ -620,7 +620,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-openwebfellowsadvocacynetworkhplanning", 
             "start": "09:00 AM", 
             "tags": "Leadership Network", 
-            "timeblock": "thursday-team-time--thursday-09-00-", 
+            "timeblock": "thursday-team-time-thu-1--thursday-09-00-", 
             "title": "Open Web Fellows & Advocacy Network H2 Planning"
         }, 
         {
@@ -634,7 +634,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-operationsprogramreviewdeepdive", 
             "start": "09:00 AM", 
             "tags": "Ops", 
-            "timeblock": "thursday-team-time--thursday-09-00-", 
+            "timeblock": "thursday-team-time-thu-1--thursday-09-00-", 
             "title": "Operations: Program Review Deep Dive"
         }, 
         {
@@ -648,7 +648,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-goalsettingalexruzanna", 
             "start": "09:00 AM", 
             "tags": "Ops", 
-            "timeblock": "thursday-team-time--thursday-09-00-", 
+            "timeblock": "thursday-team-time-thu-1--thursday-09-00-", 
             "title": "Goal-setting (Alex + Ruzanna)"
         }, 
         {
@@ -662,7 +662,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-fundraising", 
             "start": "09:00 AM", 
             "tags": "", 
-            "timeblock": "thursday-team-time--thursday-09-00-", 
+            "timeblock": "thursday-team-time-thu-1--thursday-09-00-", 
             "title": "Fundraising"
         }, 
         {
@@ -690,7 +690,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-copyrightcampaignplanning", 
             "start": "10:30 AM", 
             "tags": "Advocacy", 
-            "timeblock": "thursday-team-time--thursday-10-30-", 
+            "timeblock": "thursday-team-time-thu-2--thursday-10-30-", 
             "title": "Copyright Campaign Planning"
         }, 
         {
@@ -706,9 +706,9 @@
             "id": "411", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnproductionbreakoutgroup", 
-            "start": "09:00 AM", 
+            "start": "10:30 AM", 
             "tags": "Leadership Network", 
-            "timeblock": "thursday-team-time--thursday-09-00-", 
+            "timeblock": "thursday-team-time-thu-2--thursday-10-30-", 
             "title": "MLN Production Breakout Group"
         }, 
         {
@@ -725,7 +725,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-openleadershipcurriculum", 
             "start": "10:30 AM", 
             "tags": "Leadership Network", 
-            "timeblock": "thursday-team-time--thursday-10-30-", 
+            "timeblock": "thursday-team-time-thu-2--thursday-10-30-", 
             "title": "Open Leadership Curriculum"
         }, 
         {
@@ -742,7 +742,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mozfestfuturegoals", 
             "start": "10:30 AM", 
             "tags": "MoFo", 
-            "timeblock": "thursday-team-time--thursday-10-30-", 
+            "timeblock": "thursday-team-time-thu-2--thursday-10-30-", 
             "title": "MozFest Future & Goals"
         }, 
         {
@@ -756,7 +756,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-designingstrategy", 
             "start": "10:30 AM", 
             "tags": "MoFo", 
-            "timeblock": "thursday-team-time--thursday-10-30-", 
+            "timeblock": "thursday-team-time-thu-2--thursday-10-30-", 
             "title": "Designing 2020 Strategy"
         }, 
         {
@@ -770,7 +770,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-hrsessions", 
             "start": "10:30 AM", 
             "tags": "MoFo", 
-            "timeblock": "thursday-team-time--thursday-10-30-", 
+            "timeblock": "thursday-team-time-thu-2--thursday-10-30-", 
             "title": "HR sessions"
         }, 
         {
@@ -784,7 +784,7 @@
             "notes url": "", 
             "start": "10:30 AM", 
             "tags": "MoFo", 
-            "timeblock": "thursday-team-time--thursday-10-30-", 
+            "timeblock": "thursday-team-time-thu-2--thursday-10-30-", 
             "title": "Internal Comms Chat"
         }, 
         {
@@ -816,7 +816,7 @@
             "notes url": "", 
             "start": "01:30 PM", 
             "tags": "Leadership Network", 
-            "timeblock": "thursday-team-time--thursday-13-30-", 
+            "timeblock": "thursday-team-time-thu-3--thursday-13-30-", 
             "title": "MLN Production Shareouts"
         }, 
         {
@@ -832,7 +832,7 @@
             "notes url": "", 
             "start": "01:30 PM", 
             "tags": "Leadership Network", 
-            "timeblock": "thursday-team-time--thursday-13-30-", 
+            "timeblock": "thursday-team-time-thu-3--thursday-13-30-", 
             "title": "MozFest Learning Hub"
         }, 
         {
@@ -848,7 +848,7 @@
             "notes url": "", 
             "start": "01:30 PM", 
             "tags": "Leadership Network", 
-            "timeblock": "thursday-team-time--thursday-13-30-", 
+            "timeblock": "thursday-team-time-thu-3--thursday-13-30-", 
             "title": "Science WOW Chicago/MozFest"
         }, 
         {
@@ -864,7 +864,7 @@
             "notes url": "", 
             "start": "01:30 PM", 
             "tags": "MoFo", 
-            "timeblock": "thursday-team-time--thursday-13-30-", 
+            "timeblock": "thursday-team-time-thu-3--thursday-13-30-", 
             "title": "MozFest Comms"
         }, 
         {
@@ -878,7 +878,7 @@
             "notes url": "", 
             "start": "01:30 PM", 
             "tags": "MoFo", 
-            "timeblock": "thursday-team-time--thursday-13-30-", 
+            "timeblock": "thursday-team-time-thu-3--thursday-13-30-", 
             "title": "Practical Guide to Ops at MoFo"
         }, 
         {
@@ -892,7 +892,7 @@
             "notes url": "", 
             "start": "01:30 PM", 
             "tags": "Ops", 
-            "timeblock": "thursday-team-time--thursday-13-30-", 
+            "timeblock": "thursday-team-time-thu-3--thursday-13-30-", 
             "title": "HR internal comms chat (Michael + Lotta)"
         }, 
         {
@@ -906,7 +906,7 @@
             "notes url": "", 
             "start": "01:30 PM", 
             "tags": "Advocacy", 
-            "timeblock": "thursday-team-time--thursday-13-30-", 
+            "timeblock": "thursday-team-time-thu-3--thursday-13-30-", 
             "title": "Maker Party Plan & Build"
         }, 
         {
@@ -923,7 +923,7 @@
             "notes url": "", 
             "start": "01:30 PM", 
             "tags": "Leadership Network", 
-            "timeblock": "thursday-team-time--thursday-13-30-", 
+            "timeblock": "thursday-team-time-thu-3--thursday-13-30-", 
             "title": "Research Workshop: Early Learnings from DSO"
         }, 
         {
@@ -940,7 +940,7 @@
             "notes url": "", 
             "start": "01:30 PM", 
             "tags": "Leadership Network", 
-            "timeblock": "thursday-team-time--thursday-13-30-", 
+            "timeblock": "thursday-team-time-thu-3--thursday-13-30-", 
             "title": "Leadership Curriculum Video Booth"
         }, 
         {
@@ -954,7 +954,7 @@
             "notes url": "", 
             "start": "01:30 PM", 
             "tags": "Ops", 
-            "timeblock": "thursday-team-time--thursday-13-30-", 
+            "timeblock": "thursday-team-time-thu-3--thursday-13-30-", 
             "title": "Review H2 Goals (Pamela, Alex, Ruzanna)"
         }, 
         {
@@ -1076,7 +1076,7 @@
             "notes url": "", 
             "start": "10:30 AM", 
             "tags": "Insights", 
-            "timeblock": "thursday-team-time--thursday-10-30-", 
+            "timeblock": "thursday-team-time-thu-2--thursday-10-30-", 
             "title": "Strategic Plan: visual design for version 1.0"
         }, 
         {
@@ -1108,7 +1108,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnproductionprocessconversation", 
             "start": "09:00 AM", 
             "tags": "Leadership Network", 
-            "timeblock": "friday-team-time--friday-09-00-", 
+            "timeblock": "friday-team-time-fri-1--friday-09-00-", 
             "title": "MLN Production Process conversation"
         }, 
         {
@@ -1124,7 +1124,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-learninghubhplanning", 
             "start": "09:00 AM", 
             "tags": "Leadership Network", 
-            "timeblock": "friday-team-time--friday-09-00-", 
+            "timeblock": "friday-team-time-fri-1--friday-09-00-", 
             "title": "Learning Hub H2 Planning #2"
         }, 
         {
@@ -1140,7 +1140,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-sciencehplanning", 
             "start": "09:00 AM", 
             "tags": "Leadership Network", 
-            "timeblock": "friday-team-time--friday-09-00-", 
+            "timeblock": "friday-team-time-fri-1--friday-09-00-", 
             "title": "Science H2 Planning #2"
         }, 
         {
@@ -1154,7 +1154,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-advocacyteamtimekpis", 
             "start": "09:00 AM", 
             "tags": "Advocacy", 
-            "timeblock": "friday-team-time--friday-09-00-", 
+            "timeblock": "friday-team-time-fri-1--friday-09-00-", 
             "title": "Advocacy team time (KPIs?)"
         }, 
         {
@@ -1185,7 +1185,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-designvisionidentityprocess", 
             "start": "10:30 AM", 
             "tags": "MoFo", 
-            "timeblock": "friday-team-time--friday-10-30-", 
+            "timeblock": "friday-team-time-fri-2--friday-10-30-", 
             "title": "Design vision, identity, process"
         }, 
         {
@@ -1201,7 +1201,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mozclubswomengirls", 
             "start": "10:30 AM", 
             "tags": "Leadership Network", 
-            "timeblock": "friday-team-time--friday-10-30-", 
+            "timeblock": "friday-team-time-fri-2--friday-10-30-", 
             "title": "MozClubs Women & Girls"
         }, 
         {
@@ -1219,7 +1219,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-iotchattanooga", 
             "start": "10:30 AM", 
             "tags": "Leadership Network", 
-            "timeblock": "friday-team-time--friday-10-30-", 
+            "timeblock": "friday-team-time-fri-2--friday-10-30-", 
             "title": "IoT Chattanooga"
         }, 
         {
@@ -1236,13 +1236,13 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnfundraisinggrantmanagement", 
             "start": "10:30 AM", 
             "tags": "Leadership Network", 
-            "timeblock": "friday-team-time--friday-10-30-", 
+            "timeblock": "friday-team-time-fri-2--friday-10-30-", 
             "title": "MLN Fundraising & Grant Management"
         }, 
         {
             "category": "", 
             "day": "Friday", 
-            "description": "This session will dig into the relationship between metrics and convenings for the remainder of 2016, digging into how convenings map to increased activity + engagement from communities, strategy for data collection and participant analysis, and ultimately retention. \n\nRequired attendees: Erika, Sarah, Arliss, Aurelia\n\nOptional attendees: Jenn, Hana, Kenyatta", 
+            "description": "This session will dig into the relationship between metrics and convenings for the remainder of 2016, digging into how convenings map to increased activity + engagement from communities, strategy for data collection and participant analysis, and ultimately retention. \n\nRequired attendees: Erika, Sarah, Arliss, Aurelia\n\nOptional attendees: Jenn, Hana, Kenyatta, Sam B, Simon", 
             "facilitator_array": [
                 "Kaitlin"
             ], 
@@ -1252,7 +1252,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnmetricsconvenings", 
             "start": "10:30 AM", 
             "tags": "Leadership Network", 
-            "timeblock": "friday-team-time--friday-10-30-", 
+            "timeblock": "friday-team-time-fri-2--friday-10-30-", 
             "title": "MLN Metrics + Convenings"
         }, 
         {
@@ -1297,7 +1297,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlncrosshubcollab", 
             "start": "01:30 PM", 
             "tags": "Leadership Network", 
-            "timeblock": "friday-team-time--friday-13-30-", 
+            "timeblock": "friday-team-time-fri-3--friday-13-30-", 
             "title": "MLN Cross-Hub Collab"
         }, 
         {
@@ -1314,7 +1314,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mozfestplan", 
             "start": "01:30 PM", 
             "tags": "MoFo", 
-            "timeblock": "friday-team-time--friday-13-30-", 
+            "timeblock": "friday-team-time-fri-3--friday-13-30-", 
             "title": "MozFest 2016 Plan"
         }, 
         {
@@ -1331,7 +1331,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-leadershipcurricvidbooth", 
             "start": "01:30 PM", 
             "tags": "Leadership Network", 
-            "timeblock": "friday-team-time--friday-13-30-", 
+            "timeblock": "friday-team-time-fri-3--friday-13-30-", 
             "title": "Leadership Curric Vid Booth"
         }, 
         {
@@ -1347,7 +1347,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-storyenginedeepdive", 
             "start": "01:30 PM", 
             "tags": "MoFo", 
-            "timeblock": "friday-team-time--friday-13-30-", 
+            "timeblock": "friday-team-time-fri-3--friday-13-30-", 
             "title": "Story Engine Deep-Dive"
         }, 
         {
@@ -1361,7 +1361,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-operationsteamdebriefnextsteps", 
             "start": "01:30 PM", 
             "tags": "Ops", 
-            "timeblock": "friday-team-time--friday-13-30-", 
+            "timeblock": "friday-team-time-fri-3--friday-13-30-", 
             "title": "Operations Team de-brief + next steps"
         }, 
         {
@@ -1375,7 +1375,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-advocacyteamtime", 
             "start": "01:30 PM", 
             "tags": "Advocacy", 
-            "timeblock": "friday-team-time--friday-13-30-", 
+            "timeblock": "friday-team-time-fri-3--friday-13-30-", 
             "title": "Advocacy team time"
         }, 
         {
@@ -1452,24 +1452,24 @@
         }, 
         {
             "day": "Wednesday", 
-            "key": "wednesday-team-time--wednesday-09-00-", 
+            "key": "wednesday-team-time-wed-1--wednesday-09-00-", 
             "order": 13, 
             "start time": "09:00 ", 
-            "timeblock name": "Team Time"
+            "timeblock name": "Team Time Wed 1"
         }, 
         {
             "day": "Thursday", 
-            "key": "thursday-team-time--thursday-09-00-", 
+            "key": "thursday-team-time-thu-1--thursday-09-00-", 
             "order": 14, 
             "start time": "09:00 ", 
-            "timeblock name": "Team Time"
+            "timeblock name": "Team Time Thu 1"
         }, 
         {
             "day": "Friday", 
-            "key": "friday-team-time--friday-09-00-", 
+            "key": "friday-team-time-fri-1--friday-09-00-", 
             "order": 15, 
             "start time": "09:00 ", 
-            "timeblock name": "Team Time"
+            "timeblock name": "Team Time Fri 1"
         }, 
         {
             "day": "Tuesday", 
@@ -1501,24 +1501,24 @@
         }, 
         {
             "day": "Wednesday", 
-            "key": "wednesday-team-time--wednesday-10-30-", 
+            "key": "wednesday-team-time-wed-2--wednesday-10-30-", 
             "order": 20, 
             "start time": "10:30 ", 
-            "timeblock name": "Team Time"
+            "timeblock name": "Team Time Wed 2"
         }, 
         {
             "day": "Thursday", 
-            "key": "thursday-team-time--thursday-10-30-", 
+            "key": "thursday-team-time-thu-2--thursday-10-30-", 
             "order": 21, 
             "start time": "10:30 ", 
-            "timeblock name": "Team Time"
+            "timeblock name": "Team Time Thu 2"
         }, 
         {
             "day": "Friday", 
-            "key": "friday-team-time--friday-10-30-", 
+            "key": "friday-team-time-fri-2--friday-10-30-", 
             "order": 22, 
             "start time": "10:30 ", 
-            "timeblock name": "Team Time"
+            "timeblock name": "Team Time Fri 2"
         }, 
         {
             "day": "Tuesday", 
@@ -1557,24 +1557,24 @@
         }, 
         {
             "day": "Wednesday", 
-            "key": "wednesday-team-time--wednesday-13-30-", 
+            "key": "wednesday-team-time-wed-3--wednesday-13-30-", 
             "order": 28, 
             "start time": "13:30", 
-            "timeblock name": "Team Time"
+            "timeblock name": "Team Time Wed 3"
         }, 
         {
             "day": "Thursday", 
-            "key": "thursday-team-time--thursday-13-30-", 
+            "key": "thursday-team-time-thu-3--thursday-13-30-", 
             "order": 29, 
             "start time": "13:30", 
-            "timeblock name": "Team Time"
+            "timeblock name": "Team Time Thu 3"
         }, 
         {
             "day": "Friday", 
-            "key": "friday-team-time--friday-13-30-", 
+            "key": "friday-team-time-fri-3--friday-13-30-", 
             "order": 30, 
             "start time": "13:30", 
-            "timeblock name": "Team Time"
+            "timeblock name": "Team Time Fri 3"
         }, 
         {
             "day": "Tuesday", 
