@@ -12,7 +12,7 @@
             "location": "Room TBD #1", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-welcomereception", 
             "start": "06:00 PM", 
-            "tags": "", 
+            "tags": "Food & Social", 
             "timeblock": "monday-welcome-reception--monday-18-00-", 
             "title": "Welcome Reception"
         }, 
@@ -26,21 +26,21 @@
             "location": "Room TBD #2", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-breakfast", 
             "start": "07:00 AM", 
-            "tags": "", 
+            "tags": "Food & Social", 
             "timeblock": "tuesday-breakfast--tuesday-07-00-", 
             "title": "Breakfast"
         }, 
         {
             "category": "Mozilla", 
             "day": "Tuesday", 
-            "description": "9:30 -11:30 \n\n### hello world ###", 
+            "description": "", 
             "facilitator_array": [], 
             "facilitators": "", 
             "id": "202", 
             "location": "Room TBD #1", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-plenary", 
             "start": "09:30 AM", 
-            "tags": "\n", 
+            "tags": "Mozilla", 
             "timeblock": "tuesday-plenary--tuesday-09-30-", 
             "title": "Plenary"
         }, 
@@ -54,21 +54,21 @@
             "location": "Room TBD #1", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-lunch", 
             "start": "11:30 AM", 
-            "tags": "\n", 
+            "tags": "Food & Social", 
             "timeblock": "tuesday-lunch--tuesday-11-30-", 
             "title": "Lunch"
         }, 
         {
             "category": "MoFo", 
             "day": "Tuesday", 
-            "description": "13:30 - 14:40", 
+            "description": "", 
             "facilitator_array": [], 
             "facilitators": "", 
             "id": "204", 
             "location": "Room TBD #1", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mofoallhands", 
             "start": "01:00 PM", 
-            "tags": "\n", 
+            "tags": "MoFo", 
             "timeblock": "tuesday-mofo-all-hands-opening--tuesday-13-00-", 
             "title": "MoFo All-hands"
         }, 
@@ -82,21 +82,21 @@
             "location": "Room TBD #1", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-afternooncoffeebreak", 
             "start": "02:30 PM", 
-            "tags": "", 
+            "tags": "Food & Social", 
             "timeblock": "tuesday-afternoon-coffee-break--tuesday-14-30-", 
             "title": "Afternoon Coffee Break"
         }, 
         {
             "category": "MoFo", 
             "day": "Tuesday", 
-            "description": "14:45-15:00", 
+            "description": "", 
             "facilitator_array": [], 
             "facilitators": "", 
             "id": "206", 
             "location": "Room TBD #1", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mofoallhands", 
             "start": "02:45 PM", 
-            "tags": "", 
+            "tags": "MoFo", 
             "timeblock": "tuesday-mofo-all-hands--tuesday-14-45-", 
             "title": "MoFo All-hands"
         }, 
@@ -110,7 +110,7 @@
             "location": "Room TBD #1", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-chrisbeardandmitchellbakerinmofoplanned", 
             "start": "03:00 PM", 
-            "tags": "", 
+            "tags": "MoFo", 
             "timeblock": "tuesday-chris-beard-and-mitchell-baker-in-mofo-homeroom--tuesday-15-00-", 
             "title": "Chris Beard and Mitchell Baker in MoFo (planned)"
         }, 
@@ -124,21 +124,21 @@
             "location": "Room TBD #1", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mofoallhands", 
             "start": "04:00 PM", 
-            "tags": "", 
+            "tags": "MoFo", 
             "timeblock": "tuesday-mofo-all-hands-2--tuesday-16-00-", 
             "title": "MoFo All-hands"
         }, 
         {
             "category": "Food & Social", 
             "day": "Tuesday", 
-            "description": "supper in London!!!", 
+            "description": "Supper in London!!!", 
             "facilitator_array": [], 
             "facilitators": "", 
             "id": "209", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-dinner", 
             "start": "06:00 PM", 
-            "tags": "", 
+            "tags": "Food & Social", 
             "timeblock": "tuesday-dinner--tuesday-18-00-", 
             "title": "Dinner"
         }, 
@@ -152,7 +152,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-breakfast", 
             "start": "07:00 AM", 
-            "tags": "", 
+            "tags": "Food & Social", 
             "timeblock": "wednesday-breakfast--wednesday-07-00-", 
             "title": "Breakfast"
         }, 
@@ -170,7 +170,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnproductionintro", 
             "start": "09:00 AM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "wednesday-team-time--wednesday-09-00-", 
             "title": "MLN Production Intro"
         }, 
@@ -186,7 +186,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-learninghubteambuilding", 
             "start": "09:00 AM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "wednesday-team-time--wednesday-09-00-", 
             "title": "Learning Hub: Team Building"
         }, 
@@ -202,7 +202,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-sciencelabhplanning", 
             "start": "09:00 AM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "wednesday-team-time--wednesday-09-00-", 
             "title": "Science Lab H2 Planning #1"
         }, 
@@ -216,7 +216,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-advocacyhackbuild", 
             "start": "09:00 AM", 
-            "tags": "", 
+            "tags": "Advocacy", 
             "timeblock": "wednesday-team-time--wednesday-09-00-", 
             "title": "Advocacy Hack & Build"
         }, 
@@ -230,7 +230,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-advocacyjamwithmarketing", 
             "start": "09:00 AM", 
-            "tags": "", 
+            "tags": "Advocacy", 
             "timeblock": "wednesday-team-time--wednesday-09-00-", 
             "title": "Advocacy Jam with Marketing"
         }, 
@@ -244,7 +244,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-coffeebreak", 
             "start": "10:00 AM", 
-            "tags": "", 
+            "tags": "Food & Social", 
             "timeblock": "wednesday-morning-coffee-break--wednesday-10-00-", 
             "title": "Coffee break"
         }, 
@@ -262,7 +262,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnproductionbreakoutgroups", 
             "start": "10:30 AM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "wednesday-team-time--wednesday-10-30-", 
             "title": "MLN Production Breakout Groups"
         }, 
@@ -278,7 +278,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-clubsdeepdive", 
             "start": "10:30 AM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "wednesday-team-time--wednesday-10-30-", 
             "title": "Clubs Deep-Dive"
         }, 
@@ -292,7 +292,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-hivedeepdive", 
             "start": "07:00 AM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "wednesday-breakfast--wednesday-07-00-", 
             "title": "Hive Deep-Dive"
         }, 
@@ -308,7 +308,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mofofellowships", 
             "start": "10:30 AM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "wednesday-team-time--wednesday-10-30-", 
             "title": "MoFo Fellowships"
         }, 
@@ -322,7 +322,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-increasingfinancialliteracy", 
             "start": "10:30 AM", 
-            "tags": "", 
+            "tags": "Ops", 
             "timeblock": "wednesday-team-time--wednesday-10-30-", 
             "title": "Increasing Financial Literacy"
         }, 
@@ -336,7 +336,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-advocacyjamwithmarketing", 
             "start": "10:30 AM", 
-            "tags": "", 
+            "tags": "Advocacy", 
             "timeblock": "wednesday-team-time--wednesday-10-30-", 
             "title": "Advocacy Jam with Marketing"
         }, 
@@ -350,14 +350,14 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-lunch", 
             "start": "12:00 PM", 
-            "tags": "", 
+            "tags": "Food & Social", 
             "timeblock": "wednesday-lunch--wednesday-12-00-", 
             "title": "Lunch"
         }, 
         {
             "category": "Leadership Network", 
             "day": "Wednesday", 
-            "description": "Are you interested in learning & making away from keyboard? This zone will be kitted out with hardware, craft materials and other rapid prototyping tools to help you take your idea from post-it to reality.\n\nBring a fresh idea hatched at the all-hands, or something you've been mulling over for a while, and we'll help you turn it into something physical that helps others understand, interact with and improve it. \n\nWe'll also share reflections on prototyping practices we've been experimenting with and invite others to share their triumphs and challenges in these efforts as well. ", 
+            "description": "NOTE THIS WILL BE IN THE CONNECTED DEVICES HOMEROOM\n\nAre you interested in learning & making away from keyboard? This zone will be kitted out with hardware, craft materials and other rapid prototyping tools to help you take your idea from post-it to reality.\n\nBring a fresh idea hatched at the all-hands, or something you've been mulling over for a while, and we'll help you turn it into something physical that helps others understand, interact with and improve it. \n\nWe'll also share reflections on prototyping practices we've been experimenting with and invite others to share their triumphs and challenges in these efforts as well. ", 
             "facilitator_array": [
                 "Jon", 
                 "Michelle"
@@ -367,7 +367,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-iotdropinclinic", 
             "start": "12:00 PM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "wednesday-lunch--wednesday-12-00-", 
             "title": "IoT Drop-in Clinic"
         }, 
@@ -385,7 +385,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnproductionbreakoutgroups", 
             "start": "01:30 PM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "wednesday-team-time--wednesday-13-30-", 
             "title": "MLN Production Breakout Groups"
         }, 
@@ -402,7 +402,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-communityengagementonboarding", 
             "start": "01:30 PM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "wednesday-team-time--wednesday-13-30-", 
             "title": "Community Engagement Onboarding"
         }, 
@@ -416,31 +416,14 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-stateoftheweb", 
             "start": "01:30 PM", 
-            "tags": "", 
+            "tags": "Insights", 
             "timeblock": "wednesday-team-time--wednesday-13-30-", 
             "title": "State of the Web"
         }, 
         {
             "category": "Leadership Network", 
             "day": "Wednesday", 
-            "description": "Workshop on how strategic partnership team will support MLN directors/hub leads with fundraising and grant management. This session will focus on overview of tools, processes including how to making a compelling case for $$, and grant management.\n\nRequired attendees: Amira, Simona, Kenyatta, Janice, Katie, Melissa, Sara, Michelle, Stephanie W, Jenn, Robert, Jessie, Lynn\n\nOptional attendees: Meghan, Kaitlin", 
-            "facilitator_array": [
-                "Kalpana", 
-                "An-Me"
-            ], 
-            "facilitators": "Kalpana, An-Me", 
-            "id": "319", 
-            "location": "", 
-            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnfundraisinggrantmanagement", 
-            "start": "01:30 PM", 
-            "tags": "", 
-            "timeblock": "wednesday-team-time--wednesday-13-30-", 
-            "title": "MLN Fundraising & Grant Management"
-        }, 
-        {
-            "category": "Leadership Network", 
-            "day": "Wednesday", 
-            "description": "Are you interested in learning & making away from keyboard? This zone will be kitted out with hardware, craft materials and other rapid prototyping tools to help you take your idea from post-it to reality.\n\nBring a fresh idea hatched at the all-hands, or something you've been mulling over for a while, and we'll help you turn it into something physical that helps others understand, interact with and improve it. \n\nWe'll also share reflections on prototyping practices we've been experimenting with and invite others to share their triumphs and challenges in these efforts as well. ", 
+            "description": "NOTE THIS WILL BE IN THE CONNECTED DEVICES HOMEROOM\n\nAre you interested in learning & making away from keyboard? This zone will be kitted out with hardware, craft materials and other rapid prototyping tools to help you take your idea from post-it to reality.\n\nBring a fresh idea hatched at the all-hands, or something you've been mulling over for a while, and we'll help you turn it into something physical that helps others understand, interact with and improve it. \n\nWe'll also share reflections on prototyping practices we've been experimenting with and invite others to share their triumphs and challenges in these efforts as well. ", 
             "facilitator_array": [
                 "Jon", 
                 "Michelle"
@@ -450,7 +433,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-iotdropinclinic", 
             "start": "01:30 PM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "wednesday-team-time--wednesday-13-30-", 
             "title": "IoT Drop-in Clinic"
         }, 
@@ -464,7 +447,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-coreleadershipsprint", 
             "start": "01:30 PM", 
-            "tags": "", 
+            "tags": "Participation", 
             "timeblock": "wednesday-team-time--wednesday-13-30-", 
             "title": "Core Leadership Sprint"
         }, 
@@ -478,7 +461,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-advocacytechplanning", 
             "start": "01:30 PM", 
-            "tags": "", 
+            "tags": "Advocacy", 
             "timeblock": "wednesday-team-time--wednesday-13-30-", 
             "title": "Advocacy Tech Planning"
         }, 
@@ -492,7 +475,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-coffeebreak", 
             "start": "02:30 PM", 
-            "tags": "", 
+            "tags": "Food & Social", 
             "timeblock": "wednesday-afternoon-coffee-break--wednesday-14-30-", 
             "title": "Coffee break"
         }, 
@@ -506,14 +489,14 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-electives", 
             "start": "02:45 PM", 
-            "tags": "", 
+            "tags": "Mozilla", 
             "timeblock": "wednesday-elective-time--wednesday-14-45-", 
             "title": "Electives"
         }, 
         {
             "category": "Leadership Network", 
             "day": "Wednesday", 
-            "description": "We'll take a design-centered field trip to Ravensbourne to envision how we'll use the space for MozFest 2016 (for design, wayfinding, alternatives-to-mainstage (currently known as 'salons'. final name tbd), info cafes etc)\n\nRequired attendees: Matthew, Jordan, Erika\n\nOptional attendeees: Kevin", 
+            "description": "We'll take a design-centered field trip to Ravensbourne to envision how we'll use the space for MozFest 2016 (for design, wayfinding, alternatives-to-mainstage (currently known as 'salons'. final name tbd), info cafes etc)\n\nRequired attendees: Matthew, Jordan, Erika, Kristina, Kevin, Luca\n\nOptional attendeees:", 
             "facilitator_array": [
                 "Sarah"
             ], 
@@ -522,7 +505,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-ravensbournefieldtrip", 
             "start": "02:45 PM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "wednesday-elective-time--wednesday-14-45-", 
             "title": "Ravensbourne Field Trip"
         }, 
@@ -536,9 +519,25 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-supper", 
             "start": "06:00 PM", 
-            "tags": "", 
+            "tags": "Food & Social", 
             "timeblock": "wednesday-dinner--wednesday-18-00-", 
             "title": "Supper"
+        }, 
+        {
+            "category": "Insights", 
+            "day": "Wednesday", 
+            "description": "Get the key folks across MoFo working on harvesting & sharing stories together to:\n 1. get everyone on the same page what the projects are on-going, and\n 2. identify opportunities/practices that will enable us to collaborate & ensure we're working together effectively\n\nProjects involved include:\n - MLN Story Engine\n - Issues Radar\n - State of the Web\n - Network Pulse\n - Advocacy media\n\nRequired attendees: Matt, Chris, Matthew, Bobby, Paul, Sam, Brett\n\nOptional attendees: Jordan, Simon, Laura, Lotta", 
+            "facilitator_array": [
+                "Sam"
+            ], 
+            "facilitators": "Sam", 
+            "id": "327", 
+            "location": "", 
+            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-harvestingstoriesacrossmozilla", 
+            "start": "01:30 PM", 
+            "tags": "Insights", 
+            "timeblock": "wednesday-team-time--wednesday-13-30-", 
+            "title": "Harvesting stories across Mozilla"
         }, 
         {
             "category": "Food & Social", 
@@ -550,7 +549,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-breakfast", 
             "start": "07:00 AM", 
-            "tags": "", 
+            "tags": "Food & Social", 
             "timeblock": "thursday-breakfast--thursday-07-00-", 
             "title": "Breakfast"
         }, 
@@ -568,7 +567,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnproductionbreakoutgroup", 
             "start": "09:00 AM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "thursday-team-time--thursday-09-00-", 
             "title": "MLN Production Breakout Group"
         }, 
@@ -584,7 +583,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-learninghubhplanning", 
             "start": "09:00 AM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "thursday-team-time--thursday-09-00-", 
             "title": "Learning Hub H2 Planning"
         }, 
@@ -601,14 +600,14 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-sciencestudygrouponboarding", 
             "start": "09:00 AM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "thursday-team-time--thursday-09-00-", 
             "title": "Science Study Group Onboarding"
         }, 
         {
             "category": "Leadership Network", 
             "day": "Thursday", 
-            "description": "Planning out H2 goals/deliverables for the Advocacy Network, including OWF program (but excluding Field at the moment)", 
+            "description": "Planning out H2 goals/deliverables for the Advocacy Network, including OWF program (but excluding Field at the moment)\n\n", 
             "facilitator_array": [
                 "Vanessa", 
                 "Melissa"
@@ -618,7 +617,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-openwebfellowsadvocacynetworkhplanning", 
             "start": "09:00 AM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "thursday-team-time--thursday-09-00-", 
             "title": "Open Web Fellows & Advocacy Network H2 Planning"
         }, 
@@ -632,7 +631,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-operationsprogramreviewdeepdive", 
             "start": "09:00 AM", 
-            "tags": "", 
+            "tags": "Ops", 
             "timeblock": "thursday-team-time--thursday-09-00-", 
             "title": "Operations: Program Review Deep Dive"
         }, 
@@ -646,7 +645,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-goalsettingalexruzanna", 
             "start": "09:00 AM", 
-            "tags": "", 
+            "tags": "Ops", 
             "timeblock": "thursday-team-time--thursday-09-00-", 
             "title": "Goal-setting (Alex + Ruzanna)"
         }, 
@@ -674,7 +673,7 @@
             "location": "", 
             "notes url": "", 
             "start": "10:00 AM", 
-            "tags": "", 
+            "tags": "Food & Social", 
             "timeblock": "thursday-morning-coffee-break--thursday-10-00-", 
             "title": "Coffee"
         }, 
@@ -688,7 +687,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-copyrightcampaignplanning", 
             "start": "10:30 AM", 
-            "tags": "", 
+            "tags": "Advocacy", 
             "timeblock": "thursday-team-time--thursday-10-30-", 
             "title": "Copyright Campaign Planning"
         }, 
@@ -706,7 +705,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnproductionbreakoutgroup", 
             "start": "09:00 AM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "thursday-team-time--thursday-09-00-", 
             "title": "MLN Production Breakout Group"
         }, 
@@ -723,7 +722,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-openleadershipcurriculum", 
             "start": "10:30 AM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "thursday-team-time--thursday-10-30-", 
             "title": "Open Leadership Curriculum"
         }, 
@@ -740,7 +739,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mozfestfuturegoals", 
             "start": "10:30 AM", 
-            "tags": "", 
+            "tags": "MoFo", 
             "timeblock": "thursday-team-time--thursday-10-30-", 
             "title": "MozFest Future & Goals"
         }, 
@@ -754,7 +753,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-designingstrategy", 
             "start": "10:30 AM", 
-            "tags": "", 
+            "tags": "MoFo", 
             "timeblock": "thursday-team-time--thursday-10-30-", 
             "title": "Designing 2020 Strategy"
         }, 
@@ -768,7 +767,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-hrsessions", 
             "start": "10:30 AM", 
-            "tags": "", 
+            "tags": "MoFo", 
             "timeblock": "thursday-team-time--thursday-10-30-", 
             "title": "HR sessions"
         }, 
@@ -782,7 +781,7 @@
             "location": "", 
             "notes url": "", 
             "start": "10:30 AM", 
-            "tags": "", 
+            "tags": "MoFo", 
             "timeblock": "thursday-team-time--thursday-10-30-", 
             "title": "Internal Comms Chat"
         }, 
@@ -796,7 +795,7 @@
             "location": "", 
             "notes url": "", 
             "start": "12:00 PM", 
-            "tags": "", 
+            "tags": "Food & Social", 
             "timeblock": "thursday-lunch--thursday-12-00-", 
             "title": "Lunch"
         }, 
@@ -814,14 +813,14 @@
             "location": "", 
             "notes url": "", 
             "start": "01:30 PM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "thursday-team-time--thursday-13-30-", 
             "title": "MLN Production Shareouts"
         }, 
         {
             "category": "Leadership Network", 
             "day": "Thursday", 
-            "description": "Focused time to plan and build out the Learning Space at MozFest\n\nRequired attendees: \n\nOptional attendees: Chad, Amira, Julia, Simona, Lainie, Andre", 
+            "description": "Focused time to plan and build out the Learning Space at MozFest\n\nRequired attendees: Chad, Amira, Julia, Simona, Lainie, Andre\n\nOptional attendees: Kevin, Sarah, Erika", 
             "facilitator_array": [
                 "Robert"
             ], 
@@ -830,21 +829,23 @@
             "location": "", 
             "notes url": "", 
             "start": "01:30 PM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "thursday-team-time--thursday-13-30-", 
             "title": "MozFest Learning Hub"
         }, 
         {
             "category": "Leadership Network", 
             "day": "Thursday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "Planning for Chicago WOW and Science space at MozFest\n\nRequired attendeees: Zannah, Aurelia, Stephanie W, Arliss", 
+            "facilitator_array": [
+                "Kaitlin"
+            ], 
+            "facilitators": "Kaitlin", 
             "id": "420", 
             "location": "", 
             "notes url": "", 
             "start": "01:30 PM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "thursday-team-time--thursday-13-30-", 
             "title": "Science WOW Chicago/MozFest"
         }, 
@@ -860,7 +861,7 @@
             "location": "", 
             "notes url": "", 
             "start": "01:30 PM", 
-            "tags": "", 
+            "tags": "MoFo", 
             "timeblock": "thursday-team-time--thursday-13-30-", 
             "title": "MozFest Comms"
         }, 
@@ -874,7 +875,7 @@
             "location": "", 
             "notes url": "", 
             "start": "01:30 PM", 
-            "tags": "", 
+            "tags": "MoFo", 
             "timeblock": "thursday-team-time--thursday-13-30-", 
             "title": "Practical Guide to Ops at MoFo"
         }, 
@@ -888,7 +889,7 @@
             "location": "", 
             "notes url": "", 
             "start": "01:30 PM", 
-            "tags": "", 
+            "tags": "Ops", 
             "timeblock": "thursday-team-time--thursday-13-30-", 
             "title": "HR internal comms chat (Michael + Lotta)"
         }, 
@@ -902,7 +903,7 @@
             "location": "", 
             "notes url": "", 
             "start": "01:30 PM", 
-            "tags": "", 
+            "tags": "Advocacy", 
             "timeblock": "thursday-team-time--thursday-13-30-", 
             "title": "Maker Party Plan & Build"
         }, 
@@ -919,14 +920,14 @@
             "location": "", 
             "notes url": "", 
             "start": "01:30 PM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "thursday-team-time--thursday-13-30-", 
             "title": "Research Workshop: Early Learnings from DSO"
         }, 
         {
             "category": "Leadership Network", 
             "day": "Thursday", 
-            "description": "Designated space and time for staff and community members to create short videos or take photos for use in the Leadership Curriculum.\n\nOptional attendees: Kaitlin", 
+            "description": "Designated space and time for staff and community members to create short videos or take photos for use in the Leadership Curriculum.\n\nOptional attendees: Kaitlin, Robert, Hannah, Caro, Erika, Sarah", 
             "facilitator_array": [
                 "Zannah", 
                 "Chad"
@@ -936,7 +937,7 @@
             "location": "", 
             "notes url": "", 
             "start": "01:30 PM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "thursday-team-time--thursday-13-30-", 
             "title": "Leadership Curriculum Video Booth"
         }, 
@@ -950,7 +951,7 @@
             "location": "", 
             "notes url": "", 
             "start": "01:30 PM", 
-            "tags": "", 
+            "tags": "Ops", 
             "timeblock": "thursday-team-time--thursday-13-30-", 
             "title": "Review H2 Goals (Pamela, Alex, Ruzanna)"
         }, 
@@ -964,7 +965,7 @@
             "location": "", 
             "notes url": "", 
             "start": "02:30 PM", 
-            "tags": "", 
+            "tags": "Food & Social", 
             "timeblock": "thursday-afternoon-coffee-break--thursday-14-30-", 
             "title": "Coffee"
         }, 
@@ -978,7 +979,7 @@
             "location": "", 
             "notes url": "", 
             "start": "02:45 PM", 
-            "tags": "", 
+            "tags": "Mozilla", 
             "timeblock": "thursday-elective-time--thursday-14-45-", 
             "title": "Electives"
         }, 
@@ -992,7 +993,7 @@
             "location": "", 
             "notes url": "", 
             "start": "02:45 PM", 
-            "tags": "", 
+            "tags": "MoFo", 
             "timeblock": "thursday-elective-time--thursday-14-45-", 
             "title": "PM practise group"
         }, 
@@ -1009,7 +1010,7 @@
             "location": "", 
             "notes url": "", 
             "start": "02:45 PM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "thursday-elective-time--thursday-14-45-", 
             "title": "IoT Drop-in Clinic"
         }, 
@@ -1026,7 +1027,7 @@
             "location": "", 
             "notes url": "", 
             "start": "02:45 PM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "thursday-elective-time--thursday-14-45-", 
             "title": "Open Data Curriculum"
         }, 
@@ -1044,7 +1045,7 @@
             "location": "", 
             "notes url": "", 
             "start": "02:45 PM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "thursday-elective-time--thursday-14-45-", 
             "title": "Mozilla Curriculum Workshop"
         }, 
@@ -1058,7 +1059,7 @@
             "location": "", 
             "notes url": "", 
             "start": "06:00 PM", 
-            "tags": "", 
+            "tags": "Food & Social", 
             "timeblock": "thursday-dinner--thursday-18-00-", 
             "title": "Supper"
         }, 
@@ -1072,7 +1073,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-breakfast", 
             "start": "07:00 AM", 
-            "tags": "", 
+            "tags": "Food & Social", 
             "timeblock": "friday-breakfast--friday-07-00-", 
             "title": "Breakfast"
         }, 
@@ -1090,7 +1091,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnproductionprocessconversation", 
             "start": "09:00 AM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "friday-team-time--friday-09-00-", 
             "title": "MLN Production Process conversation"
         }, 
@@ -1106,7 +1107,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-learninghubhplanning", 
             "start": "09:00 AM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "friday-team-time--friday-09-00-", 
             "title": "Learning Hub H2 Planning #2"
         }, 
@@ -1122,7 +1123,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-sciencehplanning", 
             "start": "09:00 AM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "friday-team-time--friday-09-00-", 
             "title": "Science H2 Planning #2"
         }, 
@@ -1136,7 +1137,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-advocacyteamtimekpis", 
             "start": "09:00 AM", 
-            "tags": "", 
+            "tags": "Advocacy", 
             "timeblock": "friday-team-time--friday-09-00-", 
             "title": "Advocacy team time (KPIs?)"
         }, 
@@ -1150,7 +1151,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-coffee", 
             "start": "10:00 AM", 
-            "tags": "", 
+            "tags": "Food & Social", 
             "timeblock": "friday-morning-coffee-break--friday-10-00-", 
             "title": "Coffee"
         }, 
@@ -1167,7 +1168,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-designvisionidentityprocess", 
             "start": "10:30 AM", 
-            "tags": "", 
+            "tags": "MoFo", 
             "timeblock": "friday-team-time--friday-10-30-", 
             "title": "Design vision, identity, process"
         }, 
@@ -1183,7 +1184,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mozclubswomengirls", 
             "start": "10:30 AM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "friday-team-time--friday-10-30-", 
             "title": "MozClubs Women & Girls"
         }, 
@@ -1192,15 +1193,16 @@
             "day": "Friday", 
             "description": "I'd like to use this face time to sort through communications and staff details for the September IoT event in Chattanooga. The gives us all a chance to walk through the event (as best we can) before the call goes out to applicants in early July. \n\nRequired attendees: Janice, Jenn, Robert, Jon\n\nOptional attendees: Julia", 
             "facilitator_array": [
+                "Michelle", 
                 "Erika", 
-                "Michelle"
+                "Katie"
             ], 
-            "facilitators": "Erika, Michelle", 
+            "facilitators": "Michelle, Erika, Katie", 
             "id": "509", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-iotchattanooga", 
             "start": "10:30 AM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "friday-team-time--friday-10-30-", 
             "title": "IoT Chattanooga"
         }, 
@@ -1217,7 +1219,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnfundraisinggrantmanagement", 
             "start": "10:30 AM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "friday-team-time--friday-10-30-", 
             "title": "MLN Fundraising & Grant Management"
         }, 
@@ -1233,7 +1235,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnmetricsconvenings", 
             "start": "10:30 AM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "friday-team-time--friday-10-30-", 
             "title": "MLN Metrics + Convenings"
         }, 
@@ -1247,7 +1249,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-lunch", 
             "start": "12:30 PM", 
-            "tags": "", 
+            "tags": "Food & Social", 
             "timeblock": "friday-lunch--friday-12-30-", 
             "title": "Lunch"
         }, 
@@ -1261,7 +1263,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-commscouncil", 
             "start": "12:30 PM", 
-            "tags": "", 
+            "tags": "MoFo", 
             "timeblock": "friday-lunch--friday-12-30-", 
             "title": "Comms Council"
         }, 
@@ -1278,7 +1280,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlncrosshubcollab", 
             "start": "01:30 PM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "friday-team-time--friday-13-30-", 
             "title": "MLN Cross-Hub Collab"
         }, 
@@ -1295,7 +1297,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mozfestplan", 
             "start": "01:30 PM", 
-            "tags": "", 
+            "tags": "MoFo", 
             "timeblock": "friday-team-time--friday-13-30-", 
             "title": "MozFest 2016 Plan"
         }, 
@@ -1312,7 +1314,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-leadershipcurricvidbooth", 
             "start": "01:30 PM", 
-            "tags": "", 
+            "tags": "Leadership Network", 
             "timeblock": "friday-team-time--friday-13-30-", 
             "title": "Leadership Curric Vid Booth"
         }, 
@@ -1328,7 +1330,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-storyenginedeepdive", 
             "start": "01:30 PM", 
-            "tags": "", 
+            "tags": "MoFo", 
             "timeblock": "friday-team-time--friday-13-30-", 
             "title": "Story Engine Deep-Dive"
         }, 
@@ -1342,7 +1344,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-operationsteamdebriefnextsteps", 
             "start": "01:30 PM", 
-            "tags": "", 
+            "tags": "Ops", 
             "timeblock": "friday-team-time--friday-13-30-", 
             "title": "Operations Team de-brief + next steps"
         }, 
@@ -1356,7 +1358,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-advocacyteamtime", 
             "start": "01:30 PM", 
-            "tags": "", 
+            "tags": "Advocacy", 
             "timeblock": "friday-team-time--friday-13-30-", 
             "title": "Advocacy team time"
         }, 
@@ -1370,7 +1372,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-coffee", 
             "start": "02:30 PM", 
-            "tags": "", 
+            "tags": "Food & Social", 
             "timeblock": "friday-afternoon-coffee-break--friday-14-30-", 
             "title": "Coffee"
         }, 
@@ -1384,7 +1386,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mofoclosingallhands", 
             "start": "02:45 PM", 
-            "tags": "", 
+            "tags": "MoFo", 
             "timeblock": "friday-mofo-all-hands--friday-14-45-", 
             "title": "MoFo Closing All Hands"
         }, 
@@ -1398,7 +1400,7 @@
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-closingpartyanddinner", 
             "start": "07:00 PM", 
-            "tags": "", 
+            "tags": "Food & Social", 
             "timeblock": "friday-closing-party-and-dinner--friday-19-00-", 
             "title": "Closing Party and Dinner\t\t\t\t\t\t"
         }
