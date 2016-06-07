@@ -1427,256 +1427,256 @@
     ], 
     "timeblocks": [
         {
-            "day": "Tuesday", 
-            "key": "tuesday-breakfast--tuesday-07-00-", 
+            "day": "Monday", 
+            "key": "monday-welcome-reception--monday-18-00-", 
             "order": 1, 
-            "start time": "07:00 ", 
-            "timeblock name": "Breakfast"
+            "start time": "18:00 ", 
+            "timeblock name": "Welcome Reception"
         }, 
         {
-            "day": "Wednesday", 
-            "key": "wednesday-breakfast--wednesday-07-00-", 
+            "day": "Tuesday", 
+            "key": "tuesday-breakfast--tuesday-07-00-", 
             "order": 2, 
             "start time": "07:00 ", 
             "timeblock name": "Breakfast"
         }, 
         {
-            "day": "Thursday", 
-            "key": "thursday-breakfast--thursday-07-00-", 
-            "order": 3, 
-            "start time": "07:00 ", 
-            "timeblock name": "Breakfast"
-        }, 
-        {
-            "day": "Friday", 
-            "key": "friday-breakfast--friday-07-00-", 
-            "order": 4, 
-            "start time": "07:00 ", 
-            "timeblock name": "Breakfast"
-        }, 
-        {
-            "day": "Wednesday", 
-            "key": "wednesday-team-time-wed-a--wednesday-09-00-", 
-            "order": 5, 
-            "start time": "09:00 ", 
-            "timeblock name": "Team Time Wed A"
-        }, 
-        {
-            "day": "Thursday", 
-            "key": "thursday-team-time-thu-a--thursday-09-00-", 
-            "order": 6, 
-            "start time": "09:00 ", 
-            "timeblock name": "Team Time Thu A"
-        }, 
-        {
-            "day": "Friday", 
-            "key": "friday-team-time-fri-a--friday-09-00-", 
-            "order": 7, 
-            "start time": "09:00 ", 
-            "timeblock name": "Team Time Fri A"
-        }, 
-        {
             "day": "Tuesday", 
             "key": "tuesday-plenary--tuesday-09-30-", 
-            "order": 8, 
+            "order": 3, 
             "start time": "09:30 ", 
             "timeblock name": "Plenary"
         }, 
         {
-            "day": "Wednesday", 
-            "key": "wednesday-morning-coffee-break--wednesday-10-00-", 
-            "order": 9, 
-            "start time": "10:00 ", 
-            "timeblock name": "Morning Coffee Break"
-        }, 
-        {
-            "day": "Thursday", 
-            "key": "thursday-morning-coffee-break--thursday-10-00-", 
-            "order": 10, 
-            "start time": "10:00 ", 
-            "timeblock name": "Morning Coffee Break"
-        }, 
-        {
-            "day": "Friday", 
-            "key": "friday-morning-coffee-break--friday-10-00-", 
-            "order": 11, 
-            "start time": "10:00 ", 
-            "timeblock name": "Morning Coffee Break"
-        }, 
-        {
-            "day": "Wednesday", 
-            "key": "wednesday-team-time-wed-b--wednesday-10-30-", 
-            "order": 12, 
-            "start time": "10:30 ", 
-            "timeblock name": "Team Time Wed B"
-        }, 
-        {
-            "day": "Thursday", 
-            "key": "thursday-team-time-thu-b--thursday-10-30-", 
-            "order": 13, 
-            "start time": "10:30 ", 
-            "timeblock name": "Team Time Thu B"
-        }, 
-        {
-            "day": "Friday", 
-            "key": "friday-team-time-fri-b--friday-10-30-", 
-            "order": 14, 
-            "start time": "10:30 ", 
-            "timeblock name": "Team Time Fri B"
-        }, 
-        {
             "day": "Tuesday", 
             "key": "tuesday-lunch--tuesday-11-30-", 
-            "order": 15, 
+            "order": 4, 
             "start time": "11:30 ", 
-            "timeblock name": "Lunch"
-        }, 
-        {
-            "day": "Wednesday", 
-            "key": "wednesday-lunch--wednesday-12-00-", 
-            "order": 16, 
-            "start time": "12:00 ", 
-            "timeblock name": "Lunch"
-        }, 
-        {
-            "day": "Thursday", 
-            "key": "thursday-lunch--thursday-12-00-", 
-            "order": 17, 
-            "start time": "12:00 ", 
-            "timeblock name": "Lunch"
-        }, 
-        {
-            "day": "Friday", 
-            "key": "friday-lunch--friday-12-30-", 
-            "order": 18, 
-            "start time": "12:30 ", 
             "timeblock name": "Lunch"
         }, 
         {
             "day": "Tuesday", 
             "key": "tuesday-mofo-all-hands-opening--tuesday-13-00-", 
-            "order": 19, 
+            "order": 5, 
             "start time": "13:00", 
             "timeblock name": "MoFo All-hands Opening"
         }, 
         {
-            "day": "Wednesday", 
-            "key": "wednesday-team-time-wed-c--wednesday-13-30-", 
-            "order": 20, 
-            "start time": "13:30", 
-            "timeblock name": "Team Time Wed C"
-        }, 
-        {
-            "day": "Thursday", 
-            "key": "thursday-team-time-thu-c--thursday-13-30-", 
-            "order": 21, 
-            "start time": "13:30", 
-            "timeblock name": "Team Time Thu C"
-        }, 
-        {
-            "day": "Friday", 
-            "key": "friday-team-time-fri-c--friday-13-30-", 
-            "order": 22, 
-            "start time": "13:30", 
-            "timeblock name": "Team Time Fri C"
-        }, 
-        {
             "day": "Tuesday", 
             "key": "tuesday-afternoon-coffee-break--tuesday-14-30-", 
-            "order": 23, 
+            "order": 6, 
             "start time": "14:30", 
-            "timeblock name": "Afternoon Coffee Break"
-        }, 
-        {
-            "day": "Wednesday", 
-            "key": "wednesday-afternoon-coffee-break--wednesday-14-30-", 
-            "order": 24, 
-            "start time": "14:30 ", 
-            "timeblock name": "Afternoon Coffee Break"
-        }, 
-        {
-            "day": "Thursday", 
-            "key": "thursday-afternoon-coffee-break--thursday-14-30-", 
-            "order": 25, 
-            "start time": "14:30 ", 
-            "timeblock name": "Afternoon Coffee Break"
-        }, 
-        {
-            "day": "Friday", 
-            "key": "friday-afternoon-coffee-break--friday-14-30-", 
-            "order": 26, 
-            "start time": "14:30 ", 
             "timeblock name": "Afternoon Coffee Break"
         }, 
         {
             "day": "Tuesday", 
             "key": "tuesday-mofo-all-hands--tuesday-14-45-", 
-            "order": 27, 
-            "start time": "14:45 ", 
-            "timeblock name": "MoFo All-hands"
-        }, 
-        {
-            "day": "Wednesday", 
-            "key": "wednesday-elective-time--wednesday-14-45-", 
-            "order": 28, 
-            "start time": "14:45 ", 
-            "timeblock name": "Elective Time"
-        }, 
-        {
-            "day": "Thursday", 
-            "key": "thursday-elective-time--thursday-14-45-", 
-            "order": 29, 
-            "start time": "14:45 ", 
-            "timeblock name": "Elective Time"
-        }, 
-        {
-            "day": "Friday", 
-            "key": "friday-mofo-all-hands--friday-14-45-", 
-            "order": 30, 
+            "order": 7, 
             "start time": "14:45 ", 
             "timeblock name": "MoFo All-hands"
         }, 
         {
             "day": "Tuesday", 
             "key": "tuesday-chris-beard-and-mitchell-baker-in-mofo-homeroom--tuesday-15-00-", 
-            "order": 31, 
+            "order": 8, 
             "start time": "15:00 ", 
             "timeblock name": "Chris Beard and Mitchell Baker in MoFo homeroom"
         }, 
         {
             "day": "Tuesday", 
             "key": "tuesday-mofo-all-hands-2--tuesday-16-00-", 
-            "order": 32, 
+            "order": 9, 
             "start time": "16:00 ", 
             "timeblock name": "MoFo All-hands 2"
         }, 
         {
+            "day": "Tuesday", 
+            "key": "tuesday-dinner--tuesday-18-00-", 
+            "order": 10, 
+            "start time": "18:00 ", 
+            "timeblock name": "Dinner"
+        }, 
+        {
+            "day": "Wednesday", 
+            "key": "wednesday-breakfast--wednesday-07-00-", 
+            "order": 11, 
+            "start time": "07:00 ", 
+            "timeblock name": "Breakfast"
+        }, 
+        {
+            "day": "Wednesday", 
+            "key": "wednesday-team-time-wed-a--wednesday-09-00-", 
+            "order": 12, 
+            "start time": "09:00 ", 
+            "timeblock name": "Team Time Wed A"
+        }, 
+        {
+            "day": "Wednesday", 
+            "key": "wednesday-morning-coffee-break--wednesday-10-00-", 
+            "order": 13, 
+            "start time": "10:00 ", 
+            "timeblock name": "Morning Coffee Break"
+        }, 
+        {
+            "day": "Wednesday", 
+            "key": "wednesday-team-time-wed-b--wednesday-10-30-", 
+            "order": 14, 
+            "start time": "10:30 ", 
+            "timeblock name": "Team Time Wed B"
+        }, 
+        {
+            "day": "Wednesday", 
+            "key": "wednesday-lunch--wednesday-12-00-", 
+            "order": 15, 
+            "start time": "12:00 ", 
+            "timeblock name": "Lunch"
+        }, 
+        {
+            "day": "Wednesday", 
+            "key": "wednesday-team-time-wed-c--wednesday-13-30-", 
+            "order": 16, 
+            "start time": "13:30", 
+            "timeblock name": "Team Time Wed C"
+        }, 
+        {
+            "day": "Wednesday", 
+            "key": "wednesday-afternoon-coffee-break--wednesday-14-30-", 
+            "order": 17, 
+            "start time": "14:30 ", 
+            "timeblock name": "Afternoon Coffee Break"
+        }, 
+        {
+            "day": "Wednesday", 
+            "key": "wednesday-elective-time--wednesday-14-45-", 
+            "order": 18, 
+            "start time": "14:45 ", 
+            "timeblock name": "Elective Time"
+        }, 
+        {
             "day": "Wednesday", 
             "key": "wednesday-dinner--wednesday-18-00-", 
-            "order": 33, 
+            "order": 19, 
             "start time": "18:00", 
             "timeblock name": "Dinner"
         }, 
         {
             "day": "Thursday", 
+            "key": "thursday-breakfast--thursday-07-00-", 
+            "order": 20, 
+            "start time": "07:00 ", 
+            "timeblock name": "Breakfast"
+        }, 
+        {
+            "day": "Thursday", 
+            "key": "thursday-team-time-thu-a--thursday-09-00-", 
+            "order": 21, 
+            "start time": "09:00 ", 
+            "timeblock name": "Team Time Thu A"
+        }, 
+        {
+            "day": "Thursday", 
+            "key": "thursday-morning-coffee-break--thursday-10-00-", 
+            "order": 22, 
+            "start time": "10:00 ", 
+            "timeblock name": "Morning Coffee Break"
+        }, 
+        {
+            "day": "Thursday", 
+            "key": "thursday-team-time-thu-b--thursday-10-30-", 
+            "order": 23, 
+            "start time": "10:30 ", 
+            "timeblock name": "Team Time Thu B"
+        }, 
+        {
+            "day": "Thursday", 
+            "key": "thursday-lunch--thursday-12-00-", 
+            "order": 24, 
+            "start time": "12:00 ", 
+            "timeblock name": "Lunch"
+        }, 
+        {
+            "day": "Thursday", 
+            "key": "thursday-team-time-thu-c--thursday-13-30-", 
+            "order": 25, 
+            "start time": "13:30", 
+            "timeblock name": "Team Time Thu C"
+        }, 
+        {
+            "day": "Thursday", 
+            "key": "thursday-afternoon-coffee-break--thursday-14-30-", 
+            "order": 26, 
+            "start time": "14:30 ", 
+            "timeblock name": "Afternoon Coffee Break"
+        }, 
+        {
+            "day": "Thursday", 
+            "key": "thursday-elective-time--thursday-14-45-", 
+            "order": 27, 
+            "start time": "14:45 ", 
+            "timeblock name": "Elective Time"
+        }, 
+        {
+            "day": "Thursday", 
             "key": "thursday-dinner--thursday-18-00-", 
-            "order": 34, 
+            "order": 28, 
             "start time": "18:00", 
             "timeblock name": "Dinner"
         }, 
         {
-            "day": "Monday", 
-            "key": "monday-welcome-reception--monday-18-00-", 
-            "order": 35, 
-            "start time": "18:00 ", 
-            "timeblock name": "Welcome Reception"
+            "day": "Friday", 
+            "key": "friday-breakfast--friday-07-00-", 
+            "order": 29, 
+            "start time": "07:00 ", 
+            "timeblock name": "Breakfast"
         }, 
         {
-            "day": "Tuesday", 
-            "key": "tuesday-dinner--tuesday-18-00-", 
+            "day": "Friday", 
+            "key": "friday-team-time-fri-a--friday-09-00-", 
+            "order": 30, 
+            "start time": "09:00 ", 
+            "timeblock name": "Team Time Fri A"
+        }, 
+        {
+            "day": "Friday", 
+            "key": "friday-morning-coffee-break--friday-10-00-", 
+            "order": 31, 
+            "start time": "10:00 ", 
+            "timeblock name": "Morning Coffee Break"
+        }, 
+        {
+            "day": "Friday", 
+            "key": "friday-team-time-fri-b--friday-10-30-", 
+            "order": 32, 
+            "start time": "10:30 ", 
+            "timeblock name": "Team Time Fri B"
+        }, 
+        {
+            "day": "Friday", 
+            "key": "friday-lunch--friday-12-30-", 
+            "order": 33, 
+            "start time": "12:30 ", 
+            "timeblock name": "Lunch"
+        }, 
+        {
+            "day": "Friday", 
+            "key": "friday-team-time-fri-c--friday-13-30-", 
+            "order": 34, 
+            "start time": "13:30", 
+            "timeblock name": "Team Time Fri C"
+        }, 
+        {
+            "day": "Friday", 
+            "key": "friday-afternoon-coffee-break--friday-14-30-", 
+            "order": 35, 
+            "start time": "14:30 ", 
+            "timeblock name": "Afternoon Coffee Break"
+        }, 
+        {
+            "day": "Friday", 
+            "key": "friday-mofo-all-hands--friday-14-45-", 
             "order": 36, 
-            "start time": "18:00 ", 
-            "timeblock name": "Dinner"
+            "start time": "14:45 ", 
+            "timeblock name": "MoFo All-hands"
         }, 
         {
             "day": "Friday", 
