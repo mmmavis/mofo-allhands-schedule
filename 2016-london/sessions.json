@@ -11,7 +11,7 @@
             "id": "101", 
             "location": "Monarch Suite Metropole West Wing", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-welcomereception", 
-            "start": "06:00 PM", 
+            "start": "6:00 PM", 
             "tags": "Food & Social", 
             "timeblock": "monday-welcome-reception--monday-18-00-", 
             "title": "Welcome Reception"
@@ -25,7 +25,7 @@
             "id": "102", 
             "location": "Metropole West Lobby", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-badgegearpickupallday", 
-            "start": "06:00 PM", 
+            "start": "6:00 PM", 
             "tags": "Mozilla", 
             "timeblock": "monday-welcome-reception--monday-18-00-", 
             "title": "Badge & Gear Pick up (all day)"
@@ -39,7 +39,7 @@
             "id": "201", 
             "location": "Hilton London Paddington", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-breakfast", 
-            "start": "07:00 AM", 
+            "start": "7:00 AM", 
             "tags": "Food & Social", 
             "timeblock": "tuesday-breakfast--tuesday-07-00-", 
             "title": "Breakfast"
@@ -53,7 +53,7 @@
             "id": "202", 
             "location": "King's Suite, Metropole West Wing", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-plenary", 
-            "start": "09:30 AM", 
+            "start": "9:30 AM", 
             "tags": "Mozilla", 
             "timeblock": "tuesday-plenary--tuesday-09-30-", 
             "title": "Plenary"
@@ -81,7 +81,7 @@
             "id": "204", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mofoallhands", 
-            "start": "01:00 PM", 
+            "start": "1:00 PM", 
             "tags": "MoFo", 
             "timeblock": "tuesday-mofo-all-hands-opening--tuesday-13-00-", 
             "title": "MoFo All-hands"
@@ -95,7 +95,7 @@
             "id": "205", 
             "location": "Hilton London Paddington", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-afternooncoffeebreak", 
-            "start": "02:30 PM", 
+            "start": "2:30 PM", 
             "tags": "Food & Social", 
             "timeblock": "tuesday-afternoon-coffee-break--tuesday-14-30-", 
             "title": "Afternoon Coffee Break"
@@ -109,7 +109,7 @@
             "id": "206", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mofoallhands", 
-            "start": "02:45 PM", 
+            "start": "2:45 PM", 
             "tags": "MoFo", 
             "timeblock": "tuesday-mofo-all-hands--tuesday-14-45-", 
             "title": "MoFo All-hands"
@@ -123,7 +123,7 @@
             "id": "207", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-chrisbeardandmitchellbakerinmofo", 
-            "start": "03:00 PM", 
+            "start": "3:00 PM", 
             "tags": "MoFo", 
             "timeblock": "tuesday-chris-beard-and-mitchell-baker-in-mofo-homeroom--tuesday-15-00-", 
             "title": "Chris Beard and Mitchell Baker in MoFo"
@@ -137,7 +137,7 @@
             "id": "208", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mofoallhands", 
-            "start": "04:00 PM", 
+            "start": "4:00 PM", 
             "tags": "MoFo", 
             "timeblock": "tuesday-mofo-all-hands-2--tuesday-16-00-", 
             "title": "MoFo All-hands"
@@ -151,7 +151,7 @@
             "id": "209", 
             "location": "London", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-dinner", 
-            "start": "06:00 PM", 
+            "start": "6:00 PM", 
             "tags": "Food & Social", 
             "timeblock": "tuesday-dinner--tuesday-18-00-", 
             "title": "Dinner"
@@ -165,7 +165,7 @@
             "id": "301", 
             "location": "Hilton London Paddington", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-breakfast", 
-            "start": "07:00 AM", 
+            "start": "7:00 AM", 
             "tags": "Food & Social", 
             "timeblock": "wednesday-breakfast--wednesday-07-00-", 
             "title": "Breakfast"
@@ -183,7 +183,7 @@
             "id": "302", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnproductionintro", 
-            "start": "09:00 AM", 
+            "start": "9:00 AM", 
             "tags": "Leadership Network", 
             "timeblock": "wednesday-team-time-wed-a--wednesday-09-00-", 
             "title": "MLN Production Intro"
@@ -199,7 +199,7 @@
             "id": "303", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-learninghubteambuilding", 
-            "start": "09:00 AM", 
+            "start": "9:00 AM", 
             "tags": "Leadership Network", 
             "timeblock": "wednesday-team-time-wed-a--wednesday-09-00-", 
             "title": "Learning Hub: Team Building"
@@ -215,7 +215,7 @@
             "id": "304", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-sciencelabhplanning", 
-            "start": "09:00 AM", 
+            "start": "9:00 AM", 
             "tags": "Leadership Network", 
             "timeblock": "wednesday-team-time-wed-a--wednesday-09-00-", 
             "title": "Science Lab H2 Planning #1"
@@ -229,7 +229,7 @@
             "id": "305", 
             "location": "Kingfisher", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-advocacyhackbuild", 
-            "start": "09:00 AM", 
+            "start": "9:00 AM", 
             "tags": "Advocacy", 
             "timeblock": "wednesday-team-time-wed-a--wednesday-09-00-", 
             "title": "Advocacy Hack & Build"
@@ -243,7 +243,7 @@
             "id": "306", 
             "location": "Kingfisher", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-advocacyjamwithmarketing", 
-            "start": "09:00 AM", 
+            "start": "9:00 AM", 
             "tags": "Advocacy", 
             "timeblock": "wednesday-team-time-wed-a--wednesday-09-00-", 
             "title": "Advocacy Jam with Marketing"
@@ -398,7 +398,7 @@
             "id": "316", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnproductionbreakoutgroups", 
-            "start": "01:30 PM", 
+            "start": "1:30 PM", 
             "tags": "Leadership Network", 
             "timeblock": "wednesday-team-time-wed-c--wednesday-13-30-", 
             "title": "MLN Production Breakout Groups"
@@ -415,7 +415,7 @@
             "id": "317", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-communityengagementonboarding", 
-            "start": "01:30 PM", 
+            "start": "1:30 PM", 
             "tags": "Leadership Network", 
             "timeblock": "wednesday-team-time-wed-c--wednesday-13-30-", 
             "title": "Community Engagement Onboarding"
@@ -429,7 +429,7 @@
             "id": "318", 
             "location": "King George V", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-stateoftheweb", 
-            "start": "01:30 PM", 
+            "start": "1:30 PM", 
             "tags": "Insights", 
             "timeblock": "wednesday-team-time-wed-c--wednesday-13-30-", 
             "title": "State of the Web"
@@ -446,7 +446,7 @@
             "id": "320", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-iotdropinclinic", 
-            "start": "01:30 PM", 
+            "start": "1:30 PM", 
             "tags": "Leadership Network", 
             "timeblock": "wednesday-team-time-wed-c--wednesday-13-30-", 
             "title": "IoT Drop-in Clinic"
@@ -472,7 +472,7 @@
             "id": "322", 
             "location": "Kingfisher", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-advocacytechplanning", 
-            "start": "01:30 PM", 
+            "start": "1:30 PM", 
             "tags": "Advocacy", 
             "timeblock": "wednesday-team-time-wed-c--wednesday-13-30-", 
             "title": "Advocacy Tech Planning"
@@ -486,7 +486,7 @@
             "id": "323", 
             "location": "Hilton London Paddington", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-coffeebreak", 
-            "start": "02:30 PM", 
+            "start": "2:30 PM", 
             "tags": "Food & Social", 
             "timeblock": "wednesday-afternoon-coffee-break--wednesday-14-30-", 
             "title": "Coffee break"
@@ -500,7 +500,7 @@
             "id": "324", 
             "location": "Misc", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-electives", 
-            "start": "02:45 PM", 
+            "start": "2:45 PM", 
             "tags": "Mozilla", 
             "timeblock": "wednesday-elective-time--wednesday-14-45-", 
             "title": "Electives"
@@ -516,7 +516,7 @@
             "id": "325", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-ravensbournefieldtrip", 
-            "start": "02:45 PM", 
+            "start": "2:45 PM", 
             "tags": "Leadership Network", 
             "timeblock": "wednesday-elective-time--wednesday-14-45-", 
             "title": "Ravensbourne Field Trip"
@@ -530,7 +530,7 @@
             "id": "326", 
             "location": "London", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-supper", 
-            "start": "06:00 PM", 
+            "start": "6:00 PM", 
             "tags": "Food & Social", 
             "timeblock": "wednesday-dinner--wednesday-18-00-", 
             "title": "Supper"
@@ -548,7 +548,7 @@
             "id": "327", 
             "location": "King George V", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-harvestingstoriesacrossmozilla", 
-            "start": "01:30 PM", 
+            "start": "1:30 PM", 
             "tags": "Insights", 
             "timeblock": "wednesday-team-time-wed-c--wednesday-13-30-", 
             "title": "Harvesting stories across Mozilla"
@@ -562,7 +562,7 @@
             "id": "328", 
             "location": "TBD", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-brandidentityopenhouse", 
-            "start": "02:45 PM", 
+            "start": "2:45 PM", 
             "tags": "Mozilla", 
             "timeblock": "wednesday-elective-time--wednesday-14-45-", 
             "title": "Brand Identity Open House"
@@ -576,7 +576,7 @@
             "id": "401", 
             "location": "Hilton London Paddington", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-breakfast", 
-            "start": "07:00 AM", 
+            "start": "7:00 AM", 
             "tags": "Food & Social", 
             "timeblock": "thursday-breakfast--thursday-07-00-", 
             "title": "Breakfast"
@@ -594,7 +594,7 @@
             "id": "402", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnproductionbreakoutgroup", 
-            "start": "09:00 AM", 
+            "start": "9:00 AM", 
             "tags": "Leadership Network", 
             "timeblock": "thursday-team-time-thu-a--thursday-09-00-", 
             "title": "MLN Production Breakout Group"
@@ -610,7 +610,7 @@
             "id": "403", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-learninghubhplanning", 
-            "start": "09:00 AM", 
+            "start": "9:00 AM", 
             "tags": "Leadership Network", 
             "timeblock": "thursday-team-time-thu-a--thursday-09-00-", 
             "title": "Learning Hub H2 Planning"
@@ -627,7 +627,7 @@
             "id": "404", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-sciencestudygrouponboarding", 
-            "start": "09:00 AM", 
+            "start": "9:00 AM", 
             "tags": "Leadership Network", 
             "timeblock": "thursday-team-time-thu-a--thursday-09-00-", 
             "title": "Science Study Group Onboarding"
@@ -644,7 +644,7 @@
             "id": "405", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-openwebfellowsadvocacynetworkhplanning", 
-            "start": "09:00 AM", 
+            "start": "9:00 AM", 
             "tags": "Leadership Network", 
             "timeblock": "thursday-team-time-thu-a--thursday-09-00-", 
             "title": "Open Web Fellows & Advocacy Network H2 Planning"
@@ -658,7 +658,7 @@
             "id": "406", 
             "location": "King George V", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-operationsprogramreviewdeepdive", 
-            "start": "09:00 AM", 
+            "start": "9:00 AM", 
             "tags": "Ops", 
             "timeblock": "thursday-team-time-thu-a--thursday-09-00-", 
             "title": "Operations: Program Review Deep Dive"
@@ -672,7 +672,7 @@
             "id": "407", 
             "location": "King George V", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-goalsettingalexruzanna", 
-            "start": "09:00 AM", 
+            "start": "9:00 AM", 
             "tags": "Ops", 
             "timeblock": "thursday-team-time-thu-a--thursday-09-00-", 
             "title": "Goal-setting (Alex + Ruzanna)"
@@ -688,7 +688,7 @@
             "id": "408", 
             "location": "King George V", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-fundraising", 
-            "start": "09:00 AM", 
+            "start": "9:00 AM", 
             "tags": "", 
             "timeblock": "thursday-team-time-thu-a--thursday-09-00-", 
             "title": "Fundraising"
@@ -842,7 +842,7 @@
             "id": "418", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnproductionshareouts", 
-            "start": "01:30 PM", 
+            "start": "1:30 PM", 
             "tags": "Leadership Network", 
             "timeblock": "thursday-team-time-thu-c--thursday-13-30-", 
             "title": "MLN Production Shareouts"
@@ -858,7 +858,7 @@
             "id": "419", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mozfestlearninghub", 
-            "start": "01:30 PM", 
+            "start": "1:30 PM", 
             "tags": "Leadership Network", 
             "timeblock": "thursday-team-time-thu-c--thursday-13-30-", 
             "title": "MozFest Learning Hub"
@@ -874,7 +874,7 @@
             "id": "420", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-sciencewowchicagomozfest", 
-            "start": "01:30 PM", 
+            "start": "1:30 PM", 
             "tags": "Leadership Network", 
             "timeblock": "thursday-team-time-thu-c--thursday-13-30-", 
             "title": "Science WOW Chicago/MozFest"
@@ -891,7 +891,7 @@
             "id": "421", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mozfestcomms", 
-            "start": "02:45 PM", 
+            "start": "2:45 PM", 
             "tags": "MoFo", 
             "timeblock": "thursday-elective-time--thursday-14-45-", 
             "title": "MozFest Comms"
@@ -907,7 +907,7 @@
             "id": "422", 
             "location": "King George V", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-practicalguidetoopsatmofo", 
-            "start": "01:30 PM", 
+            "start": "1:30 PM", 
             "tags": "MoFo", 
             "timeblock": "thursday-team-time-thu-c--thursday-13-30-", 
             "title": "Practical Guide to Ops at MoFo"
@@ -921,7 +921,7 @@
             "id": "423", 
             "location": "King George V", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-hrinternalcommschatmichaellotta", 
-            "start": "01:30 PM", 
+            "start": "1:30 PM", 
             "tags": "Ops", 
             "timeblock": "thursday-team-time-thu-c--thursday-13-30-", 
             "title": "HR internal comms chat (Michael + Lotta)"
@@ -935,7 +935,7 @@
             "id": "424", 
             "location": "Kingfisher", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-makerpartyplanbuild", 
-            "start": "01:30 PM", 
+            "start": "1:30 PM", 
             "tags": "Advocacy", 
             "timeblock": "thursday-team-time-thu-c--thursday-13-30-", 
             "title": "Maker Party Plan & Build"
@@ -952,7 +952,7 @@
             "id": "425", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-researchworkshopearlylearningsfromdso", 
-            "start": "01:30 PM", 
+            "start": "1:30 PM", 
             "tags": "Leadership Network", 
             "timeblock": "thursday-team-time-thu-c--thursday-13-30-", 
             "title": "Research Workshop: Early Learnings from DSO"
@@ -969,7 +969,7 @@
             "id": "426", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-leadershipcurriculumvideobooth", 
-            "start": "01:30 PM", 
+            "start": "1:30 PM", 
             "tags": "Leadership Network", 
             "timeblock": "thursday-team-time-thu-c--thursday-13-30-", 
             "title": "Leadership Curriculum Video Booth"
@@ -983,7 +983,7 @@
             "id": "427", 
             "location": "King George V", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-reviewhgoalspamelaalexruzanna", 
-            "start": "01:30 PM", 
+            "start": "1:30 PM", 
             "tags": "Ops", 
             "timeblock": "thursday-team-time-thu-c--thursday-13-30-", 
             "title": "Review H2 Goals (Pamela, Alex, Ruzanna)"
@@ -997,7 +997,7 @@
             "id": "428", 
             "location": "Hilton London Paddington", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-coffee", 
-            "start": "02:30 PM", 
+            "start": "2:30 PM", 
             "tags": "Food & Social", 
             "timeblock": "thursday-afternoon-coffee-break--thursday-14-30-", 
             "title": "Coffee"
@@ -1011,7 +1011,7 @@
             "id": "429", 
             "location": "Misc", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-electives", 
-            "start": "02:45 PM", 
+            "start": "2:45 PM", 
             "tags": "Mozilla", 
             "timeblock": "thursday-elective-time--thursday-14-45-", 
             "title": "Electives"
@@ -1025,7 +1025,7 @@
             "id": "430", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-pmpractisegroup", 
-            "start": "02:45 PM", 
+            "start": "2:45 PM", 
             "tags": "MoFo", 
             "timeblock": "thursday-elective-time--thursday-14-45-", 
             "title": "PM practise group"
@@ -1042,7 +1042,7 @@
             "id": "431", 
             "location": "Hilton London Paddington", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-iotdropinclinic", 
-            "start": "02:45 PM", 
+            "start": "2:45 PM", 
             "tags": "Leadership Network", 
             "timeblock": "thursday-elective-time--thursday-14-45-", 
             "title": "IoT Drop-in Clinic"
@@ -1059,7 +1059,7 @@
             "id": "432", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-opendatacurriculum", 
-            "start": "02:45 PM", 
+            "start": "2:45 PM", 
             "tags": "Leadership Network", 
             "timeblock": "thursday-elective-time--thursday-14-45-", 
             "title": "Open Data Curriculum"
@@ -1077,7 +1077,7 @@
             "id": "433", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mozillacurriculumworkshop", 
-            "start": "02:45 PM", 
+            "start": "2:45 PM", 
             "tags": "Leadership Network", 
             "timeblock": "thursday-elective-time--thursday-14-45-", 
             "title": "Mozilla Curriculum Workshop"
@@ -1091,7 +1091,7 @@
             "id": "434", 
             "location": "London", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-supper", 
-            "start": "06:00 PM", 
+            "start": "6:00 PM", 
             "tags": "Food & Social", 
             "timeblock": "thursday-dinner--thursday-18-00-", 
             "title": "Supper"
@@ -1119,7 +1119,7 @@
             "id": "501", 
             "location": "Hilton London Paddington", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-breakfast", 
-            "start": "07:00 AM", 
+            "start": "7:00 AM", 
             "tags": "Food & Social", 
             "timeblock": "friday-breakfast--friday-07-00-", 
             "title": "Breakfast"
@@ -1137,7 +1137,7 @@
             "id": "502", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnproductionprocessconversation", 
-            "start": "09:00 AM", 
+            "start": "9:00 AM", 
             "tags": "Leadership Network", 
             "timeblock": "friday-team-time-fri-a--friday-09-00-", 
             "title": "MLN Production Process conversation"
@@ -1153,7 +1153,7 @@
             "id": "503", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-learninghubhplanning", 
-            "start": "09:00 AM", 
+            "start": "9:00 AM", 
             "tags": "Leadership Network", 
             "timeblock": "friday-team-time-fri-a--friday-09-00-", 
             "title": "Learning Hub H2 Planning #2"
@@ -1169,7 +1169,7 @@
             "id": "504", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-sciencehplanning", 
-            "start": "09:00 AM", 
+            "start": "9:00 AM", 
             "tags": "Leadership Network", 
             "timeblock": "friday-team-time-fri-a--friday-09-00-", 
             "title": "Science H2 Planning #2"
@@ -1183,7 +1183,7 @@
             "id": "505", 
             "location": "Kingfisher", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-advocacyteamtimekpis", 
-            "start": "09:00 AM", 
+            "start": "9:00 AM", 
             "tags": "Advocacy", 
             "timeblock": "friday-team-time-fri-a--friday-09-00-", 
             "title": "Advocacy team time (KPIs?)"
@@ -1328,7 +1328,7 @@
             "id": "514", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlncrosshubcollab", 
-            "start": "01:30 PM", 
+            "start": "1:30 PM", 
             "tags": "Leadership Network", 
             "timeblock": "friday-team-time-fri-c--friday-13-30-", 
             "title": "MLN Cross-Hub Collab"
@@ -1345,7 +1345,7 @@
             "id": "515", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mozfestplan", 
-            "start": "01:30 PM", 
+            "start": "1:30 PM", 
             "tags": "MoFo", 
             "timeblock": "friday-team-time-fri-c--friday-13-30-", 
             "title": "MozFest 2016 Plan"
@@ -1362,7 +1362,7 @@
             "id": "516", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-leadershipcurricvidbooth", 
-            "start": "01:30 PM", 
+            "start": "1:30 PM", 
             "tags": "Leadership Network", 
             "timeblock": "friday-team-time-fri-c--friday-13-30-", 
             "title": "Leadership Curric Vid Booth"
@@ -1378,7 +1378,7 @@
             "id": "517", 
             "location": "King George V", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-storyenginedeepdive", 
-            "start": "01:30 PM", 
+            "start": "1:30 PM", 
             "tags": "MoFo", 
             "timeblock": "friday-team-time-fri-c--friday-13-30-", 
             "title": "Story Engine Deep-Dive"
@@ -1392,7 +1392,7 @@
             "id": "518", 
             "location": "King George V", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-operationsteamdebriefnextsteps", 
-            "start": "01:30 PM", 
+            "start": "1:30 PM", 
             "tags": "Ops", 
             "timeblock": "friday-team-time-fri-c--friday-13-30-", 
             "title": "Operations Team de-brief + next steps"
@@ -1406,7 +1406,7 @@
             "id": "519", 
             "location": "Kingfisher", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-advocacyteamtime", 
-            "start": "01:30 PM", 
+            "start": "1:30 PM", 
             "tags": "Advocacy", 
             "timeblock": "friday-team-time-fri-c--friday-13-30-", 
             "title": "Advocacy team time"
@@ -1420,7 +1420,7 @@
             "id": "520", 
             "location": "Hilton London Paddington", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-coffee", 
-            "start": "02:30 PM", 
+            "start": "2:30 PM", 
             "tags": "Food & Social", 
             "timeblock": "friday-afternoon-coffee-break--friday-14-30-", 
             "title": "Coffee"
@@ -1434,7 +1434,7 @@
             "id": "521", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mofoclosingallhands", 
-            "start": "02:45 PM", 
+            "start": "2:45 PM", 
             "tags": "MoFo", 
             "timeblock": "friday-mofo-all-hands--friday-14-45-", 
             "title": "MoFo Closing All Hands"
@@ -1448,7 +1448,7 @@
             "id": "522", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-closingpartyanddinner", 
-            "start": "07:00 PM", 
+            "start": "7:00 PM", 
             "tags": "Food & Social", 
             "timeblock": "friday-closing-party-and-dinner--friday-19-00-", 
             "title": "Closing Party and Dinner\t\t\t\t\t\t"
