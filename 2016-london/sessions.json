@@ -205,7 +205,7 @@
         {
             "category": "", 
             "day": "Wednesday", 
-            "description": "This session brings together staff and affiliated roles of the Learning Hub to build our team, from setting expectations and lines of communication, to H2 questions and deliverables. Essential to building positive team dynamics, taking advantage of in-person time.\n\n*Required attendees*: Simona, Amira, Sam D, Jenn, Hana, Julia, Robert, Kenyatta, Chad, Andre, Janice, Katie, Lindsey, Carolina", 
+            "description": "This session brings together staff and affiliated roles of the Learning Hub to build our team, from setting expectations and lines of communication, to H2 questions and deliverables. Essential to building positive team dynamics, taking advantage of in-person time.\n\n*Required attendees*: Simona, Amira, Sam D, Jenn, Hana, Julia, Robert, Kenyatta, Chad, Andre, Janice, Katie, Lindsey, Carolina, Hildah, Mmaki, Baratang, Wendy, Geoff, Ani, Randy, Damian P, Vaibhav", 
             "facilitator_array": [
                 "Meghan"
             ], 
@@ -297,7 +297,7 @@
         {
             "category": "", 
             "day": "Wednesday", 
-            "description": "Discuss priorities for Mozilla Clubs for next six months. Map needs of club captains and what we can develop.\n\nRequired attendees: Julia, Mmkai, Baratang, Andre, Caro, Vishal, Hannah\n\nOptional attendees: Sarah, Chad, Lainie, Matthew, Luke", 
+            "description": "Discuss priorities for Mozilla Clubs for next six months. Map needs of club captains and what we can develop.\n\nRequired attendees: Julia, Mmkai, Baratang, Andre, Caro, Vaibhav, Hannah, Hildah, Ani\n\nOptional attendees: Sarah, Chad, Lainie, Matthew, Luke, Randy", 
             "facilitator_array": [
                 "Amira"
             ], 
@@ -313,7 +313,7 @@
         {
             "category": "", 
             "day": "Wednesday", 
-            "description": "Focused time for Hives to share cross city opportunities for H2, with emphasis on curriculum and convening activities.\n\nRequired attendees: Simona, Sam D, Hana, Robert, Kenyatta, Lindsey, Janice, Jenn, Katie\n\nOptional attendees: Chad, Erika, Sarah", 
+            "description": "Focused time for Hives to share cross city opportunities for H2, with emphasis on curriculum and convening activities.\n\nRequired attendees: Simona, Sam D, Hana, Robert, Kenyatta, Lindsey, Janice, Jenn, Katie, Geoff, Damian P\n\nOptional attendees: Chad, Erika, Sarah", 
             "facilitator_array": [], 
             "facilitators": "", 
             "id": "310", 
@@ -420,7 +420,7 @@
         {
             "category": "", 
             "day": "Wednesday", 
-            "description": "We'll be digging into onboarding plans for both programs, infrastructure needs for community-driven events + resource creation, and looking at opportunities to connect across program / region. \n\nRequired attendees: Zanna, Arliss, Anna, Rob, Caro, Julia, Andre, Hannah, Sabrina, Luke, Pomax\n\nOptional attendees: Laura, Bobby, Hana, Kenyatta", 
+            "description": "We'll be digging into onboarding plans for both programs, infrastructure needs for community-driven events + resource creation, and looking at opportunities to connect across program / region. \n\nRequired attendees: Zanna, Arliss, Anna, Rob, Caro, Julia, Andre, Hannah, Sabrina, Luke, Pomax, Hildah, Mmaki, Baratang, Ani, Vaibhav\n\nOptional attendees: Laura, Bobby, Hana, Kenyatta,", 
             "facilitator_array": [
                 "Aurelia", 
                 "Amira"
@@ -467,7 +467,7 @@
         }, 
         {
             "category": "", 
-            "description": "Removed from Participation team's schedule ", 
+            "description": "Cancelled from Participation team's schedule ", 
             "facilitator_array": [], 
             "facilitators": "", 
             "id": "321", 
@@ -583,6 +583,89 @@
         }, 
         {
             "category": "", 
+            "day": "Wednesday", 
+            "description": "Anyone who is interested in learning how the Mozilla Learning Team teaches core web literacy leadership skills - using Web Literacy Map as the blueprint.\n\n4:30 pm in Lancaster / Metropole East Tower", 
+            "facilitator_array": [
+                "An-Me", 
+                "Chad"
+            ], 
+            "facilitators": "An-Me, Chad", 
+            "id": "329", 
+            "location": "TBD", 
+            "notes url": "", 
+            "start": "2:45 PM", 
+            "tags": "Mozilla", 
+            "timeblock": "wednesday-elective-time--wednesday-14-45-", 
+            "title": "Growing Web Literacy Leaders"
+        }, 
+        {
+            "category": "", 
+            "day": "Wednesday", 
+            "description": "This session will discuss how we cultivated a conversation regarding building an open internet and it's barriers to participation. We pro-typed this workshop at the Allied Media Conference in 2015 where we were able to utilize the high degree of diversity in the attendee population. \n\n4:30pm in Hilton Meeting Room 10 / Metropole Tower Wing", 
+            "facilitator_array": [
+                "Simona"
+            ], 
+            "facilitators": "Simona", 
+            "id": "330", 
+            "location": "TBD", 
+            "notes url": "", 
+            "start": "2:45 PM", 
+            "tags": "Mozilla", 
+            "timeblock": "wednesday-elective-time--wednesday-14-45-", 
+            "title": "Make Open Internet a Reality"
+        }, 
+        {
+            "category": "", 
+            "day": "Wednesday", 
+            "description": "Anyone who wants to learn more about working open, WOW stands for Working Open Workshop, and we have most of the materials on how to openly source, license, document, publish, and provide for projects on the web. We'd love to share this with our community and anyone at Mozilla who might want to fork and reproduce a similar workshop in their respective communities \n\n4:30pm in York / Metropole East Tower", 
+            "facilitator_array": [
+                "Aurelia", 
+                "Kaitlin"
+            ], 
+            "facilitators": "Aurelia, Kaitlin", 
+            "id": "331", 
+            "location": "TBD", 
+            "notes url": "", 
+            "start": "2:45 PM", 
+            "tags": "Mozilla", 
+            "timeblock": "wednesday-elective-time--wednesday-14-45-", 
+            "title": "Design your own \"Working Open Workshop\""
+        }, 
+        {
+            "category": "", 
+            "day": "Wednesday", 
+            "description": "Greater diversity and equity is achieved through the construction of open, participatory and accessible venues for engagement. We present exemplary projects from Mozilla's Hive Chicago Learning Network as case studies, solicit and identify complementary examples from workshop participants, and lead attendees to co-construct a general model for Community-Based Co-Creation Pathways. Participants will apply and remix the model for their own communities to take home and execute. \n\n4:30pm in Hilton Meeting Room 11 / Metropole Tower Wing", 
+            "facilitator_array": [
+                "Robert"
+            ], 
+            "facilitators": "Robert", 
+            "id": "332", 
+            "location": "TBD", 
+            "notes url": "", 
+            "start": "2:45 PM", 
+            "tags": "Mozilla", 
+            "timeblock": "wednesday-elective-time--wednesday-14-45-", 
+            "title": "Spaces, Places and People: Community Co-Creation Pathways"
+        }, 
+        {
+            "category": "", 
+            "day": "Wednesday", 
+            "description": "Tinkerers interested in a hands-on exploration to generate educational resources that will activate the learning space at MozFest with internet enabled devices. \n\n3pm in Hilton Meeting Room 11 / Metropole Tower Wing", 
+            "facilitator_array": [
+                "Robert", 
+                "Julia"
+            ], 
+            "facilitators": "Robert, Julia", 
+            "id": "333", 
+            "location": "TBD", 
+            "notes url": "", 
+            "start": "2:45 PM", 
+            "tags": "Mozilla", 
+            "timeblock": "wednesday-elective-time--wednesday-14-45-", 
+            "title": "Exploring Internet Enable Devices for Learning"
+        }, 
+        {
+            "category": "", 
             "day": "Thursday", 
             "description": "Served in the hotel you sleep in.", 
             "facilitator_array": [], 
@@ -616,7 +699,7 @@
         {
             "category": "", 
             "day": "Thursday", 
-            "description": "\"Building Bridges by Design\" will take forethought and calendaring! We need in-person space to talk through and plan for H2 activities and achievements.\n\nRequired attendees: Simona, Sam, Hana, Julia, Amira, Andre, Caro, Lindsey, Jenn, Katie, Janice, Chad, Robert, Kenyatta\n\nOptional attendees: Lainie", 
+            "description": "\"Building Bridges by Design\" will take forethought and calendaring! We need in-person space to talk through and plan for H2 activities and achievements.\n\nRequired attendees: Simona, Sam, Hana, Julia, Amira, Andre, Caro, Lindsey, Jenn, Katie, Janice, Chad, Robert, Kenyatta, Hildah, Mmaki, Baratang, Wendy, Geoff, Ani, Randy, Damian P, Vaibhav\n\nOptional attendees: Lainie", 
             "facilitator_array": [
                 "Meghan"
             ], 
@@ -730,9 +813,9 @@
             "id": "410", 
             "location": "Kingfisher", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-copyrightcampaignplanning", 
-            "start": "10:30 AM", 
+            "start": "1:30 PM", 
             "tags": "Advocacy", 
-            "timeblock": "thursday-team-time-thu-b--thursday-10-30-", 
+            "timeblock": "thursday-team-time-thu-c--thursday-13-30-", 
             "title": "Copyright Campaign Planning"
         }, 
         {
@@ -756,7 +839,7 @@
         {
             "category": "", 
             "day": "Thursday", 
-            "description": "This will be a walk through of the first cut of the Open Leaderhship \ncurriculum, including a quick overview followed by a deep dive into a number of the modules. Looking for others to join to provide feedback, talk about implementation and testing with their communities to create a shared experience across Mozilla, and discuss next steps. \n\nRequired attendees: Steph W, Amira, Caro, Emma, Chris Mills, \n\nOptional: Chris", 
+            "description": "This will be a walk through of the first cut of the Open Leaderhship \ncurriculum, including a quick overview followed by a deep dive into a number of the modules. Looking for others to join to provide feedback, talk about implementation and testing with their communities to create a shared experience across Mozilla, and discuss next steps. \n\nRequired attendees: Steph W, Amira, Caro, Emma, Chris Mills, Hildah, Mmaki, Baratang, Wendy, Geoff, Ani, Randy, Damian P, Vaibhav\n\nOptional: Chris", 
             "facilitator_array": [
                 "Chad", 
                 "Zannah"
@@ -949,15 +1032,15 @@
             "id": "424", 
             "location": "Kingfisher", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-makerpartyplanbuild", 
-            "start": "1:30 PM", 
+            "start": "10:30 AM", 
             "tags": "Advocacy", 
-            "timeblock": "thursday-team-time-thu-c--thursday-13-30-", 
+            "timeblock": "thursday-team-time-thu-b--thursday-10-30-", 
             "title": "Maker Party Plan & Build"
         }, 
         {
             "category": "", 
             "day": "Thursday", 
-            "description": "Join this workshop to discuss what we are learning with DSO, and brainstorm with the group about how we make sure this is a useful project, how it can apply to people's work and the best way to help you incorporate lessons learned into your work. \n\nWill also discuss web literacy learnings and user centered production. \n\nRequired attendees: Sam B\n\nOptional attendees: Brett, Brian, Kevin, Lynn, Michelle, Nisha, Paul, Rina, Robert, Chad, David, Dees, Meghan, Sara, Amira, An-Me, Andrea, Jochai, Julia, Kalpana, Lainie, Lotta, Lucy, Luke, Matthew, Rosana, Sana, Simon", 
+            "description": "Join this workshop to discuss what we are learning with DSO, and brainstorm with the group about how we make sure this is a useful project, how it can apply to people's work and the best way to help you incorporate lessons learned into your work. \n\nWill also discuss web literacy learnings and user centered production. \n\nRequired attendees: Sam B\n\nOptional attendees: Brett, Brian, Kevin, Lynn, Michelle, Nisha, Paul, Rina, Robert, Chad, David, Dees, Meghan, Sara, Amira, An-Me, Andrea, Jochai, Julia, Kalpana, Lainie, Lotta, Lucy, Luke, Matthew, Rosana, Sana, Simon, Hildah, Mmaki, Baratang, Wendy, Geoff, Ani, Randy, Damian P, Vaibhav", 
             "facilitator_array": [
                 "Bobby", 
                 "Laura"
@@ -1033,7 +1116,7 @@
         {
             "category": "", 
             "day": "Thursday", 
-            "description": "", 
+            "description": "Required attendees: Matt, Matthew, Erika, Hannah, Lainie, Damian", 
             "facilitator_array": [], 
             "facilitators": "", 
             "id": "430", 
@@ -1054,7 +1137,7 @@
             ], 
             "facilitators": "Michelle, Jon", 
             "id": "431", 
-            "location": "Hilton London Paddington", 
+            "location": "TBD", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-iotdropinclinic", 
             "start": "2:45 PM", 
             "tags": "Leadership Network", 
@@ -1126,6 +1209,20 @@
         }, 
         {
             "category": "", 
+            "day": "Thursday", 
+            "description": "Located in Connected Devices Homeroom alongside the IoT Drop-in Clinic. Meet with the team creating interesting experiments to enhance events.\n\nOptional attendees: Matthew, Erika, Michelle, Sarah, Kristina S, Alan, Mavis, ", 
+            "facilitator_array": [], 
+            "facilitators": "", 
+            "id": "436", 
+            "location": "TBD", 
+            "notes url": "", 
+            "start": "2:45 PM", 
+            "tags": "Mozilla", 
+            "timeblock": "thursday-elective-time--thursday-14-45-", 
+            "title": "Magnet meet with Mozfest team"
+        }, 
+        {
+            "category": "", 
             "day": "Friday", 
             "description": "Served in the hotel you sleep in.", 
             "facilitator_array": [], 
@@ -1159,7 +1256,7 @@
         {
             "category": "", 
             "day": "Friday", 
-            "description": "\"Building Bridges by Design\" will take forethought and calendaring! We need in-person space to talk through and plan for H2 activities and achievements.\n\nRequired attendees: Simona, Sam, Hana, Julia, Amira, Andre, Caro, Lindsey, Jenn, Katie, Janice, Chad, Robert, Kenyatta\n\nOptional attendees: Lainie", 
+            "description": "\"Building Bridges by Design\" will take forethought and calendaring! We need in-person space to talk through and plan for H2 activities and achievements.\n\nRequired attendees: Simona, Sam, Hana, Julia, Amira, Andre, Caro, Lindsey, Jenn, Katie, Janice, Chad, Robert, Kenyatta, Hildah, Mmaki, Baratang, Wendy, Geoff, Ani, Randy, Damian P, Vaibhav\n\nOptional attendees: Lainie", 
             "facilitator_array": [
                 "Meghan"
             ], 
@@ -1252,7 +1349,7 @@
         {
             "category": "", 
             "day": "Friday", 
-            "description": "Sort through communications and staff details for the September IoT event in Chattanooga. The gives us all a chance to walk through the event (as best we can) before the call goes out to applicants in early July. \n\nRequired attendees: Katie, Michelle, Erika\n\nOptional attendees: Janice, Jenn, Robert, Jon, \n\n", 
+            "description": "Sort through communications and staff details for the September IoT event in Chattanooga. The gives us all a chance to walk through the event (as best we can) before the call goes out to applicants in early July. \n\nRequired attendees: Katie, Michelle, Erika\n\nOptional attendees: Janice, Jenn, Robert, Jon, Geoff\n\n", 
             "facilitator_array": [
                 "Katie", 
                 "Michelle", 
@@ -1287,11 +1384,11 @@
         {
             "category": "", 
             "day": "Friday", 
-            "description": "This session will dig into the relationship between metrics and convenings for the remainder of 2016, digging into how convenings map to increased activity + engagement from communities, strategy for data collection and participant analysis, and ultimately retention. \n\nRequired attendees: Erika, Sarah, Arliss, Aurelia\n\nOptional attendees: Jenn, Hana, Kenyatta, Sam B, Simon", 
+            "description": "This session will dig into the relationship between metrics and convenings for the remainder of 2016, digging into how convenings map to increased activity + engagement from communities, strategy for data collection and participant analysis, and ultimately retention. \n\nRequired attendees: Erika, Sarah, Aurelia\n\nOptional attendees: Jenn, Hana, Kenyatta, Sam B, Simon, Kaitlin, Lainie", 
             "facilitator_array": [
-                "Kaitlin"
+                "Arliss"
             ], 
-            "facilitators": "Kaitlin", 
+            "facilitators": "Arliss", 
             "id": "511", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnmetricsconvenings", 
@@ -1383,19 +1480,15 @@
         }, 
         {
             "category": "", 
-            "day": "Friday", 
-            "description": "Our leadership network is full of stories. We're prototyping and testing a \"story engine\" to surface and collect them in more systematic ways, to provide the mix of qualitative + quantitative data, evidence narratives and human impact we need to increase our empathy and understanding for the people we serve. http://mzl.la/story\n\nRequired attendees: Chris\n\nOptional attendees: Lainie, Amira, Chad, Sam B, Melissa, Aurelia, Steph M", 
-            "facilitator_array": [
-                "Matt"
-            ], 
-            "facilitators": "Matt", 
+            "description": "Canceled. Merged with #327 Harvesting stories across Mozilla", 
+            "facilitator_array": [], 
+            "facilitators": "", 
             "id": "517", 
-            "location": "King George V", 
-            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-storyenginedeepdive", 
-            "start": "1:30 PM", 
+            "location": "", 
+            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-storyenginedeepdivecanceled", 
             "tags": "MoFo", 
-            "timeblock": "friday-team-time-fri-c--friday-13-30-", 
-            "title": "Story Engine Deep-Dive"
+            "timeblock": "", 
+            "title": "Story Engine Deep-Dive (canceled)"
         }, 
         {
             "category": "", 
