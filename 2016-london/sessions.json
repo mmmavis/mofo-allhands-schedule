@@ -65,7 +65,7 @@
             "facilitator_array": [], 
             "facilitators": "", 
             "id": "203", 
-            "location": "Hilton London Paddington", 
+            "location": "Metropole", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-lunch", 
             "start": "11:30 AM", 
             "tags": "Food & Social", 
@@ -116,16 +116,14 @@
         }, 
         {
             "category": "", 
-            "day": "Tuesday", 
-            "description": "Required for all MoFos", 
+            "description": "CANCELED", 
             "facilitator_array": [], 
             "facilitators": "", 
             "id": "207", 
-            "location": "Great Western One", 
+            "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-chrisbeardandmitchellbakerinmofo", 
-            "start": "3:00 PM", 
             "tags": "MoFo", 
-            "timeblock": "tuesday-chris-beard-and-mitchell-baker-in-mofo-homeroom--tuesday-15-00-", 
+            "timeblock": "", 
             "title": "Chris Beard and Mitchell Baker in MoFo"
         }, 
         {
@@ -1319,7 +1317,7 @@
         {
             "category": "", 
             "day": "Friday", 
-            "description": "A brainstorming and roadmapping session with hub leads, hub team members and others interested in identifying collaboration opportunities among, across, in between and sideways with the Mozilla Leadership Network hubs.\n\nRequired attendees: Meghan, Amira, Melissa\n\nOptional attendees: ", 
+            "description": "A brainstorming and roadmapping session with hub leads, hub team members and others interested in identifying collaboration opportunities among, across, in between and sideways with the Mozilla Leadership Network hubs.\n\nRequired attendees: Meghan, Amira, Melissa, Stephanie W\n\nOptional attendees: ", 
             "facilitator_array": [
                 "Michelle", 
                 "Kaitlin"
