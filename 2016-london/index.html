@@ -44,6 +44,9 @@
     <div class="container">
       <div class="main-heading"></div>
       <div id="schedule-controls"></div>
+      <a id="overview-image" href="img/mofo-london-at-a-glance.png" target="_blank">
+        <img src="img/mofo-london-at-a-glance.png" width="100%" />
+      </a>
       <article id="schedule"></article>
     </div>
 
@@ -208,8 +211,8 @@
     <!-- <script src="../schedule.js"></script> -->
     <script>
       var customConfig = {
-        mainHeaderText: "London 2016",
-        subHeaderText: "Mozilla Foundation All Hands",
+        mainHeaderText: "All Hands - London 2016",
+        subHeaderText: "",
         displayNameForCategory: {
           singular:'category', // this can only be one word
           plural: 'categories' // this can only be one word
@@ -242,6 +245,24 @@
       new Schedule(customConfig);
 
       $("#categories-page-link").hide();
+
+      /* ***
+      * show schedule overview images *only* on the Monday tab
+      * *** */
+      var toggleOverviewImage = function() {
+        if (!window.location.hash || window.location.hash === '#_show-monday') {
+          $("#overview-image").show();
+        } else {
+          $("#overview-image").hide();
+        }
+      }
+
+      toggleOverviewImage();
+
+      $("*").on('click',(function(event) {
+        toggleOverviewImage();
+      }));
+
     </script>
   </body>
 </html>
