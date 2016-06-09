@@ -199,7 +199,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnproductionintro", 
             "start": "9:00 AM", 
             "tags": "Leadership Network", 
-            "timeblock": "wednesday-team-time-wed-a--wednesday-09-00-", 
+            "timeblock": "wednesday-team-time-wed--wed-9-00----wednesday-09-00-", 
             "title": "MLN Production Intro"
         }, 
         {
@@ -215,7 +215,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-learninghubteambuilding", 
             "start": "9:00 AM", 
             "tags": "Leadership Network", 
-            "timeblock": "wednesday-team-time-wed-a--wednesday-09-00-", 
+            "timeblock": "wednesday-team-time-wed--wed-9-00----wednesday-09-00-", 
             "title": "Learning Hub: Team Building"
         }, 
         {
@@ -231,7 +231,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-sciencelabhplanning", 
             "start": "9:00 AM", 
             "tags": "Leadership Network", 
-            "timeblock": "wednesday-team-time-wed-a--wednesday-09-00-", 
+            "timeblock": "wednesday-team-time-wed--wed-9-00----wednesday-09-00-", 
             "title": "Science Lab H2 Planning #1"
         }, 
         {
@@ -245,7 +245,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-advocacyhackbuild", 
             "start": "9:00 AM", 
             "tags": "Advocacy", 
-            "timeblock": "wednesday-team-time-wed-a--wednesday-09-00-", 
+            "timeblock": "wednesday-team-time-wed--wed-9-00----wednesday-09-00-", 
             "title": "Advocacy Hack & Build"
         }, 
         {
@@ -261,7 +261,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-advocacyjamwithmarketing", 
             "start": "9:00 AM", 
             "tags": "Advocacy", 
-            "timeblock": "wednesday-team-time-wed-a--wednesday-09-00-", 
+            "timeblock": "wednesday-team-time-wed--wed-9-00----wednesday-09-00-", 
             "title": "Advocacy Jam with Marketing"
         }, 
         {
@@ -386,20 +386,18 @@
         }, 
         {
             "category": "", 
-            "day": "Wednesday", 
-            "description": "NOTE THIS WILL BE IN THE CONNECTED DEVICES HOMEROOM\n\nAre you interested in learning & making away from keyboard? This zone will be kitted out with hardware, craft materials and other rapid prototyping tools to help you take your idea from post-it to reality.\n\nBring a fresh idea hatched at the all-hands, or something you've been mulling over for a while, and we'll help you turn it into something physical that helps others understand, interact with and improve it. \n\nWe'll also share reflections on prototyping practices we've been experimenting with and invite others to share their triumphs and challenges in these efforts as well. ", 
+            "description": "duplicate at 1pm", 
             "facilitator_array": [
                 "Michelle", 
                 "Jon"
             ], 
             "facilitators": "Michelle, Jon", 
             "id": "315", 
-            "location": "Hilton London Paddington", 
-            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-iotdropinclinic", 
-            "start": "12:00 PM", 
+            "location": "", 
+            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-iotdropinclinicduplicate", 
             "tags": "Leadership Network", 
-            "timeblock": "wednesday-lunch--wednesday-12-00-", 
-            "title": "IoT Drop-in Clinic"
+            "timeblock": "", 
+            "title": "IoT Drop-in Clinic (duplicate)"
         }, 
         {
             "category": "", 
@@ -438,17 +436,15 @@
         }, 
         {
             "category": "", 
-            "day": "Wednesday", 
-            "description": "", 
+            "description": "this was merged with another", 
             "facilitator_array": [], 
             "facilitators": "", 
             "id": "318", 
-            "location": "King George V", 
-            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-stateoftheweb", 
-            "start": "1:00 PM", 
+            "location": "", 
+            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-stateofthewebdeleted", 
             "tags": "Insights", 
-            "timeblock": "wednesday-team-time-wed-c--wednesday-13-00-", 
-            "title": "State of the Web"
+            "timeblock": "", 
+            "title": "State of the Web (deleted)"
         }, 
         {
             "category": "", 
@@ -460,7 +456,7 @@
             ], 
             "facilitators": "Michelle, Jon", 
             "id": "320", 
-            "location": "Great Western One", 
+            "location": "TBD", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-iotdropinclinic", 
             "start": "1:00 PM", 
             "tags": "Leadership Network", 
@@ -554,13 +550,13 @@
         {
             "category": "", 
             "day": "Wednesday", 
-            "description": "Get the key folks across MoFo working on harvesting & sharing stories together to:\n 1. get everyone on the same page what the projects are on-going, and\n 2. identify opportunities/practices that will enable us to collaborate & ensure we're working together effectively\n\nProjects involved include:\n - MLN Story Engine\n - Issues Radar\n - State of the Web\n - Network Pulse\n - Advocacy media\n\nRequired attendees: Matt, Chris, Matthew, Bobby, Paul, Sam, Brett\n\nOptional attendees: Jordan, Simon, Laura, Lotta", 
+            "description": "Get the key folks across MoFo working on harvesting & sharing stories together to:\n 1. get everyone on the same page what the projects are on-going, and\n 2. identify opportunities/practices that will enable us to collaborate & ensure we're working together effectively\n\nProjects involved include:\n - MLN Story Engine\n - Issues Radar\n - State of the Web\n - Network Pulse\n - Advocacy media\n\nRequired attendees: Matt, Chris, Matthew, Bobby, Paul, Sam B, Brett\n\nOptional attendees: Jordan, Simon, Laura, Lotta", 
             "facilitator_array": [
-                "Sam", 
+                "Sam B", 
                 "Kevin", 
                 "Matthew"
             ], 
-            "facilitators": "Sam, Kevin, Matthew", 
+            "facilitators": "Sam B, Kevin, Matthew", 
             "id": "327", 
             "location": "King George V", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-harvestingstoriesacrossmozilla", 
@@ -598,7 +594,7 @@
             "start": "2:45 PM", 
             "tags": "Mozilla", 
             "timeblock": "wednesday-elective-time--wednesday-14-45-", 
-            "title": "Growing Web Literacy Leaders"
+            "title": "Growing Web Literacy Leaders (4:30)"
         }, 
         {
             "category": "", 
@@ -614,7 +610,7 @@
             "start": "2:45 PM", 
             "tags": "Mozilla", 
             "timeblock": "wednesday-elective-time--wednesday-14-45-", 
-            "title": "Make Open Internet a Reality"
+            "title": "Make Open Internet a Reality (4:30)"
         }, 
         {
             "category": "", 
@@ -631,7 +627,7 @@
             "start": "2:45 PM", 
             "tags": "Mozilla", 
             "timeblock": "wednesday-elective-time--wednesday-14-45-", 
-            "title": "Design your own \"Working Open Workshop\""
+            "title": "Design your own \"Working Open Workshop\" (4:30)"
         }, 
         {
             "category": "", 
@@ -647,7 +643,7 @@
             "start": "2:45 PM", 
             "tags": "Mozilla", 
             "timeblock": "wednesday-elective-time--wednesday-14-45-", 
-            "title": "Spaces, Places and People: Community Co-Creation Pathways"
+            "title": "Spaces, Places and People: Community Co-Creation Pathways (4:30)"
         }, 
         {
             "category": "", 
@@ -701,7 +697,7 @@
         {
             "category": "", 
             "day": "Thursday", 
-            "description": "\"Building Bridges by Design\" will take forethought and calendaring! We need in-person space to talk through and plan for H2 activities and achievements.\n\nRequired attendees: Simona, Sam, Hana, Julia, Amira, Andre, Caro, Lindsey, Jenn, Katie, Janice, Chad, Robert, Kenyatta, Hildah, Mmaki, Baratang, Wendy, Geoff, Ani, Randy, Damian P, Vaibhav\n\nOptional attendees: Lainie", 
+            "description": "\"Building Bridges by Design\" will take forethought and calendaring! We need in-person space to talk through and plan for H2 activities and achievements.\n\nRequired attendees: Simona, Sam D, Hana, Julia, Amira, Andre, Caro, Lindsey, Jenn, Katie, Janice, Chad, Robert, Kenyatta, Hildah, Mmaki, Baratang, Wendy, Geoff, Ani, Randy, Damian P, Vaibhav\n\nOptional attendees: Lainie", 
             "facilitator_array": [
                 "Meghan"
             ], 
@@ -755,7 +751,7 @@
             "facilitator_array": [], 
             "facilitators": "", 
             "id": "406", 
-            "location": "King George V", 
+            "location": "Kingfisher", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-operationsprogramreviewdeepdive", 
             "start": "9:00 AM", 
             "tags": "Ops", 
@@ -769,7 +765,7 @@
             "facilitator_array": [], 
             "facilitators": "", 
             "id": "407", 
-            "location": "King George V", 
+            "location": "Kingfisher", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-goalsettingalexruzanna", 
             "start": "9:00 AM", 
             "tags": "Ops", 
@@ -785,10 +781,10 @@
             ], 
             "facilitators": "Andrea", 
             "id": "408", 
-            "location": "King George V", 
+            "location": "Kingfisher", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-fundraising", 
             "start": "9:00 AM", 
-            "tags": "", 
+            "tags": "MoFo", 
             "timeblock": "thursday-team-time-thu-a--thursday-09-00-", 
             "title": "Fundraising"
         }, 
@@ -809,13 +805,13 @@
         {
             "category": "", 
             "day": "Thursday", 
-            "description": "Conversations around how we can work together and bring different perspectives/talents/experiences to building a copyright campaign. \n\nRequired attendees: Sara", 
+            "description": "Conversations around how we can work together and bring different perspectives/talents/experiences to building a copyright campaign. \n\nRequired attendees: Raegan (policy team) , Sara (advocacy), Andrea (advocacy), George (participation), MEM (Marketing), Gregory (Marketing), Amira (Clubs, Mofo), Brett (advocacy), Paul (advocacy), Jordan (advocacy), MJ (Marketing) Laura N (Comms), Alex K (Comms), Lucy (Participation), Rosanna (Participation.)\n\n", 
             "facilitator_array": [
                 "Sara"
             ], 
             "facilitators": "Sara", 
             "id": "410", 
-            "location": "Kingfisher", 
+            "location": "King George V", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-copyrightcampaignplanning", 
             "start": "1:00 PM", 
             "tags": "Advocacy", 
@@ -851,15 +847,15 @@
             "facilitators": "Chad, Zannah", 
             "id": "412", 
             "location": "Great Western One", 
-            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-openleadershipcurriculum", 
-            "start": "10:30 AM", 
+            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-openleadershipcurriculumpm", 
+            "start": "2:30 PM", 
             "tags": "Leadership Network", 
-            "timeblock": "thursday-team-time-thu-b--thursday-10-30-", 
-            "title": "Open Leadership Curriculum"
+            "timeblock": "thursday-afternoon-coffee-break--thursday-14-30-", 
+            "title": "Open Leadership Curriculum (2pm)"
         }, 
         {
             "category": "", 
-            "day": "Thursday", 
+            "day": "Friday", 
             "description": "Designing MozFest for 2017 and beyond. Big picture scope with the question should we move locations for 2017, who are we designing for, and if we will hold one MozFest or coordinate many smaller MozFest around the world.\n\nRequired attendees: Mark, Chris, David, Angela\n\nOptional attendees: Michelle", 
             "facilitator_array": [
                 "Erika", 
@@ -867,11 +863,11 @@
             ], 
             "facilitators": "Erika, Sarah", 
             "id": "413", 
-            "location": "TBD", 
+            "location": "Kingfisher", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mozfestfuturegoals", 
-            "start": "10:30 AM", 
+            "start": "10:00 AM", 
             "tags": "MoFo", 
-            "timeblock": "thursday-team-time-thu-b--thursday-10-30-", 
+            "timeblock": "friday-morning-coffee-break--friday-10-00-", 
             "title": "MozFest Future & Goals"
         }, 
         {
@@ -880,7 +876,7 @@
             "facilitator_array": [], 
             "facilitators": "", 
             "id": "414", 
-            "location": "", 
+            "location": "Kingfisher", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-designingstrategyduplicate", 
             "tags": "Insights", 
             "timeblock": "", 
@@ -893,7 +889,7 @@
             "facilitator_array": [], 
             "facilitators": "", 
             "id": "415", 
-            "location": "King George V", 
+            "location": "Kingfisher", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-hrsessions", 
             "start": "10:30 AM", 
             "tags": "MoFo", 
@@ -903,13 +899,13 @@
         {
             "category": "", 
             "day": "Thursday", 
-            "description": "A brief meeting to discuss the 2020 strategy draft internal comms plan.\n\nRequired attendees: Lotta, Sam", 
+            "description": "A brief meeting to discuss the 2020 strategy draft internal comms plan.\n\nRequired attendees: Lotta, Sam B", 
             "facilitator_array": [
                 "Kevin"
             ], 
             "facilitators": "Kevin", 
             "id": "416", 
-            "location": "King George V", 
+            "location": "Kingfisher", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-internalcommsstrategy", 
             "start": "10:00 AM", 
             "tags": "MoFo", 
@@ -982,7 +978,6 @@
         }, 
         {
             "category": "", 
-            "day": "Thursday", 
             "description": "What is MozFest? How best to share our story, the festival value and attract new attendees.\n\nA session to discuss our comms plan for MozFest 2016 and the value of introducing a Marketing team to the festival. \n\nRequired attendees: Erika, Paul, Kevin", 
             "facilitator_array": [
                 "Sarah", 
@@ -991,11 +986,10 @@
             "facilitators": "Sarah, Erika", 
             "id": "421", 
             "location": "", 
-            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mozfestcomms", 
-            "start": "2:45 PM", 
+            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mozfestcommshidden", 
             "tags": "MoFo", 
-            "timeblock": "thursday-elective-time--thursday-14-45-", 
-            "title": "MozFest Comms"
+            "timeblock": "", 
+            "title": "MozFest Comms (Hidden)"
         }, 
         {
             "category": "", 
@@ -1039,9 +1033,9 @@
             "id": "424", 
             "location": "Kingfisher", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-makerpartyplanbuild", 
-            "start": "10:30 AM", 
+            "start": "10:00 AM", 
             "tags": "Advocacy", 
-            "timeblock": "thursday-team-time-thu-b--thursday-10-30-", 
+            "timeblock": "thursday-morning-coffee-break--thursday-10-00-", 
             "title": "Maker Party Plan & Build"
         }, 
         {
@@ -1132,7 +1126,7 @@
             "start": "2:45 PM", 
             "tags": "MoFo", 
             "timeblock": "thursday-elective-time--thursday-14-45-", 
-            "title": "PM practise group"
+            "title": "PM practise group (4:30)"
         }, 
         {
             "category": "", 
@@ -1180,11 +1174,11 @@
             "facilitators": "Chad, Robert, Amira", 
             "id": "433", 
             "location": "Great Western One", 
-            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mozillacurriculumworkshop", 
+            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mozillacurriculumworkshoppm", 
             "start": "2:45 PM", 
             "tags": "Leadership Network", 
             "timeblock": "thursday-elective-time--thursday-14-45-", 
-            "title": "Mozilla Curriculum Workshop"
+            "title": "Mozilla Curriculum Workshop (5pm)"
         }, 
         {
             "category": "", 
@@ -1203,7 +1197,7 @@
         {
             "category": "", 
             "day": "Thursday", 
-            "description": "By the time we hit London, we'll have a solid draft of our 2020 Strategy (v 1.0) - but to bring our vision to life, we need strong design. We'd like to start brainstorming about how we can make our strategy beautifully and compelling through design. How do we make our plan something we'd be able to explain in a poster that we'd be proud to frame?\n\nRequired attendees: Sam, Matthew, Kevin, Jordan, Paul\n\nOptional attendees: Lotta, Kristina, Luke, Sabrina, Natalie", 
+            "description": "By the time we hit London, we'll have a solid draft of our 2020 Strategy (v 1.0) - but to bring our vision to life, we need strong design. We'd like to start brainstorming about how we can make our strategy beautifully and compelling through design. How do we make our plan something we'd be able to explain in a poster that we'd be proud to frame?\n\nRequired attendees: Sam B, Matthew, Kevin, Jordan, Paul\n\nOptional attendees: Lotta, Kristina, Luke, Sabrina, Natalie", 
             "facilitator_array": [], 
             "facilitators": "", 
             "id": "435", 
@@ -1263,7 +1257,7 @@
         {
             "category": "", 
             "day": "Friday", 
-            "description": "\"Building Bridges by Design\" will take forethought and calendaring! We need in-person space to talk through and plan for H2 activities and achievements.\n\nRequired attendees: Simona, Sam, Hana, Julia, Amira, Andre, Caro, Lindsey, Jenn, Katie, Janice, Chad, Robert, Kenyatta, Hildah, Mmaki, Baratang, Wendy, Geoff, Ani, Randy, Damian P, Vaibhav\n\nOptional attendees: Lainie", 
+            "description": "\"Building Bridges by Design\" will take forethought and calendaring! We need in-person space to talk through and plan for H2 activities and achievements.\n\nRequired attendees: Simona, Sam D, Hana, Julia, Amira, Andre, Caro, Lindsey, Jenn, Katie, Janice, Chad, Robert, Kenyatta, Hildah, Mmaki, Baratang, Wendy, Geoff, Ani, Randy, Damian P, Vaibhav\n\nOptional attendees: Lainie", 
             "facilitator_array": [
                 "Meghan"
             ], 
@@ -1356,7 +1350,7 @@
         {
             "category": "", 
             "day": "Friday", 
-            "description": "Sort through communications and staff details for the September IoT event in Chattanooga. The gives us all a chance to walk through the event (as best we can) before the call goes out to applicants in early July. \n\nRequired attendees: Katie, Michelle, Erika\n\nOptional attendees: Janice, Jenn, Robert, Jon, Geoff, Simon\n\n", 
+            "description": "Sort through communications and staff details for the September IoT event in Chattanooga. The gives us all a chance to walk through the event (as best we can) before the call goes out to applicants in early July. 10am-11am. \n\nRequired attendees: Katie, Michelle, Erika\n\nOptional attendees: Janice, Jenn, Robert, Jon, Geoff, Simon\n\n", 
             "facilitator_array": [
                 "Katie", 
                 "Michelle", 
@@ -1398,11 +1392,11 @@
             "facilitators": "Arliss", 
             "id": "511", 
             "location": "Great Western One", 
-            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnmetricsconvenings", 
+            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnmetricsconveningsstart", 
             "start": "10:30 AM", 
             "tags": "Leadership Network", 
             "timeblock": "friday-team-time-fri-b--friday-10-30-", 
-            "title": "MLN Metrics + Convenings"
+            "title": "MLN Metrics + Convenings (11:30 start)"
         }, 
         {
             "category": "", 
@@ -1421,18 +1415,18 @@
         {
             "category": "", 
             "day": "Friday", 
-            "description": "Copywriters, storytellers, and communicators from various corners of the Foundation have historically used the twice-monthly Comms Council to catch up and talk comms broadly.\n\nIn Q2 and beyond, I'm hoping we can continue in a way that's productive for all. That means sharing our work; determining how it overlaps and how we can collaborate; and workshopping items that need an extra set of eyes.\n\nRequired attendees: Lotta; Jenn; Vanessa; Kristina; Lainie; Erika; Bobby; Paul; Sam; Kevin", 
+            "description": "Copywriters, storytellers, and communicators from various corners of the Foundation have historically used the twice-monthly Comms Council to catch up and talk comms broadly.\n\nIn Q2 and beyond, I'm hoping we can continue in a way that's productive for all. That means sharing our work; determining how it overlaps and how we can collaborate; and workshopping items that need an extra set of eyes.\n\nRequired attendees: Lotta; Jenn; Vanessa; Kristina; Lainie; Erika; Bobby; Paul; Sam B; Kevin", 
             "facilitator_array": [
                 "Kevin"
             ], 
             "facilitators": "Kevin", 
             "id": "513", 
             "location": "King George V", 
-            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-commscouncil", 
+            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-commscouncilpm", 
             "start": "12:30 PM", 
             "tags": "MoFo", 
             "timeblock": "friday-lunch--friday-12-30-", 
-            "title": "Comms Council"
+            "title": "Comms Council (1pm)"
         }, 
         {
             "category": "", 
@@ -1584,256 +1578,256 @@
             "timeblock name": "Welcome Reception"
         }, 
         {
-            "day": "Monday", 
-            "key": "monday-free-time--monday-18-00-", 
-            "order": 3, 
-            "start time": "18:00 ", 
-            "timeblock name": "Free Time"
-        }, 
-        {
             "day": "Tuesday", 
             "key": "tuesday-breakfast--tuesday-07-00-", 
-            "order": 4, 
+            "order": 3, 
             "start time": "07:00 ", 
             "timeblock name": "Breakfast"
         }, 
         {
             "day": "Tuesday", 
             "key": "tuesday-plenary--tuesday-09-00-", 
-            "order": 5, 
+            "order": 4, 
             "start time": "09:00 ", 
             "timeblock name": "Plenary"
         }, 
         {
             "day": "Tuesday", 
             "key": "tuesday-lunch--tuesday-11-30-", 
-            "order": 6, 
+            "order": 5, 
             "start time": "11:30 ", 
             "timeblock name": "Lunch"
         }, 
         {
             "day": "Tuesday", 
             "key": "tuesday-mofo-all-hands-opening--tuesday-13-00-", 
-            "order": 7, 
+            "order": 6, 
             "start time": "13:00", 
             "timeblock name": "MoFo All-hands Opening"
         }, 
         {
             "day": "Tuesday", 
             "key": "tuesday-afternoon-coffee-break--tuesday-14-30-", 
-            "order": 8, 
+            "order": 7, 
             "start time": "14:30", 
             "timeblock name": "Afternoon Coffee Break"
         }, 
         {
             "day": "Tuesday", 
             "key": "tuesday-mofo-all-hands--tuesday-14-45-", 
-            "order": 9, 
+            "order": 8, 
             "start time": "14:45 ", 
             "timeblock name": "MoFo All-hands"
         }, 
         {
             "day": "Tuesday", 
             "key": "tuesday-chris-beard-and-mitchell-baker-in-mofo-homeroom--tuesday-15-00-", 
-            "order": 10, 
+            "order": 9, 
             "start time": "15:00 ", 
             "timeblock name": "Chris Beard and Mitchell Baker in MoFo homeroom"
         }, 
         {
             "day": "Tuesday", 
             "key": "tuesday-mofo-all-hands-2--tuesday-16-00-", 
-            "order": 11, 
+            "order": 10, 
             "start time": "16:00 ", 
             "timeblock name": "MoFo All-hands 2"
         }, 
         {
             "day": "Tuesday", 
             "key": "tuesday-dinner--tuesday-18-00-", 
-            "order": 12, 
+            "order": 11, 
             "start time": "18:00 ", 
             "timeblock name": "Dinner"
         }, 
         {
             "day": "Wednesday", 
             "key": "wednesday-breakfast--wednesday-07-00-", 
-            "order": 13, 
+            "order": 12, 
             "start time": "07:00 ", 
             "timeblock name": "Breakfast"
         }, 
         {
             "day": "Wednesday", 
-            "key": "wednesday-team-time-wed-a--wednesday-09-00-", 
-            "order": 14, 
+            "key": "wednesday-team-time-wed--wed-9-00----wednesday-09-00-", 
+            "order": 13, 
             "start time": "09:00 ", 
-            "timeblock name": "Team Time Wed A"
+            "timeblock name": "Team Time Wed (Wed 9:00) "
         }, 
         {
             "day": "Wednesday", 
             "key": "wednesday-morning-coffee-break--wednesday-10-00-", 
-            "order": 15, 
+            "order": 14, 
             "start time": "10:00 ", 
             "timeblock name": "Morning Coffee Break"
         }, 
         {
             "day": "Wednesday", 
             "key": "wednesday-team-time-wed-b--wednesday-10-30-", 
-            "order": 16, 
+            "order": 15, 
             "start time": "10:30 ", 
             "timeblock name": "Team Time Wed B"
         }, 
         {
             "day": "Wednesday", 
             "key": "wednesday-lunch--wednesday-12-00-", 
-            "order": 17, 
+            "order": 16, 
             "start time": "12:00 ", 
             "timeblock name": "Lunch"
         }, 
         {
             "day": "Wednesday", 
             "key": "wednesday-team-time-wed-c--wednesday-13-00-", 
-            "order": 18, 
+            "order": 17, 
             "start time": "13:00", 
             "timeblock name": "Team Time Wed C"
         }, 
         {
             "day": "Wednesday", 
             "key": "wednesday-afternoon-coffee-break--wednesday-14-30-", 
-            "order": 19, 
+            "order": 18, 
             "start time": "14:30 ", 
             "timeblock name": "Afternoon Coffee Break"
         }, 
         {
             "day": "Wednesday", 
             "key": "wednesday-elective-time--wednesday-14-45-", 
-            "order": 20, 
+            "order": 19, 
             "start time": "14:45 ", 
             "timeblock name": "Elective Time"
         }, 
         {
             "day": "Wednesday", 
             "key": "wednesday-dinner--wednesday-18-00-", 
-            "order": 21, 
+            "order": 20, 
             "start time": "18:00", 
             "timeblock name": "Dinner"
         }, 
         {
             "day": "Thursday", 
             "key": "thursday-breakfast--thursday-07-00-", 
-            "order": 22, 
+            "order": 21, 
             "start time": "07:00 ", 
             "timeblock name": "Breakfast"
         }, 
         {
             "day": "Thursday", 
             "key": "thursday-team-time-thu-a--thursday-09-00-", 
-            "order": 23, 
+            "order": 22, 
             "start time": "09:00 ", 
             "timeblock name": "Team Time Thu A"
         }, 
         {
             "day": "Thursday", 
             "key": "thursday-morning-coffee-break--thursday-10-00-", 
-            "order": 24, 
+            "order": 23, 
             "start time": "10:00 ", 
             "timeblock name": "Morning Coffee Break"
         }, 
         {
             "day": "Thursday", 
             "key": "thursday-team-time-thu-b--thursday-10-30-", 
-            "order": 25, 
+            "order": 24, 
             "start time": "10:30 ", 
             "timeblock name": "Team Time Thu B"
         }, 
         {
             "day": "Thursday", 
             "key": "thursday-lunch--thursday-12-00-", 
-            "order": 26, 
+            "order": 25, 
             "start time": "12:00 ", 
             "timeblock name": "Lunch"
         }, 
         {
             "day": "Thursday", 
             "key": "thursday-team-time-thu-c--thursday-13-00-", 
-            "order": 27, 
+            "order": 26, 
             "start time": "13:00", 
             "timeblock name": "Team Time Thu C"
         }, 
         {
             "day": "Thursday", 
             "key": "thursday-afternoon-coffee-break--thursday-14-30-", 
-            "order": 28, 
+            "order": 27, 
             "start time": "14:30 ", 
             "timeblock name": "Afternoon Coffee Break"
         }, 
         {
             "day": "Thursday", 
             "key": "thursday-elective-time--thursday-14-45-", 
-            "order": 29, 
+            "order": 28, 
             "start time": "14:45 ", 
             "timeblock name": "Elective Time"
         }, 
         {
             "day": "Thursday", 
             "key": "thursday-dinner--thursday-18-00-", 
-            "order": 30, 
+            "order": 29, 
             "start time": "18:00", 
             "timeblock name": "Dinner"
         }, 
         {
             "day": "Friday", 
             "key": "friday-breakfast--friday-07-00-", 
-            "order": 31, 
+            "order": 30, 
             "start time": "07:00 ", 
             "timeblock name": "Breakfast"
         }, 
         {
             "day": "Friday", 
             "key": "friday-team-time-fri-a--friday-09-00-", 
-            "order": 32, 
+            "order": 31, 
             "start time": "09:00 ", 
             "timeblock name": "Team Time Fri A"
         }, 
         {
             "day": "Friday", 
             "key": "friday-morning-coffee-break--friday-10-00-", 
-            "order": 33, 
+            "order": 32, 
             "start time": "10:00 ", 
             "timeblock name": "Morning Coffee Break"
         }, 
         {
             "day": "Friday", 
             "key": "friday-team-time-fri-b--friday-10-30-", 
-            "order": 34, 
+            "order": 33, 
             "start time": "10:30 ", 
             "timeblock name": "Team Time Fri B"
         }, 
         {
             "day": "Friday", 
             "key": "friday-lunch--friday-12-30-", 
-            "order": 35, 
+            "order": 34, 
             "start time": "12:30 ", 
             "timeblock name": "Lunch"
         }, 
         {
             "day": "Friday", 
             "key": "friday-team-time-fri-c--friday-13-30-", 
-            "order": 36, 
+            "order": 35, 
             "start time": "13:30", 
             "timeblock name": "Team Time Fri C"
         }, 
         {
             "day": "Friday", 
             "key": "friday-afternoon-coffee-break--friday-14-30-", 
-            "order": 37, 
+            "order": 36, 
             "start time": "14:30 ", 
             "timeblock name": "Afternoon Coffee Break"
         }, 
         {
             "day": "Friday", 
             "key": "friday-mofo-all-hands--friday-14-45-", 
-            "order": 38, 
+            "order": 37, 
             "start time": "14:45 ", 
             "timeblock name": "MoFo All-hands"
+        }, 
+        {
+            "day": "Friday", 
+            "key": "friday-free-time--friday-18-00-", 
+            "order": 38, 
+            "start time": "18:00 ", 
+            "timeblock name": "Free Time"
         }, 
         {
             "day": "Friday", 
