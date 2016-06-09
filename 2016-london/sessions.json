@@ -199,7 +199,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnproductionintro", 
             "start": "9:00 AM", 
             "tags": "Leadership Network", 
-            "timeblock": "wednesday-team-time-wed--wed-9-00----wednesday-09-00-", 
+            "timeblock": "wednesday-team-time--wed-9-00----wednesday-09-00-", 
             "title": "MLN Production Intro"
         }, 
         {
@@ -215,7 +215,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-learninghubteambuilding", 
             "start": "9:00 AM", 
             "tags": "Leadership Network", 
-            "timeblock": "wednesday-team-time-wed--wed-9-00----wednesday-09-00-", 
+            "timeblock": "wednesday-team-time--wed-9-00----wednesday-09-00-", 
             "title": "Learning Hub: Team Building"
         }, 
         {
@@ -231,7 +231,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-sciencelabhplanning", 
             "start": "9:00 AM", 
             "tags": "Leadership Network", 
-            "timeblock": "wednesday-team-time-wed--wed-9-00----wednesday-09-00-", 
+            "timeblock": "wednesday-team-time--wed-9-00----wednesday-09-00-", 
             "title": "Science Lab H2 Planning #1"
         }, 
         {
@@ -245,7 +245,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-advocacyhackbuild", 
             "start": "9:00 AM", 
             "tags": "Advocacy", 
-            "timeblock": "wednesday-team-time-wed--wed-9-00----wednesday-09-00-", 
+            "timeblock": "wednesday-team-time--wed-9-00----wednesday-09-00-", 
             "title": "Advocacy Hack & Build"
         }, 
         {
@@ -261,7 +261,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-advocacyjamwithmarketing", 
             "start": "9:00 AM", 
             "tags": "Advocacy", 
-            "timeblock": "wednesday-team-time-wed--wed-9-00----wednesday-09-00-", 
+            "timeblock": "wednesday-team-time--wed-9-00----wednesday-09-00-", 
             "title": "Advocacy Jam with Marketing"
         }, 
         {
@@ -1649,10 +1649,10 @@
         }, 
         {
             "day": "Wednesday", 
-            "key": "wednesday-team-time-wed--wed-9-00----wednesday-09-00-", 
+            "key": "wednesday-team-time--wed-9-00----wednesday-09-00-", 
             "order": 13, 
             "start time": "09:00 ", 
-            "timeblock name": "Team Time Wed (Wed 9:00) "
+            "timeblock name": "Team Time (Wed 9:00) "
         }, 
         {
             "day": "Wednesday", 
