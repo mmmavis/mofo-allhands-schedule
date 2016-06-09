@@ -44,9 +44,6 @@
     <div class="container">
       <div class="main-heading"></div>
       <div id="schedule-controls"></div>
-      <a id="overview-image" href="img/mofo-london-at-a-glance.png" target="_blank">
-        <img src="img/mofo-london-at-a-glance.png" width="100%" />
-      </a>
       <article id="schedule"></article>
     </div>
 
@@ -211,8 +208,8 @@
     <!-- <script src="../schedule.js"></script> -->
     <script>
       var customConfig = {
-        mainHeaderText: "All Hands - London 2016",
-        subHeaderText: "",
+        mainHeaderText: "",
+        subHeaderText: "Foundation All Hands - London 2016",
         displayNameForCategory: {
           singular:'category', // this can only be one word
           plural: 'categories' // this can only be one word
@@ -234,35 +231,17 @@
           { name: 'All', displayName: '<i class="fa fa-search"></i>' }
         ],
         // optional 
-        // additionalNavItems: [
-        //   { 
-        //     label: "Other All-hands",
-        //     link: "../2016-hawaii",
-        //   }
-        // ]
+        additionalNavItems: [
+          { 
+            label: "Overview <i class='fa fa-external-link'></i>",
+            link: "img/mofo-london-at-a-glance.png",
+          }
+        ]
       }
       // instantiate the app
       new Schedule(customConfig);
 
       $("#categories-page-link").hide();
-
-      /* ***
-      * show schedule overview images *only* on the Monday tab
-      * *** */
-      var toggleOverviewImage = function() {
-        if (!window.location.hash || window.location.hash === '#_show-monday') {
-          $("#overview-image").show();
-        } else {
-          $("#overview-image").hide();
-        }
-      }
-
-      toggleOverviewImage();
-
-      $("*").on('click',(function(event) {
-        toggleOverviewImage();
-      }));
-
     </script>
   </body>
 </html>
