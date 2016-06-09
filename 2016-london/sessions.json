@@ -1288,7 +1288,7 @@
         }, 
         {
             "category": "", 
-            "day": "Wednesday", 
+            "day": "Friday", 
             "description": "", 
             "facilitator_array": [], 
             "facilitators": "", 
@@ -1297,7 +1297,7 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-advocacyteamtimekpis", 
             "start": "9:00 AM", 
             "tags": "Advocacy", 
-            "timeblock": "wednesday-team-time--wed-9-00---wednesday-09-00-", 
+            "timeblock": "friday-team-time--fri-9-00---friday-09-00-", 
             "title": "Advocacy team time (KPIs?)"
         }, 
         {
