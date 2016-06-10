@@ -514,24 +514,24 @@
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-electives", 
             "start": "2:45 PM", 
             "tags": "Mozilla", 
-            "timeblock": "wednesday-elective-time--wednesday-14-45-", 
+            "timeblock": "wednesday-elective--wed-2-45---wednesday-14-45-", 
             "title": "Electives"
         }, 
         {
             "category": "", 
             "day": "Wednesday", 
-            "description": "We'll take a design-centered field trip to Ravensbourne to envision how we'll use the space for MozFest 2016 (for design, wayfinding, alternatives-to-mainstage (currently known as 'salons'. final name tbd), info cafes etc)\n\nRequired attendees: Matthew, Jordan, Erika, Kristina, Kevin, Luca\n\nOptional attendeees:", 
+            "description": "We'll take a design-centered field trip to Ravensbourne to envision how we'll use the space for MozFest 2016 (for design, wayfinding, alternatives-to-mainstage (currently known as 'salons'. final name tbd), info cafes etc)\n\nMeetin the reception of the Hilton paddington at 2pm or at Ravensbourne College at 2:45pm.\n\nRequired attendees: Matthew, Jordan, Erika, Kristina, Kevin, Luca\n\nOptional attendeees:", 
             "facilitator_array": [
                 "Sarah"
             ], 
             "facilitators": "Sarah", 
             "id": "325", 
             "location": "Great Western One", 
-            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-ravensbournefieldtrip", 
-            "start": "2:45 PM", 
+            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-ravensbournefieldtrippm", 
+            "start": "2:30 PM", 
             "tags": "Leadership Network", 
-            "timeblock": "wednesday-elective-time--wednesday-14-45-", 
-            "title": "Ravensbourne Field Trip"
+            "timeblock": "wednesday-afternoon-coffee-break--wednesday-14-30-", 
+            "title": "Ravensbourne Field Trip (2pm)"
         }, 
         {
             "category": "", 
@@ -573,11 +573,11 @@
             "facilitators": "", 
             "id": "328", 
             "location": "TBD", 
-            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-brandidentityopenhouse", 
+            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-brandidentityopenhousepm", 
             "start": "2:45 PM", 
             "tags": "Mozilla", 
-            "timeblock": "wednesday-elective-time--wednesday-14-45-", 
-            "title": "Brand Identity Open House"
+            "timeblock": "wednesday-elective--wed-2-45---wednesday-14-45-", 
+            "title": "Brand Identity Open House (4pm)"
         }, 
         {
             "category": "", 
@@ -591,10 +591,10 @@
             "id": "329", 
             "location": "TBD", 
             "notes url": "", 
-            "start": "2:45 PM", 
+            "start": "4:30 PM", 
             "tags": "Mozilla", 
-            "timeblock": "wednesday-elective-time--wednesday-14-45-", 
-            "title": "Growing Web Literacy Leaders (4:30)"
+            "timeblock": "wednesday-electives--wed-4-30---wednesday-16-30-", 
+            "title": "Growing Web Literacy Leaders"
         }, 
         {
             "category": "", 
@@ -607,10 +607,10 @@
             "id": "330", 
             "location": "TBD", 
             "notes url": "", 
-            "start": "2:45 PM", 
+            "start": "4:30 PM", 
             "tags": "Mozilla", 
-            "timeblock": "wednesday-elective-time--wednesday-14-45-", 
-            "title": "Make Open Internet a Reality (4:30)"
+            "timeblock": "wednesday-electives--wed-4-30---wednesday-16-30-", 
+            "title": "Make Open Internet a Reality"
         }, 
         {
             "category": "", 
@@ -624,9 +624,9 @@
             "id": "331", 
             "location": "TBD", 
             "notes url": "", 
-            "start": "2:45 PM", 
+            "start": "4:30 PM", 
             "tags": "Mozilla", 
-            "timeblock": "wednesday-elective-time--wednesday-14-45-", 
+            "timeblock": "wednesday-electives--wed-4-30---wednesday-16-30-", 
             "title": "Design your own \"Working Open Workshop\" (4:30)"
         }, 
         {
@@ -640,10 +640,10 @@
             "id": "332", 
             "location": "TBD", 
             "notes url": "", 
-            "start": "2:45 PM", 
+            "start": "4:30 PM", 
             "tags": "Mozilla", 
-            "timeblock": "wednesday-elective-time--wednesday-14-45-", 
-            "title": "Spaces, Places and People: Community Co-Creation Pathways (4:30)"
+            "timeblock": "wednesday-electives--wed-4-30---wednesday-16-30-", 
+            "title": "Spaces, Places and People: Community Co-Creation Pathways"
         }, 
         {
             "category": "", 
@@ -659,7 +659,7 @@
             "notes url": "", 
             "start": "2:45 PM", 
             "tags": "Mozilla", 
-            "timeblock": "wednesday-elective-time--wednesday-14-45-", 
+            "timeblock": "wednesday-elective--wed-2-45---wednesday-14-45-", 
             "title": "Exploring Internet Enable Devices for Learning"
         }, 
         {
@@ -954,7 +954,7 @@
             "facilitators": "Robert", 
             "id": "419", 
             "location": "Great Western One", 
-            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mozfestlearninghub", 
+            "notes url": "https://public.etherpad-mozilla.org/p/mozfest2016-mln", 
             "start": "1:00 PM", 
             "tags": "Leadership Network", 
             "timeblock": "thursday-team-time--thu-1-00---thursday-13-00-", 
@@ -1691,148 +1691,155 @@
         }, 
         {
             "day": "Wednesday", 
-            "key": "wednesday-elective-time--wednesday-14-45-", 
+            "key": "wednesday-elective--wed-2-45---wednesday-14-45-", 
             "order": 19, 
             "start time": "14:45 ", 
-            "timeblock name": "Elective Time"
+            "timeblock name": "Elective (Wed 2:45)"
+        }, 
+        {
+            "day": "Wednesday", 
+            "key": "wednesday-electives--wed-4-30---wednesday-16-30-", 
+            "order": 20, 
+            "start time": "16:30", 
+            "timeblock name": "Electives (Wed 4:30)"
         }, 
         {
             "day": "Wednesday", 
             "key": "wednesday-dinner--wednesday-18-00-", 
-            "order": 20, 
+            "order": 21, 
             "start time": "18:00", 
             "timeblock name": "Dinner"
         }, 
         {
             "day": "Thursday", 
             "key": "thursday-breakfast--thursday-07-00-", 
-            "order": 21, 
+            "order": 22, 
             "start time": "07:00 ", 
             "timeblock name": "Breakfast"
         }, 
         {
             "day": "Thursday", 
             "key": "thursday-team-time--thu-9-00---thursday-09-00-", 
-            "order": 22, 
+            "order": 23, 
             "start time": "09:00 ", 
             "timeblock name": "Team Time (Thu 9:00)"
         }, 
         {
             "day": "Thursday", 
             "key": "thursday-morning-coffee-break--thursday-10-00-", 
-            "order": 23, 
+            "order": 24, 
             "start time": "10:00 ", 
             "timeblock name": "Morning Coffee Break"
         }, 
         {
             "day": "Thursday", 
             "key": "thursday-team-time--thu-10-30---thursday-10-30-", 
-            "order": 24, 
+            "order": 25, 
             "start time": "10:30 ", 
             "timeblock name": "Team Time (Thu 10:30)"
         }, 
         {
             "day": "Thursday", 
             "key": "thursday-lunch--thursday-12-00-", 
-            "order": 25, 
+            "order": 26, 
             "start time": "12:00 ", 
             "timeblock name": "Lunch"
         }, 
         {
             "day": "Thursday", 
             "key": "thursday-team-time--thu-1-00---thursday-13-00-", 
-            "order": 26, 
+            "order": 27, 
             "start time": "13:00", 
             "timeblock name": "Team Time (Thu 1:00)"
         }, 
         {
             "day": "Thursday", 
             "key": "thursday-afternoon-coffee-break--thursday-14-30-", 
-            "order": 27, 
+            "order": 28, 
             "start time": "14:30 ", 
             "timeblock name": "Afternoon Coffee Break"
         }, 
         {
             "day": "Thursday", 
             "key": "thursday-elective-time--thursday-14-45-", 
-            "order": 28, 
+            "order": 29, 
             "start time": "14:45 ", 
             "timeblock name": "Elective Time"
         }, 
         {
             "day": "Thursday", 
             "key": "thursday-dinner--thursday-18-00-", 
-            "order": 29, 
+            "order": 30, 
             "start time": "18:00", 
             "timeblock name": "Dinner"
         }, 
         {
             "day": "Friday", 
             "key": "friday-breakfast--friday-07-00-", 
-            "order": 30, 
+            "order": 31, 
             "start time": "07:00 ", 
             "timeblock name": "Breakfast"
         }, 
         {
             "day": "Friday", 
             "key": "friday-team-time--fri-9-00---friday-09-00-", 
-            "order": 31, 
+            "order": 32, 
             "start time": "09:00 ", 
             "timeblock name": "Team Time (Fri 9:00)"
         }, 
         {
             "day": "Friday", 
             "key": "friday-morning-coffee-break--friday-10-00-", 
-            "order": 32, 
+            "order": 33, 
             "start time": "10:00 ", 
             "timeblock name": "Morning Coffee Break"
         }, 
         {
             "day": "Friday", 
             "key": "friday-team-time--fri-10-30---friday-10-30-", 
-            "order": 33, 
+            "order": 34, 
             "start time": "10:30 ", 
             "timeblock name": "Team Time (Fri 10:30)"
         }, 
         {
             "day": "Friday", 
             "key": "friday-lunch--friday-12-30-", 
-            "order": 34, 
+            "order": 35, 
             "start time": "12:30 ", 
             "timeblock name": "Lunch"
         }, 
         {
             "day": "Friday", 
             "key": "friday-team-time--fri-1-30---friday-13-30-", 
-            "order": 35, 
+            "order": 36, 
             "start time": "13:30", 
             "timeblock name": "Team Time (Fri 1:30)"
         }, 
         {
             "day": "Friday", 
             "key": "friday-afternoon-coffee-break--friday-14-30-", 
-            "order": 36, 
+            "order": 37, 
             "start time": "14:30 ", 
             "timeblock name": "Afternoon Coffee Break"
         }, 
         {
             "day": "Friday", 
             "key": "friday-mofo-all-hands--friday-14-45-", 
-            "order": 37, 
+            "order": 38, 
             "start time": "14:45 ", 
             "timeblock name": "MoFo All-hands"
         }, 
         {
             "day": "Friday", 
             "key": "friday-free-time--friday-18-00-", 
-            "order": 38, 
+            "order": 39, 
             "start time": "18:00 ", 
             "timeblock name": "Free Time"
         }, 
         {
             "day": "Friday", 
             "key": "friday-closing-party-and-dinner--friday-19-00-", 
-            "order": 39, 
+            "order": 40, 
             "start time": "19:00 ", 
             "timeblock name": "Closing Party and Dinner"
         }
