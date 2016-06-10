@@ -128,17 +128,15 @@
         }, 
         {
             "category": "", 
-            "day": "Tuesday", 
-            "description": "Required for all MoFos", 
+            "description": "Merged with earlier session", 
             "facilitator_array": [], 
             "facilitators": "", 
             "id": "208", 
-            "location": "Great Western One", 
-            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mofoallhands", 
-            "start": "4:00 PM", 
-            "tags": "MoFo", 
-            "timeblock": "tuesday-mofo-all-hands-2--tuesday-16-00-", 
-            "title": "MoFo All-hands"
+            "location": "", 
+            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mofoallhandsmergedwithearliersession", 
+            "tags": "", 
+            "timeblock": "", 
+            "title": "MoFo All-hands (merged with earlier session)"
         }, 
         {
             "category": "", 
@@ -267,6 +265,22 @@
         {
             "category": "", 
             "day": "Wednesday", 
+            "description": "Required: Full Operations team", 
+            "facilitator_array": [
+                "Angela"
+            ], 
+            "facilitators": "Angela", 
+            "id": "341", 
+            "location": "Kingfisher", 
+            "notes url": "", 
+            "start": "9:00 AM", 
+            "tags": "Ops", 
+            "timeblock": "wednesday-team-time--wed-9-00---wednesday-09-00-", 
+            "title": "Operations Team H1 retrospective"
+        }, 
+        {
+            "category": "", 
+            "day": "Wednesday", 
             "description": "", 
             "facilitator_array": [], 
             "facilitators": "", 
@@ -346,15 +360,17 @@
             "category": "", 
             "day": "Thursday", 
             "description": "Pamela will explain basic financial knowledge, including:\n• Broad stroke explanation of financial terms and reports\n• Review a GL data dump of an expense account and show them how to understand it and what it is useful for.\n• Show how salaries of people are split and why it matters.\n• Review a YTD income statement compared to budget and what can be interpreted from it\n• Do a section on how delay in expense reporting or errors impact reporting and daily tasks\n• Explain why Grant reporting is different than regular and what gets done with the info \n\nRequired attendees: Pamela", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "facilitator_array": [
+                "Pamela"
+            ], 
+            "facilitators": "Pamela", 
             "id": "312", 
             "location": "Kingfisher", 
-            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-increasingfinancialliteracypm", 
-            "start": "2:45 PM", 
+            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-increasingfinancialliteracyam", 
+            "start": "10:00 AM", 
             "tags": "Ops", 
-            "timeblock": "thursday-elective-time--thursday-14-45-", 
-            "title": "Increasing Financial Literacy (3:30pm)"
+            "timeblock": "thursday-morning-coffee-break--thursday-10-00-", 
+            "title": "Increasing Financial Literacy (10am)"
         }, 
         {
             "category": "", 
@@ -369,6 +385,48 @@
             "tags": "Advocacy", 
             "timeblock": "wednesday-team-time--wed-10-30---wednesday-10-30-", 
             "title": "Advocacy Jam with Marketing"
+        }, 
+        {
+            "category": "", 
+            "day": "Wednesday", 
+            "description": "", 
+            "facilitator_array": [], 
+            "facilitators": "", 
+            "id": "334", 
+            "location": "Kingfisher", 
+            "notes url": "", 
+            "start": "10:30 AM", 
+            "tags": "Ops", 
+            "timeblock": "wednesday-team-time--wed-10-30---wednesday-10-30-", 
+            "title": "Forecasting H2 financials"
+        }, 
+        {
+            "category": "", 
+            "day": "Wednesday", 
+            "description": "", 
+            "facilitator_array": [], 
+            "facilitators": "", 
+            "id": "335", 
+            "location": "Kingfisher", 
+            "notes url": "", 
+            "start": "10:30 AM", 
+            "tags": "Ops", 
+            "timeblock": "wednesday-team-time--wed-10-30---wednesday-10-30-", 
+            "title": "HR Deepdive - [Mandy & Michael]"
+        }, 
+        {
+            "category": "", 
+            "day": "Wednesday", 
+            "description": "", 
+            "facilitator_array": [], 
+            "facilitators": "", 
+            "id": "336", 
+            "location": "Kingfisher", 
+            "notes url": "", 
+            "start": "10:30 AM", 
+            "tags": "Ops", 
+            "timeblock": "wednesday-team-time--wed-10-30---wednesday-10-30-", 
+            "title": "Internal comms audit (11am) [Angela + Lotta]"
         }, 
         {
             "category": "", 
@@ -442,7 +500,7 @@
             "id": "318", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-stateofthewebdeleted", 
-            "tags": "Insights", 
+            "tags": "", 
             "timeblock": "", 
             "title": "State of the Web (deleted)"
         }, 
@@ -470,10 +528,10 @@
             "facilitators": "", 
             "id": "321", 
             "location": "", 
-            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-coreleadershipsprint", 
-            "tags": "Participation", 
+            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-coreleadershipsprintcanceled", 
+            "tags": "", 
             "timeblock": "", 
-            "title": "Core Leadership Sprint"
+            "title": "Core Leadership Sprint (canceled)"
         }, 
         {
             "category": "", 
@@ -493,6 +551,37 @@
             "category": "", 
             "day": "Wednesday", 
             "description": "", 
+            "facilitator_array": [
+                "Mandy", 
+                "Michael"
+            ], 
+            "facilitators": "Mandy, Michael", 
+            "id": "337", 
+            "location": "Kingfisher", 
+            "notes url": "", 
+            "start": "1:00 PM", 
+            "tags": "Ops", 
+            "timeblock": "wednesday-team-time--wed-1-00---wednesday-13-00-", 
+            "title": "HR Deepdive"
+        }, 
+        {
+            "category": "", 
+            "day": "Wednesday", 
+            "description": "", 
+            "facilitator_array": [], 
+            "facilitators": "", 
+            "id": "338", 
+            "location": "Kingfisher", 
+            "notes url": "", 
+            "start": "1:00 PM", 
+            "tags": "Ops", 
+            "timeblock": "wednesday-team-time--wed-1-00---wednesday-13-00-", 
+            "title": "Forecasting H2 financials continued (Alex + Ruzanna)"
+        }, 
+        {
+            "category": "", 
+            "day": "Wednesday", 
+            "description": "", 
             "facilitator_array": [], 
             "facilitators": "", 
             "id": "323", 
@@ -502,20 +591,6 @@
             "tags": "Food & Social", 
             "timeblock": "wednesday-afternoon-coffee-break--wednesday-14-30-", 
             "title": "Coffee break"
-        }, 
-        {
-            "category": "", 
-            "day": "Wednesday", 
-            "description": "Choose your own: [Sched](http://mozillalondonallhands2016.sched.org/)", 
-            "facilitator_array": [], 
-            "facilitators": "", 
-            "id": "324", 
-            "location": "Misc", 
-            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-electives", 
-            "start": "2:45 PM", 
-            "tags": "Mozilla", 
-            "timeblock": "wednesday-elective--wed-2-45---wednesday-14-45-", 
-            "title": "Electives"
         }, 
         {
             "category": "", 
@@ -532,6 +607,37 @@
             "tags": "Leadership Network", 
             "timeblock": "wednesday-afternoon-coffee-break--wednesday-14-30-", 
             "title": "Ravensbourne Field Trip (2pm)"
+        }, 
+        {
+            "category": "", 
+            "day": "Wednesday", 
+            "description": "Several dozens sessions that cover professional development, technology, innovation, team dynamics, and much more. Check out sessions run by our peers in both MoFo and MoCo. \n\nDetails on [Electives in Sched](https://mozillalondonallhands2016.sched.org/overview/type/Elective)", 
+            "facilitator_array": [], 
+            "facilitators": "", 
+            "id": "324", 
+            "location": "Misc", 
+            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-electivesdozensmore", 
+            "start": "2:45 PM", 
+            "tags": "Mozilla", 
+            "timeblock": "wednesday-elective--wed-2-45---wednesday-14-45-", 
+            "title": "Electives (dozens more!)"
+        }, 
+        {
+            "category": "", 
+            "day": "Wednesday", 
+            "description": "", 
+            "facilitator_array": [
+                "Mandy", 
+                "Michael"
+            ], 
+            "facilitators": "Mandy, Michael", 
+            "id": "339", 
+            "location": "Kingfisher", 
+            "notes url": "", 
+            "start": "2:45 PM", 
+            "tags": "Ops", 
+            "timeblock": "wednesday-elective--wed-2-45---wednesday-14-45-", 
+            "title": "HR - ATS work w/ MoCo"
         }, 
         {
             "category": "", 
@@ -578,6 +684,23 @@
             "tags": "Mozilla", 
             "timeblock": "wednesday-elective--wed-2-45---wednesday-14-45-", 
             "title": "Brand Identity Open House (4pm)"
+        }, 
+        {
+            "category": "", 
+            "day": "Wednesday", 
+            "description": "", 
+            "facilitator_array": [
+                "Michael", 
+                "Mandy"
+            ], 
+            "facilitators": "Michael, Mandy", 
+            "id": "340", 
+            "location": "TBD", 
+            "notes url": "", 
+            "start": "10:00 AM", 
+            "tags": "Mozilla", 
+            "timeblock": "wednesday-morning-coffee-break--wednesday-10-00-", 
+            "title": "HR - Manager training mash w/ MoCo (4pm)"
         }, 
         {
             "category": "", 
@@ -876,9 +999,9 @@
             "facilitator_array": [], 
             "facilitators": "", 
             "id": "414", 
-            "location": "Kingfisher", 
+            "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-designingstrategyduplicate", 
-            "tags": "Insights", 
+            "tags": "", 
             "timeblock": "", 
             "title": "Designing 2020 Strategy (duplicate)"
         }, 
@@ -886,8 +1009,11 @@
             "category": "", 
             "day": "Thursday", 
             "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "facilitator_array": [
+                "Michael", 
+                "Mandy"
+            ], 
+            "facilitators": "Michael, Mandy", 
             "id": "415", 
             "location": "Kingfisher", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-hrsessions", 
@@ -978,18 +1104,15 @@
         }, 
         {
             "category": "", 
-            "description": "What is MozFest? How best to share our story, the festival value and attract new attendees.\n\nA session to discuss our comms plan for MozFest 2016 and the value of introducing a Marketing team to the festival. \n\nRequired attendees: Erika, Paul, Kevin", 
-            "facilitator_array": [
-                "Sarah", 
-                "Erika"
-            ], 
-            "facilitators": "Sarah, Erika", 
+            "description": "\n", 
+            "facilitator_array": [], 
+            "facilitators": "", 
             "id": "421", 
             "location": "", 
-            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mozfestcommshidden", 
-            "tags": "MoFo", 
+            "notes url": "", 
+            "tags": "", 
             "timeblock": "", 
-            "title": "MozFest Comms (Hidden)"
+            "title": "Old broken stuff (Hidden)"
         }, 
         {
             "category": "", 
@@ -1090,6 +1213,23 @@
             "category": "", 
             "day": "Thursday", 
             "description": "", 
+            "facilitator_array": [
+                "Angela", 
+                "Abigail"
+            ], 
+            "facilitators": "Angela, Abigail", 
+            "id": "438", 
+            "location": "Kingfisher", 
+            "notes url": "", 
+            "start": "1:00 PM", 
+            "tags": "Ops", 
+            "timeblock": "thursday-team-time--thu-1-00---thursday-13-00-", 
+            "title": "Legal catch-up"
+        }, 
+        {
+            "category": "", 
+            "day": "Thursday", 
+            "description": "", 
             "facilitator_array": [], 
             "facilitators": "", 
             "id": "428", 
@@ -1103,16 +1243,16 @@
         {
             "category": "", 
             "day": "Thursday", 
-            "description": "Choose your own: [Sched](http://mozillalondonallhands2016.sched.org/)", 
+            "description": "Several dozens sessions that cover professional development, technology, innovation, team dynamics, and much more. Check out sessions run by our peers in both MoFo and MoCo. \n\nDetails on [Electives in Sched](https://mozillalondonallhands2016.sched.org/overview/type/Elective)", 
             "facilitator_array": [], 
             "facilitators": "", 
             "id": "429", 
             "location": "Misc", 
-            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-electives", 
+            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-electivesdozensmore", 
             "start": "2:45 PM", 
             "tags": "Mozilla", 
             "timeblock": "thursday-elective-time--thursday-14-45-", 
-            "title": "Electives"
+            "title": "Electives (dozens more!)"
         }, 
         {
             "category": "", 
@@ -1183,6 +1323,23 @@
         {
             "category": "", 
             "day": "Thursday", 
+            "description": "Required attendees: Sarah, Erika, Kevin, Paul", 
+            "facilitator_array": [
+                "Erika", 
+                "Paul"
+            ], 
+            "facilitators": "Erika, Paul", 
+            "id": "437", 
+            "location": "Great Western One", 
+            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mozfestmarketing", 
+            "start": "2:45 PM", 
+            "tags": "MoFo", 
+            "timeblock": "thursday-elective-time--thursday-14-45-", 
+            "title": "MozFest Marketing "
+        }, 
+        {
+            "category": "", 
+            "day": "Thursday", 
             "description": "", 
             "facilitator_array": [], 
             "facilitators": "", 
@@ -1198,8 +1355,10 @@
             "category": "", 
             "day": "Thursday", 
             "description": "By the time we hit London, we'll have a solid draft of our 2020 Strategy (v 1.0) - but to bring our vision to life, we need strong design. We'd like to start brainstorming about how we can make our strategy beautifully and compelling through design. How do we make our plan something we'd be able to explain in a poster that we'd be proud to frame?\n\nRequired attendees: Sam B, Matthew, Kevin, Jordan, Paul\n\nOptional attendees: Lotta, Kristina, Luke, Sabrina, Natalie", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "facilitator_array": [
+                "Sam B"
+            ], 
+            "facilitators": "Sam B", 
             "id": "435", 
             "location": "Kingfisher", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-strategicplanvisualdesignforversion", 
@@ -1304,15 +1463,35 @@
             "category": "", 
             "day": "Friday", 
             "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
-            "id": "506", 
-            "location": "Hilton London Paddington", 
-            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-coffee", 
-            "start": "10:00 AM", 
-            "tags": "Food & Social", 
-            "timeblock": "friday-morning-coffee-break--friday-10-00-", 
-            "title": "Coffee"
+            "facilitator_array": [
+                "Michael", 
+                "Mandy"
+            ], 
+            "facilitators": "Michael, Mandy", 
+            "id": "523", 
+            "location": "Kingfisher", 
+            "notes url": "", 
+            "start": "9:00 AM", 
+            "tags": "MoFo", 
+            "timeblock": "friday-team-time--fri-9-00---friday-09-00-", 
+            "title": "HR Drop-in Time (open to all)"
+        }, 
+        {
+            "category": "", 
+            "day": "Friday", 
+            "description": "", 
+            "facilitator_array": [
+                "Bobby", 
+                "Laura"
+            ], 
+            "facilitators": "Bobby, Laura", 
+            "id": "524", 
+            "location": "Kingfisher", 
+            "notes url": "", 
+            "start": "9:00 AM", 
+            "tags": "MoFo", 
+            "timeblock": "friday-team-time--fri-9-00---friday-09-00-", 
+            "title": "DSO Cash Advances & Reimbursement Claims: Best Practices"
         }, 
         {
             "category": "", 
@@ -1385,6 +1564,22 @@
         {
             "category": "", 
             "day": "Friday", 
+            "description": "", 
+            "facilitator_array": [
+                "Pamela"
+            ], 
+            "facilitators": "Pamela", 
+            "id": "525", 
+            "location": "Kingfisher", 
+            "notes url": "", 
+            "start": "10:30 AM", 
+            "tags": "MoFo", 
+            "timeblock": "friday-team-time--fri-10-30---friday-10-30-", 
+            "title": "Fellowship financial processes & reporting session"
+        }, 
+        {
+            "category": "", 
+            "day": "Friday", 
             "description": "This session will dig into the relationship between metrics and convenings for the remainder of 2016, digging into how convenings map to increased activity + engagement from communities, strategy for data collection and participant analysis, and ultimately retention. \n\nRequired attendees: Erika, Sarah, Aurelia\n\nOptional attendees: Jenn, Hana, Kenyatta, Sam B, Simon, Kaitlin, Lainie", 
             "facilitator_array": [
                 "Arliss"
@@ -1392,11 +1587,11 @@
             "facilitators": "Arliss", 
             "id": "511", 
             "location": "Great Western One", 
-            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnmetricsconveningsstart", 
-            "start": "10:30 AM", 
+            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-mlnmetricsconvenings", 
+            "start": "11:30 AM", 
             "tags": "Leadership Network", 
-            "timeblock": "friday-team-time--fri-10-30---friday-10-30-", 
-            "title": "MLN Metrics + Convenings (11:30 start)"
+            "timeblock": "friday-team-time--fri-11-30---friday-11-30-", 
+            "title": "MLN Metrics + Convenings"
         }, 
         {
             "category": "", 
@@ -1422,11 +1617,11 @@
             "facilitators": "Kevin", 
             "id": "513", 
             "location": "Kingfisher", 
-            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-commscouncilpm", 
+            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-commscouncilpmstart", 
             "start": "12:30 PM", 
             "tags": "MoFo", 
             "timeblock": "friday-lunch--friday-12-30-", 
-            "title": "Comms Council (1pm)"
+            "title": "Comms Council (1pm start)"
         }, 
         {
             "category": "", 
@@ -1487,7 +1682,7 @@
             "id": "517", 
             "location": "", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-storyenginedeepdivecanceled", 
-            "tags": "MoFo", 
+            "tags": "", 
             "timeblock": "", 
             "title": "Story Engine Deep-Dive (canceled)"
         }, 
@@ -1554,7 +1749,7 @@
             "facilitator_array": [], 
             "facilitators": "", 
             "id": "522", 
-            "location": "", 
+            "location": "The Brewery", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-closingpartyanddinner", 
             "start": "7:00 PM", 
             "tags": "Food & Social", 
@@ -1803,43 +1998,50 @@
         }, 
         {
             "day": "Friday", 
-            "key": "friday-lunch--friday-12-30-", 
+            "key": "friday-team-time--fri-11-30---friday-11-30-", 
             "order": 35, 
+            "start time": "11:30 ", 
+            "timeblock name": "Team Time (Fri 11:30)"
+        }, 
+        {
+            "day": "Friday", 
+            "key": "friday-lunch--friday-12-30-", 
+            "order": 36, 
             "start time": "12:30 ", 
             "timeblock name": "Lunch"
         }, 
         {
             "day": "Friday", 
             "key": "friday-team-time--fri-1-30---friday-13-30-", 
-            "order": 36, 
+            "order": 37, 
             "start time": "13:30", 
             "timeblock name": "Team Time (Fri 1:30)"
         }, 
         {
             "day": "Friday", 
             "key": "friday-afternoon-coffee-break--friday-14-30-", 
-            "order": 37, 
+            "order": 38, 
             "start time": "14:30 ", 
             "timeblock name": "Afternoon Coffee Break"
         }, 
         {
             "day": "Friday", 
             "key": "friday-mofo-all-hands--friday-14-45-", 
-            "order": 38, 
+            "order": 39, 
             "start time": "14:45 ", 
             "timeblock name": "MoFo All-hands"
         }, 
         {
             "day": "Friday", 
             "key": "friday-free-time--friday-18-00-", 
-            "order": 39, 
+            "order": 40, 
             "start time": "18:00 ", 
             "timeblock name": "Free Time"
         }, 
         {
             "day": "Friday", 
             "key": "friday-closing-party-and-dinner--friday-19-00-", 
-            "order": 40, 
+            "order": 41, 
             "start time": "19:00 ", 
             "timeblock name": "Closing Party and Dinner"
         }
