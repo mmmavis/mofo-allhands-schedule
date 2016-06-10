@@ -404,29 +404,35 @@
             "category": "", 
             "day": "Wednesday", 
             "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "facilitator_array": [
+                "Michael", 
+                "Mandy"
+            ], 
+            "facilitators": "Michael, Mandy", 
             "id": "335", 
             "location": "Kingfisher", 
             "notes url": "", 
             "start": "10:30 AM", 
             "tags": "Ops", 
             "timeblock": "wednesday-team-time--wed-10-30---wednesday-10-30-", 
-            "title": "HR Deepdive - [Mandy & Michael]"
+            "title": "HR Deepdive"
         }, 
         {
             "category": "", 
             "day": "Wednesday", 
-            "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "description": "Note: this starts at 11am.", 
+            "facilitator_array": [
+                "Angela", 
+                "Lotta"
+            ], 
+            "facilitators": "Angela, Lotta", 
             "id": "336", 
             "location": "Kingfisher", 
             "notes url": "", 
             "start": "10:30 AM", 
             "tags": "Ops", 
             "timeblock": "wednesday-team-time--wed-10-30---wednesday-10-30-", 
-            "title": "Internal comms audit (11am) [Angela + Lotta]"
+            "title": "Internal comms audit (11am)"
         }, 
         {
             "category": "", 
@@ -568,15 +574,18 @@
             "category": "", 
             "day": "Wednesday", 
             "description": "", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "facilitator_array": [
+                "Alex", 
+                "Ruzanna"
+            ], 
+            "facilitators": "Alex, Ruzanna", 
             "id": "338", 
             "location": "Kingfisher", 
             "notes url": "", 
             "start": "1:00 PM", 
             "tags": "Ops", 
             "timeblock": "wednesday-team-time--wed-1-00---wednesday-13-00-", 
-            "title": "Forecasting H2 financials continued (Alex + Ruzanna)"
+            "title": "Forecasting H2 financials"
         }, 
         {
             "category": "", 
@@ -688,7 +697,7 @@
         {
             "category": "", 
             "day": "Wednesday", 
-            "description": "", 
+            "description": "Note: this starts at 4pm", 
             "facilitator_array": [
                 "Michael", 
                 "Mandy"
@@ -885,15 +894,18 @@
             "category": "", 
             "day": "Thursday", 
             "description": "Goal setting\n\nRequired attendees: Alex, Ruzanna", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "facilitator_array": [
+                "Alex", 
+                "Ruzanna"
+            ], 
+            "facilitators": "Alex, Ruzanna", 
             "id": "407", 
             "location": "Kingfisher", 
-            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-goalsettingalexruzanna", 
+            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-goalsetting", 
             "start": "9:00 AM", 
             "tags": "Ops", 
             "timeblock": "thursday-team-time--thu-9-00---thursday-09-00-", 
-            "title": "Goal-setting (Alex + Ruzanna)"
+            "title": "Goal-setting"
         }, 
         {
             "category": "", 
@@ -1134,15 +1146,18 @@
             "category": "", 
             "day": "Thursday", 
             "description": "HR internal comms chat \n\nRequied attendees: Michael, Lotta", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "facilitator_array": [
+                "Michael", 
+                "Lotta"
+            ], 
+            "facilitators": "Michael, Lotta", 
             "id": "423", 
             "location": "Kingfisher", 
-            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-hrinternalcommschatmichaellotta", 
+            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-hrinternalcommschat", 
             "start": "1:00 PM", 
             "tags": "Ops", 
             "timeblock": "thursday-team-time--thu-1-00---thursday-13-00-", 
-            "title": "HR internal comms chat (Michael + Lotta)"
+            "title": "HR internal comms chat"
         }, 
         {
             "category": "", 
@@ -1199,15 +1214,17 @@
             "category": "", 
             "day": "Thursday", 
             "description": "Review H2 Goals\n\nRequired attendees: Pamela, Alex, Ruzanna", 
-            "facilitator_array": [], 
-            "facilitators": "", 
+            "facilitator_array": [
+                "Pamela"
+            ], 
+            "facilitators": "Pamela", 
             "id": "427", 
             "location": "Kingfisher", 
-            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-reviewhgoalspamelaalexruzanna", 
+            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-reviewhgoals", 
             "start": "1:00 PM", 
             "tags": "Ops", 
             "timeblock": "thursday-team-time--thu-1-00---thursday-13-00-", 
-            "title": "Review H2 Goals (Pamela, Alex, Ruzanna)"
+            "title": "Review H2 Goals"
         }, 
         {
             "category": "", 
