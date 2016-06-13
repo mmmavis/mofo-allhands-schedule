@@ -53,9 +53,9 @@
             "id": "202", 
             "location": "King's Suite, Metropole West Wing", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-plenary", 
-            "start": "9:00 AM", 
+            "start": "9:30 AM", 
             "tags": "Mozilla", 
-            "timeblock": "tuesday-plenary--tuesday-09-00-", 
+            "timeblock": "tuesday-plenary--tuesday-09-30-", 
             "title": "Plenary"
         }, 
         {
@@ -1798,9 +1798,9 @@
         }, 
         {
             "day": "Tuesday", 
-            "key": "tuesday-plenary--tuesday-09-00-", 
+            "key": "tuesday-plenary--tuesday-09-30-", 
             "order": 4, 
-            "start time": "09:00 ", 
+            "start time": "09:30 ", 
             "timeblock name": "Plenary"
         }, 
         {
