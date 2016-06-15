@@ -788,7 +788,7 @@
             "facilitators": "Robert, Julia", 
             "id": "333", 
             "location": "TBD", 
-            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-exploringinternetenabledevicesforlearning", 
+            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-internetenabledevicesforlearning", 
             "start": "2:45 PM", 
             "tags": "Mozilla", 
             "timeblock": "wednesday-elective--wed-2-45---wednesday-14-45-", 
@@ -983,10 +983,10 @@
             "id": "412", 
             "location": "Great Western One", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-openleadershipcurriculumpm", 
-            "start": "2:30 PM", 
+            "start": "10:30 AM", 
             "tags": "Leadership Network", 
-            "timeblock": "thursday-afternoon-coffee-break--thursday-14-30-", 
-            "title": "Open Leadership Curriculum (2pm)"
+            "timeblock": "thursday-team-time--thu-10-30---thursday-10-30-", 
+            "title": "Open Leadership Curriculum (10:30pm)"
         }, 
         {
             "category": "", 
@@ -1204,11 +1204,11 @@
             "facilitators": "Chad, Zannah", 
             "id": "426", 
             "location": "Great Western One", 
-            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-leadershipcurriculumvideobooth", 
+            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-leadershipcurriculumvideoboothpm", 
             "start": "1:00 PM", 
             "tags": "Leadership Network", 
             "timeblock": "thursday-team-time--thu-1-00---thursday-13-00-", 
-            "title": "Leadership Curriculum Video Booth"
+            "title": "Leadership Curriculum Video Booth (2pm)"
         }, 
         {
             "category": "", 
@@ -1428,7 +1428,7 @@
             "start": "9:00 AM", 
             "tags": "Leadership Network", 
             "timeblock": "friday-team-time--fri-9-00---friday-09-00-", 
-            "title": "MLN Production Process conversation"
+            "title": "MLN Production Process conversation (9:30)"
         }, 
         {
             "category": "", 
@@ -1444,7 +1444,7 @@
             "start": "9:00 AM", 
             "tags": "Leadership Network", 
             "timeblock": "friday-team-time--fri-9-00---friday-09-00-", 
-            "title": "Learning Hub H2 Planning #2"
+            "title": "Learning Hub H2 Planning #2 (9:30)"
         }, 
         {
             "category": "", 
@@ -1460,7 +1460,7 @@
             "start": "9:00 AM", 
             "tags": "Leadership Network", 
             "timeblock": "friday-team-time--fri-9-00---friday-09-00-", 
-            "title": "Science H2 Planning #2"
+            "title": "Science H2 Planning #2 (9:30)"
         }, 
         {
             "category": "", 
