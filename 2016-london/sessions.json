@@ -272,7 +272,7 @@
             "facilitators": "Angela", 
             "id": "341", 
             "location": "Kingfisher", 
-            "notes url": "", 
+            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-operationsteamhretrospective", 
             "start": "9:00 AM", 
             "tags": "Ops", 
             "timeblock": "wednesday-team-time--wed-9-00---wednesday-09-00-", 
@@ -909,7 +909,7 @@
         }, 
         {
             "category": "", 
-            "day": "Thursday", 
+            "day": "Friday", 
             "description": "Required attendees: Andrea, Brett, Damian, Jordan, Kevin, Maryam, Natalie, Paul, Sara, Scott, Stephanie\n\nOptional attendees: Simon", 
             "facilitator_array": [
                 "Andrea"
@@ -919,8 +919,8 @@
             "location": "Kingfisher", 
             "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-fundraising", 
             "start": "9:00 AM", 
-            "tags": "MoFo", 
-            "timeblock": "thursday-team-time--thu-9-00---thursday-09-00-", 
+            "tags": "Advocacy", 
+            "timeblock": "friday-team-time--fri-9-00---friday-09-00-", 
             "title": "Fundraising"
         }, 
         {
@@ -936,6 +936,20 @@
             "tags": "Food & Social", 
             "timeblock": "thursday-morning-coffee-break--thursday-10-00-", 
             "title": "Coffee"
+        }, 
+        {
+            "category": "", 
+            "day": "Thursday", 
+            "description": "Media team time, conversations, etc.", 
+            "facilitator_array": [], 
+            "facilitators": "", 
+            "id": "439", 
+            "location": "King George V", 
+            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-advocacyteamtime", 
+            "start": "2:45 PM", 
+            "tags": "Advocacy", 
+            "timeblock": "thursday-elective-time--thursday-14-45-", 
+            "title": "Advocacy team time"
         }, 
         {
             "category": "", 
@@ -1513,6 +1527,34 @@
         {
             "category": "", 
             "day": "Friday", 
+            "description": "", 
+            "facilitator_array": [], 
+            "facilitators": "", 
+            "id": "506", 
+            "location": "Hilton London Paddington", 
+            "notes url": "https://public.etherpad-mozilla.org/p/mofolondon-coffee", 
+            "start": "10:00 AM", 
+            "tags": "Food & Social", 
+            "timeblock": "friday-morning-coffee-break--friday-10-00-", 
+            "title": "Coffee"
+        }, 
+        {
+            "category": "", 
+            "day": "Friday", 
+            "description": "", 
+            "facilitator_array": [], 
+            "facilitators": "", 
+            "id": "526", 
+            "location": "King George V", 
+            "notes url": "", 
+            "start": "10:00 AM", 
+            "tags": "Advocacy", 
+            "timeblock": "friday-morning-coffee-break--friday-10-00-", 
+            "title": "Advocacy Q2 Review"
+        }, 
+        {
+            "category": "", 
+            "day": "Friday", 
             "description": "Required attendees: Matthew, Jordan, Sabrina, Kristina, Natalie, Luke", 
             "facilitator_array": [
                 "Matthew", 
@@ -1597,6 +1639,20 @@
         {
             "category": "", 
             "day": "Friday", 
+            "description": "", 
+            "facilitator_array": [], 
+            "facilitators": "", 
+            "id": "527", 
+            "location": "King George V", 
+            "notes url": "", 
+            "start": "10:30 AM", 
+            "tags": "Advocacy", 
+            "timeblock": "friday-team-time--fri-10-30---friday-10-30-", 
+            "title": "Advoacy and Mozfest (11am)"
+        }, 
+        {
+            "category": "", 
+            "day": "Friday", 
             "description": "This session will dig into the relationship between metrics and convenings for the remainder of 2016, digging into how convenings map to increased activity + engagement from communities, strategy for data collection and participant analysis, and ultimately retention. \n\nRequired attendees: Erika, Sarah, Aurelia\n\nOptional attendees: Jenn, Hana, Kenyatta, Sam B, Simon, Kaitlin, Lainie", 
             "facilitator_array": [
                 "Arliss"
@@ -1639,6 +1695,20 @@
             "tags": "MoFo", 
             "timeblock": "friday-lunch--friday-12-30-", 
             "title": "Comms Council (1pm start)"
+        }, 
+        {
+            "category": "", 
+            "day": "Friday", 
+            "description": "How we create briefs", 
+            "facilitator_array": [], 
+            "facilitators": "", 
+            "id": "528", 
+            "location": "King George V", 
+            "notes url": "", 
+            "start": "12:30 PM", 
+            "tags": "Advocacy", 
+            "timeblock": "friday-lunch--friday-12-30-", 
+            "title": "Advoacy Briefs (1pm start)"
         }, 
         {
             "category": "", 
