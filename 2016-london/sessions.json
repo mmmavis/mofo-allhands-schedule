@@ -1429,6 +1429,20 @@
         {
             "category": "", 
             "day": "Friday", 
+            "description": "", 
+            "facilitator_array": [], 
+            "facilitators": "", 
+            "id": "529", 
+            "location": "Great Western One", 
+            "notes url": "", 
+            "start": "9:00 AM", 
+            "tags": "Leadership Network", 
+            "timeblock": "friday-team-time--fri-9-00---friday-09-00-", 
+            "title": "All MLN Team Huddle"
+        }, 
+        {
+            "category": "", 
+            "day": "Friday", 
             "description": "Big team retrospective on the heartbeat process. Identify process experiments we want to try this fall. \n\nRequired attendees: Ali, Alan, Gideon, Mavis, Sabrina, Pomax, Gavin, Kristina, Luke, Abby, Chris", 
             "facilitator_array": [
                 "Simon", 
