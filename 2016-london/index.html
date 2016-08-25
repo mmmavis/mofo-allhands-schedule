@@ -30,7 +30,13 @@
           <div class="logo">
             <img src="mozilla_wordmark.png" width="150" />
           </div>
-          <div id="page-links"></div>
+          <div id="nav-links">
+            <div id="page-links"></div>
+            <a id="search" data-tab="search">
+              <i class="fa fa-search search-icon"></i>
+              <div class="search-cancel">Cancel</div>
+            </a>
+          </div>
         </div>
       </nav>
     </header>
@@ -227,8 +233,7 @@
           { name: 'Tuesday', displayName: 'Tue', tabDate: new Date(2016,5,14) },
           { name: 'Wednesday', displayName: 'Wed', tabDate: new Date(2016,5,15) },
           { name: 'Thursday', displayName: 'Thu', tabDate: new Date(2016,5,16) },
-          { name: 'Friday', displayName: 'Fri', tabDate: new Date(2016,5,17) },
-          { name: 'All', displayName: '<i class="fa fa-search"></i>' }
+          { name: 'Friday', displayName: 'Fri', tabDate: new Date(2016,5,17) }
         ],
         // optional 
         additionalNavItems: [
