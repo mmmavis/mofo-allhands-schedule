@@ -15,9 +15,9 @@ nav {
   background: #D82125;
 }
 
-.schedule-tab h3 span, 
+.timeblock-header span, 
 .page-caption h3 span,
-.schedule-tab h3 .fa,
+.timeblock-header .fa,
 a.page-control {
   background: #fff;
   color: #000;
@@ -39,7 +39,7 @@ h2 {
   color: #FFE865;
 }
 
-.schedule-tab h3::before, 
+.timeblock-header::before, 
 .page-caption h3::before {
   border-color: #000;
 }
