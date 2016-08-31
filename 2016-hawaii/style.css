@@ -60,7 +60,6 @@ h2 {
 .session-list-item, 
 .open-block, 
 .tag-list-item,
-.session-detail .meta,
 .category-list-item:nth-child(2n+1) {
   background: #CCD7BE;
 }
