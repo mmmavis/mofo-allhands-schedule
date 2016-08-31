@@ -31,12 +31,15 @@ h2 {
   color: #FF4E50; 
 }
 
-#page-links a {
-  color: #fff;
+#nav-links a {
+  color: #ADADB1;
 }
 
-#page-links a.active {
-  color: #FFE865;
+.day-view #schedule-page-link, 
+#nav-links a:hover, 
+#nav-links a:active,
+#nav-links a.active {
+  color: #FEE97C;
 }
 
 .timeblock-header::before, 
